@@ -55,7 +55,8 @@ class SolutionsController extends Controller
         return view('pages.solutions.informationMan', compact(
             'heroData',
             'sections',
-            'otherSolutions'
+            'otherSolutions',
+            'solutionsTab'
         ));
     }
 
@@ -64,13 +65,16 @@ class SolutionsController extends Controller
 
         $heroData = arrayToObject(config('content.solutions.enterpriseRes.hero'));
 
-        $sections = arrayToObject(config('content.solutions.enterpriseRes.sections'));
+        $sections = arrayToObject(config('content.solutions.informationMan.sections'));
+        $solutionsTab = arrayToObject(config('content.solutions.informationMan.tabs'));
+
         $otherSolutions = arrayToObject(config('content.solutions.other-solutions'));
 
         return view('pages.solutions.enterpriseRes', compact(
             'heroData',
             'sections',
-            'otherSolutions'
+            'otherSolutions',
+            'solutionsTab'
         ));
     }
 }
