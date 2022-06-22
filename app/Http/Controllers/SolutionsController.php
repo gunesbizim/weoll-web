@@ -48,6 +48,8 @@ class SolutionsController extends Controller
         $heroData = arrayToObject(config('content.solutions.informationMan.hero'));
 
         $sections = arrayToObject(config('content.solutions.informationMan.sections'));
+        $solutionsTab = arrayToObject(config('content.solutions.informationMan.tabs'));
+
         $otherSolutions = arrayToObject(config('content.solutions.other-solutions'));
 
         return view('pages.solutions.informationMan', compact(
