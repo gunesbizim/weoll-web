@@ -7,7 +7,7 @@
         </div>
         <div class="spacer-80"></div>
         <div class="col-md-12">
-            <div class="tab-selector">
+            <div class="">
                 @foreach ($homeBlogData->tabs as $tab)
                     <div class="tab-title {{ $loop->first ? 'selected' : '' }}" data-id="{{ $loop->index }}">
                         <p>{{ $tab->title }}</p>

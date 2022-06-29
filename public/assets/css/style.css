@@ -2,13 +2,14 @@
     --weollPurple: #71005d;
     --regular: 400;
     --medium: 500;
-    --f55: 3.4375em;
-    --f32: 2em;
-    --f24: 1.5em;
-    --f14: 0.875em;
-    --f13: 0.8125em;
-    --f12: 0.75em;
-    --f10: 0.625em;
+    --f55: 3.4375rem;
+    --f32: 2rem;
+    --f24: 1.5rem;
+    --f18: 1.125rem;
+    --f14: 0.875rem;
+    --f13: 0.8125rem;
+    --f12: 0.75rem;
+    --f10: 0.625rem;
     --lightBlue: #0da1ec;
     --gray: #cdccd6;
     --lightGray: #dee2e6;
@@ -52,14 +53,14 @@ header.is-sticky {
 html,
 body {
     overflow-x: hidden;
+    font-size: 16px !important;
+
 }
 
 body {
     width: 100%;
-    font-size: 16px !important;
     background: #fff;
     font-family: 'Raleway', sans-serif;
-    ;
 }
 
 h1,
@@ -438,12 +439,20 @@ p.content-subtitle {
     margin-right: 8px;
 }
 
+.spacer-230 {
+    height: 230px;
+}
+
 .spacer-110 {
     height: 110px;
 }
 
 .spacer-80 {
     height: 80px;
+}
+
+.spacer-60 {
+    height: 60px;
 }
 
 .reversed {
@@ -588,15 +597,23 @@ footer .row .col-md-4 {
     display: flex;
 }
 
+footer h4,
 footer h4 a {
-    color: #fff;
     font-size: var(--f14);
+    color: #fff;
+    line-height: 1;
 }
 
+/* footer h4 a {
+    color: #fff;
+    font-size: var(--f12) !important;
+} */
+
 footer a {
-    font-size: var(--f10);
+    font-size: var(--f12);
     color: var(--gray);
     margin: 4px 0;
+    line-height: 1;
 }
 
 .footer-logo {
@@ -713,3 +730,241 @@ footer a {
     transition: 0.25s all linear;
 
 }
+
+.discover-weoll-bg {
+    background-image: url('/assets/img/discover-weoll/discover-weoll-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container.discover-weoll-bg.fullwidth {
+    max-width: 100% !important;
+}
+
+.discover-weoll-bg h1 {
+    font-size: var(--f55);
+    color: var(--weollPurple);
+    text-transform: uppercase;
+}
+
+.discover-weoll-bg p {
+    max-width: 588px;
+    text-align: center;
+    color: var(--darkGray);
+    font-size: var(--f14);
+}
+
+.tab-cont-container.visible.m-12 {
+    margin: 12px 0;
+}
+
+.border-r-5 {
+    border-radius: 5px;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.video {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+}
+
+.success-hero-info {
+    font-size: var(--f14);
+    line-height: 16px;
+    color: var(--darkGray);
+    text-align: center;
+    max-width: 540px;
+    margin-top: 30px;
+}
+
+.success-hero-owner {
+    font-size: var(--f14);
+    color: var(--darkGray);
+    font-weight: 600;
+    margin: 0;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.max-w-210 {
+    max-width: 210px !important;
+}
+
+.sector-title {
+    font-size: var(--f24);
+    font-weight: 600;
+    color: var(--darkGray);
+    margin: 8px 0;
+}
+
+.sector-info {
+    font-size: var(--f16);
+    font-weight: 600;
+    color: var(--gray);
+}
+
+.h-55 {
+    height: 55%;
+}
+
+.h-45 {
+    height: 45%;
+}
+
+.need-container {
+    padding: 8px;
+    margin: 16px;
+    border: 1px solid var(--lightGray);
+}
+
+.need-container p {
+    margin: 0 0 0 8px;
+    color: var(--semiLightGray);
+    font-size: var(--f16);
+}
+
+.success-logo-cont p {
+    margin: 16px 0;
+    font-size: var(--f13);
+    color: var(--darkGray);
+}
+
+@keyframes growProgressBar {
+
+    0%,
+    33% {
+        --pgPercentage: 0;
+    }
+
+    100% {
+        --pgPercentage: var(--value);
+    }
+}
+
+@property --pgPercentage {
+    syntax: '<number>';
+    inherits: false;
+    initial-value: 0;
+}
+
+.prograss-main-container {
+    padding: 8px;
+    border: 1px solid var(--lightGray);
+    margin: 16px 0
+}
+
+.prograss-main-container p {
+    margin: 0 0 0 8px;
+}
+
+.progress-container {
+    padding: 8px;
+    background-color: var(--iconBg);
+    width: fit-content;
+    border: 1px solid var(--lightGray);
+}
+
+div[role="progressbar"] {
+    --size: 3.656rem;
+    --fg: #0DA1EC;
+    --bg: rgba(13, 161, 236, 0.5);
+    --pgPercentage: var(--value);
+    animation: growProgressBar 3s 1 forwards;
+    width: var(--size);
+    height: var(--size);
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    background:
+        radial-gradient(closest-side, var(--iconBg) 80%, transparent 0 99.9%, white 0),
+        conic-gradient(var(--fg) calc(var(--pgPercentage) * 1%), var(--bg) 0);
+    font-family: 'Raleway', sans-serif;
+    font-size: var(--f14);
+    color: var(--darkGray);
+}
+
+div[role="progressbar"]::before {
+    counter-reset: percentage var(--value);
+    content: counter(percentage) '%';
+}
+
+.mainfeature {
+    background-color: var(--iconBg);
+    border: 1px solid var(--lightGray);
+    border-radius: 5px;
+    padding: 8px;
+    margin: 8px 0!important
+}
+
+.mainfeature p {
+    font-size: var(--f18);
+    color: var(--darkGray);
+    font-weight: 600;
+    padding: 0;
+}
+
+.subfeature {
+    padding: 8px;
+    border: 1px solid var(--lightGray);
+    border-radius: 5px;
+    margin: 8px 0!important
+}
+
+.container.packages p {
+    margin: 0;
+}
+.subfeature .col-md-6{
+    padding: 0 !important;
+}
+.subfeature p{
+    font-size: var(--f14);
+    color: var(--darkGray);
+}
+.package{
+    width: 49% !important;
+    padding:16px;
+    border: 1px solid var(--lightGray);
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
+.package:first-child{
+    margin-right: 2%;
+}
+.package h2{
+    font-size: var(--f32);
+}
+.package p{
+    font-size: var(--f12);
+}
+h2.blue{
+    color:var(--lightBlue);
+}
+h2.purple{
+    color:var(--weollPurple)
+}
+.subfeature.width-fix{
+    width: 50% !important;
+}
+.spacing-fix{
+    margin-right: 2% !important;
+}
+.no-padding{
+    padding: 0 !important;
+}
+/* .subfeature.spacing-fix{
+    margin-right: 2% !important;
+} */

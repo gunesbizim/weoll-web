@@ -6,13 +6,18 @@
                     class="h1gray">{{ $heroData->hero->h1Gray }}</span>
             </h1>
             <p class="hero-p"> {!! $heroData->hero->paragraph !!}</p>
-            <a class="secondary-cta play" href="">{{ $heroData->hero->ctaText }}
-            </a>
+            {{-- @dd($heroData) --}}
+            @if (isset($heroData->hero->hideCta) && $heroData->hero->hideCta)
+                {{-- <a class="secondary-cta play" href="">{{ $heroData->hero->ctaText }} </a> --}}
+            @else
+                <a class="secondary-cta play" href="">{{ $heroData->hero->ctaText }} </a>
+            @endif
+
 
         </div>
         <div class="col-md-6 col-xs-12 d-flex flex-h-center">
-            <img class="full-size" src="/assets/img/{{ $heroData->hero->img }}">
+            <img class="{{ $heroData->hero->imgSize === 'fullsize' ? 'full-size' : '' }}"
+                src="/assets/img/{{ $heroData->hero->img }}">
         </div>
-
     </div>
 </div>

@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 
 class HomeController extends Controller
 {
@@ -25,6 +24,42 @@ class HomeController extends Controller
             'icons',
             'testimonials',
             'customerLogos',
+        ));
+    }
+    public function showDiscoverWeoll()
+    {
+        $discoverHero = arrayToObject(config('content.discoverWeoll.discover-hero'));
+        $discoverWeollBoxes = arrayToObject(config('content.discoverWeoll.cont-boxes'));
+        $sections = arrayToObject(config('content.discoverWeoll.sections'));
+        $possibleTabs = arrayToObject(config('content.discoverWeoll.possibleTabs'));
+        return view('pages.discover-weoll', compact(
+            'discoverHero',
+            'discoverWeollBoxes',
+            'sections',
+            'possibleTabs'
+        ));
+    }
+
+    public function showWhoWeAre()
+    {
+        $heroData = arrayToObject(config('content.whoWeAre.hero'));
+        $sections = arrayToObject(config('content.whoWeAre.sections-1'));
+        $sectionsAfter = arrayToObject(config('content.whoWeAre.sections-2'));
+        $video = arrayToObject(config('content.whoWeAre.video'));
+        return view('pages.who-we-are', compact(
+            'heroData',
+            'sections',
+            'sectionsAfter',
+            'video'
+        ));
+    }
+
+    public function showPackages()
+    {
+        $packages = arrayToObject(config('content.packages'));
+        //dd($packages);
+        return view('pages.packages', compact(
+            'packages'
         ));
     }
 }

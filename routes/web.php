@@ -1,5 +1,6 @@
 <?php
 
+//use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -48,7 +49,7 @@ Route::controller(EntegrationsController::class)->prefix('entegrations')->group(
     Route::get('/office-365', 'showOffice')->name('office-365');
 });
 
-Route::controller(DiscoverController::class)->prefix('discover-weoll')->group(function () {
+Route::controller(SuccessController::class)->prefix('success-stories')->group(function () {
     Route::get('/toyzz-shop', 'showToyzzShop')->name('toyzz-shop');
     Route::get('/ascelik', 'showAscelik')->name('ascelik');
 });

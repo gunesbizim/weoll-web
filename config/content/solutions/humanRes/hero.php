@@ -10,5 +10,7 @@ return [
             kurumsal portalınızı ihtiyaçlarınıza göre kişiselleştirebilirsiniz.",
         "ctaText" => "Diğer Süreçleri Keşfet",
         "img" => "placeholder-1.png",
+        "imgSize" => "fullsize"
+
     ]
 ];

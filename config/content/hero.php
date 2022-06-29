@@ -8,5 +8,6 @@ return [
             ve verimliliğini artırmanıza olanak tanıyoruz.",
         "ctaText" => "KEŞFET",
         "img" => "placeholder-1.png",
+        "imgSize" => "fullsize"
     ]
 ];

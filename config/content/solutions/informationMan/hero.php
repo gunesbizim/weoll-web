@@ -12,5 +12,7 @@ SÜREÇLERİ",
             çözümüyle rahatlıkla bulmalarına imkan tanıyabilirsiniz.",
         "ctaText" => "Ücretsiz Deneyin",
         "img" => "placeholder-1.png",
+        "imgSize" => "fullsize"
+
     ]
 ];
