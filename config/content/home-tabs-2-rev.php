@@ -5,18 +5,32 @@ return [
     "sectionSubTitle" => "Her zaman yakınınızda, süreçlerinizle ilgili danışabileceğiniz kurum içi bir iş ortağı gibi çalışıyor, organizasyonunuzla bütünlük kuruyoruz. Ölçeklenebilir ve uzun vadeli kazanç sağlayabilmeniz için uzman insan kaynağı ve lisans maliyetinden tasarruf etmenize olanak tanıyoruz.",
     "tabs" => [
         [
-            "title" => "No-Code Platform",
-            "subtitle" => "Uzmanlık ve yazılım bilgisi gerektiren, koşullara bağlı komplike iş 
-                akışlarınızı basitleştiriyoruz.",
+            "title" => "Donanım Gerektirmez",
+            "subtitle" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "img" => "placeholder-1.png",
-            "icon" => "2.svg"
+            "icon" => "donanim-gerektirmez.svg"
         ],
         [
-            "title" => "Sürükle Bırak",
-            "subtitle" => "Uzmanlık ve yazılım bilgisi gerektiren, koşullara bağlı komplike iş 
-                akışlarınızı basitleştiriyoruz.",
+            "title" => "%100 Özelleştirilebilir",
+            "subtitle" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "img" => "placeholder-1.png",
-            "icon" => "3.svg"
+            "icon" => "ozellestirilebilir.svg"
+        ],
+        [
+            "title" => "Hızlı Entegrasyon (SaaS)",
+            "subtitle" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "img" => "placeholder-1.png",
+            "icon" => "hizli-entegrasyon.svg"
+        ],
+        [
+            "title" => "Gelişmiş Yetkilendirme",
+            "subtitle" => "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "img" => "placeholder-1.png",
+            "icon" => "gelismis-yetkilendirme.svg"
         ],
     ],
 

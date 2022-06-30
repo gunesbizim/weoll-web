@@ -2,46 +2,38 @@
 
 return [
     [
-        "title" => "Çalışan Dönüşüm Oranını Düşürebilirsiniz",
-        "text" => "Şirketinizle birlikte çalışma kültürü oluşturabilir,
-            bu kültürü zenginleştirmenizi sağlayacak hazır
-            çözümlerle çalışan bağlılığını artırabilirsiniz.",
-        "img" => "solutions/section1.svg",
+        "title" => "Performans Değerlendirme
+        Süreçlerinizi Geliştirebilirsiniz",
+        "text" => "Dokümanlarınızı onay sürecinin sonunda versiyonlarıyla
+        birlikte yayınlayabilir, “okuma görevi” olarak ilgili gruplara
+        gönderebilirsiniz.
+        
+        Performans değerlendirmeye katkı sağlayacak çıktıları
+        raporlama araçlarıyla takip edebilirsiniz.",
+        "img" => "solutions/performans-degerlendirme-surecleri.svg",
         "reversed" => true
     ],
     [
-        "title" => "Çalışanlarınızın Öğrenme 
-            Deneyimini İyileştirebilirsiniz",
-        "text" => "E- Öğrenme araçlarından daha fazla yararlanabilir,
-            dijital dönüşümün getirdiği teknolojik değişikliklerle
-            harika bir çalışan deneyimi yaratabilirsiniz.",
-        "img" => "solutions/section2.svg",
+        "title" => "Kullanımı Kolay Bir
+        Kurumsal
+        Portal Edinebilirsiniz",
+        "text" => "Kodlama ya da eğitim gerekmeden, başka bir
+        ekibin desteğine ihtiyaç duymadan, herkesin
+        kurumsal portalı kullanmasını sağlayabilirsiniz.",
+        "img" => "solutions/kullanimi-kolay-portal.svg",
         "reversed" => false
 
     ],
     [
-        "title" => "Departmanlar Arası
-            Bağımlılığı Azaltabilirsiniz",
-        "text" => "Her departmana yetki vererek kurumsal portal
-            çatısı altında ihtiyaç duydukları çalışmaları başka
-            bir ekibin desteğini almaksızın yapmalarını
-            sağlayabilirsiniz.",
-        "img" => "solutions/section3.svg",
+        "title" => "Kodlama İhtiyacını
+        Ortadan Kaldırabilirsiniz",
+        "text" => "Esnek yazılım özellikleri sayesinde süreç
+        ihtiyaçlarınızı platformu kullanırken keşfedebilir,
+        “No-code” yapıdaki hazır şablonlar ve iş süreçleri
+        sihirbazı ile BT desteğine ihtiyaç duymadan yeni
+        süreçleri hayata geçirebilirsiniz.",
+        "img" => "solutions/kodlama-ihtiyaci-gerektirmez.svg",
         "reversed" => true
-
-    ],
-    [
-        "title" => "Performans Yönetimini Daha 
-            Verimli Hale Getirebilirsiniz",
-        "text" => "Çalışanlarınızın, işe girdiği andan itibaren
-            tüm sorularının yanıtlarına ve tüm ihtiyaçlarına
-            tek noktadan erişmesini sağlayabilirsiniz.
-            <br>
-            Çalışan ve yöneticilerden anlık geri bildirimler
-            alarak, aralarındaki paylaşım ve etkileşimi
-            artırabilirsiniz.",
-        "img" => "solutions/section4.svg",
-        "reversed" => false
 
     ],
 

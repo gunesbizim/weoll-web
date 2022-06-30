@@ -1,11 +1,11 @@
 <?php
 
 return [
-    "sectionTitle" => "İnsan Kaynakları Süreçleri Modüllerini Keşfedebilirsiniz",
+    "sectionTitle" => "Bilgi Yönetimi Süreçleri Modüllerini Keşfedebilirsiniz",
     "tabs" =>
     [
         [
-            "title" => "Temel İnsan Kaynakları Süreçleri",
+            "title" => "Form ve Onay Süreçleri",
             "img" => "human-res-tab.svg",
             "alt" => "",
             "icons" => [
@@ -47,7 +47,7 @@ return [
             ]
         ],
         [
-            "title" => "Temel İnsan Kaynakları Süreçleri 2",
+            "title" => "Doküman Süreçleri",
             "img" => "human-res-tab.svg",
             "alt" => "",
             "icons" => [
@@ -89,7 +89,7 @@ return [
             ]
         ],
         [
-            "title" => "Temel İnsan Kaynakları Süreçleri",
+            "title" => "Editörler & Sihirbazlar",
             "img" => "human-res-tab.svg",
             "alt" => "",
             "icons" => [
@@ -131,7 +131,7 @@ return [
             ]
         ],
         [
-            "title" => "Temel İnsan Kaynakları Süreçleri",
+            "title" => "Bilgiye Hızlı Ulaşım Süreçleri",
             "img" => "human-res-tab.svg",
             "alt" => "",
             "icons" => [
