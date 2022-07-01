@@ -7,7 +7,7 @@ return [
         "text" => "E-posta üzerinden günler boyunca zahmetli bir
         şekilde alabileceğiniz geri bildirimleri bir kaç
         dakikada alabilirsiniz.
-        
+        </br></br>
         Hazır çözümleri kullanarak 10 dakikada anket
         hazırlayabilir, yayınlayabilir, yanıt toplayabilir
         ve raporlayabilirsiniz.",
@@ -20,7 +20,7 @@ return [
         "text" => "Kurum içi ve dışındaki iletişimi eş zamanlı hale
         getirebilir, kurumsal tanıtım dokümanlarının kurum
         içinde kolayca yaygınlaşmasını sağlayabilirsiniz. 
-        
+        </br></br>
         Kurum dışındaki paydaşlara yaptığınız etkinlikleri,
         basına dağıttığınız bültenleri, yöneticilerinizin
         röportajlarını eş zamanlı olarak kurum içine

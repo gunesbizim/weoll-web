@@ -206,7 +206,9 @@ img {
 img.full-size {
     max-width: 950px;
 }
-
+.solutions-img{
+    max-width: 360px;
+}
 /**Hero Section Start **/
 
 .fullpage {

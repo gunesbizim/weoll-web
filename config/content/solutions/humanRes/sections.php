@@ -36,7 +36,7 @@ return [
         "text" => "Çalışanlarınızın, işe girdiği andan itibaren
             tüm sorularının yanıtlarına ve tüm ihtiyaçlarına
             tek noktadan erişmesini sağlayabilirsiniz.
-            
+            </br></br>
             Çalışan ve yöneticilerden anlık geri bildirimler
             alarak, aralarındaki paylaşım ve etkileşimi
             artırabilirsiniz.",
