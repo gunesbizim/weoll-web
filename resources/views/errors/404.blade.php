@@ -2,8 +2,9 @@
 <html lang="tr">
 
 <head>
+    <title>Aradığınız Sayfa Bulunamadı</title>
     @include('layouts.head')
-    @yield('custom-css')
+
 </head>
 
 <body>
@@ -42,22 +43,18 @@
             <a href="/{{ $cta['url'] }}">{{ $cta['title'] }}</a>
         </div> --}}
     </header>
-    @include('components.contact-icons')
-    @yield('content')
+    <div class="spacer-80"></div>
+    <div class="container fourofour">
+        <div class="row d-flex flex-column flex-v-center flex-h-center">
+            <img src="/assets/img/404.svg" alt="404 Error" class="img404">
+            <a href="/" class="btn404">Ana Sayfa</a>
+        </div>
+    </div>
+    <div class="spacer-110"></div>
 
-    @include('layouts.footer-form')
+    @include('components.contact-icons')
 
     @include('layouts.footer')
-
-    @yield('custom-script')
-
-    @yield('custom-middle-script')
-
-    @yield('custom-last-script')
-
-    @include('layouts.last-scripts')
-
-
 </body>
 
 </html>

@@ -25,6 +25,7 @@
                 <div class="row mainfeature">
                     <p>{{ $packages->mainFeatures->{$mainFeatureId} }}</p>
                 </div>
+
                 @foreach ($arr as $feature)
                     <div class="row no-padding">
                         <div class="col-md-6 subfeature"> {{ $feature->feature }}</div>
@@ -34,13 +35,27 @@
                                 $p2 = '2';
                             @endphp
                             <div class="col-md-6 text-center subfeature width-fix spacing-fix">
-                                {{ $feature->packageAvailibility->{$p1} ? 'check' : 'uncheck' }}</div>
+                                {!! $feature->packageAvailibility->{$p1} ? '<img src="/assets/img/icons/check.svg">' : '<img src="/assets/img/icons/uncheck.svg">' !!}
+                            </div>
                             <div class="col-md-6 text-center subfeature width-fix">
-                                {{ $feature->packageAvailibility->{$p2} ? 'check' : 'uncheck' }}</div>
+                                {!! $feature->packageAvailibility->{$p2} ? '<img src="/assets/img/icons/check-purple.svg">' : '<img src="/assets/img/icons/uncheck.svg">' !!}
+                            </div>
                         </div>
                     </div>
                 @endforeach
             @endforeach
+            <div class="row no-padding">
+                <div class="col-md-6"></div>
+                <div class="col-md-6 d-flex">
+                    <div class="col-md-6 text-center no-padding d-flex spacing-fix"> <a class="package-cta"
+                            href="#">Satın Al</a>
+                    </div>
+                    <div class="col-md-6 text-center no-padding d-flex"> <a class="package-cta" href="#">Teklif Al</a>
+                    </div>
+
+                </div>
+            </div>
         </div>
     </div>
+    <div class="spacer-110"></div>
 @endsection

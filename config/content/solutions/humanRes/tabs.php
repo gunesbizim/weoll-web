@@ -47,7 +47,7 @@ return [
             ]
         ],
         [
-            "title" => "Temel İnsan Kaynakları Süreçleri 2",
+            "title" => "Geri Bildirim Süreçleri",
             "img" => "human-res-tab.svg",
             "alt" => "",
             "icons" => [
@@ -89,7 +89,7 @@ return [
             ]
         ],
         [
-            "title" => "Temel İnsan Kaynakları Süreçleri",
+            "title" => "Form ve Onay Süreçleri",
             "img" => "human-res-tab.svg",
             "alt" => "",
             "icons" => [
@@ -131,7 +131,7 @@ return [
             ]
         ],
         [
-            "title" => "Temel İnsan Kaynakları Süreçleri",
+            "title" => "Editörler / Sihirbazlar",
             "img" => "human-res-tab.svg",
             "alt" => "",
             "icons" => [

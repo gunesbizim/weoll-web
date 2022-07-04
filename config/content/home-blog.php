@@ -15,20 +15,40 @@ return [
                 "Performans Yönetimi",
                 "On-boarding Yönetimi"
             ],
-            "img" => "placeholder-1.png"
+            "img" => "guclu-insan-kaynaklari.png"
         ],
         [
-            "title" => "Güçlü İnsan Kaynakları 2",
-            "subtitle" => "Çalışan verimliliğini, motivasyonunu 
-            ve bağlılığını artırarak çalışan 
-            dönüşüm oranını düşürün2.",
+            "title" => "Etkin İletişim Ağı",
+            "subtitle" => "Google Cloud deneyimiyle tek  platform üzerinden uçtan uca bir iletişim ağı oluşturun.",
             "content" => [
-                "Çalışan Başlılığı2",
-                "Kapsayıcı İletişim ve Çalışma Alanı2",
-                "Performans Yönetimi",
-                "On-boarding Yönetimi"
+                "Çift Yönlü İletişim",
+                "Güvenli Doküman Paylaşımı",
+                "Tutarlı & Eş Zamanlı Pazarlama Çalışmaları ",
+                "360 Derece Geri Bildirim"
             ],
-            "img" => "placeholder-1.png"
+            "img" => "guclu-insan-kaynaklari.png"
+        ],
+        [
+            "title" => "Esnek Organizasyon Yapısı",
+            "subtitle" => "Kurumuzunu zaman, mekan ya da cihazdan bağımsız bir yapıya kavuşturun.",
+            "content" => [
+                "Uzaktan & Hibrit Çalışma",
+                "Bilgiye Hızlı Ulaşım",
+                "Doküman Yönetimi",
+                "Kurumsal Kaynak Rezervasyonu"
+            ],
+            "img" => "guclu-insan-kaynaklari.png"
+        ],
+        [
+            "title" => "Verimlilik ve Üretkenlik",
+            "subtitle" => "Kolaylıkla özelleştirilebilir hazır uygulamalar sayesinde daha akıllı, verimli ve çevik iş süreçleri tasarlayın.",
+            "content" => [
+                "Hazır Uygulamalar",
+                "Süreç Geliştirici Sihirbazlar",
+                "Kullanıcı Dostu Arayüzler",
+                "Kolay Analiz ve Raporlama"
+            ],
+            "img" => "guclu-insan-kaynaklari.png"
         ],
     ],
 

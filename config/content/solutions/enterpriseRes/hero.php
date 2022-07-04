@@ -8,7 +8,7 @@ return [
         "paragraph" => "Weoll’un kurumsal kaynak yönetimi çözümleri ile kurumsal
             kaynaklarınızın kullanımında şeffaflığı ve görünürlüğü
             artırabilirsiniz. 
-
+            <br><br>
             Toplantı odası, araba gibi çalışanlarınızın ihtiyaç duyduğu şirket
             kaynakları arasında gelişmiş sorgulama ve rezervasyon yapmalarını
             sağlayabilir, kişilere yetki atayabilirsiniz.",

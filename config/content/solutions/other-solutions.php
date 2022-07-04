@@ -37,10 +37,15 @@ return [
             rezerve edebilirsiniz.",
         ],
         [
-            "slug" => "",
-            "icon" => "",
-            "title" => "",
-            "info" => "",
+            "slug" => "human-resources-processes",
+            "icon" => "1.svg",
+            "title" => "İnsan Kaynakları Süreçleri",
+            "info" => "Weoll’un insan kaynakları
+            süreçleri çözümleri ile
+            çalışanlarınızın, işe girdiği andan
+            itibaren tüm sorularının yanıtlarına
+            ve tüm ihtiyaçlarına tek noktadan
+            erişmesini sağlayabilirsiniz.",
         ]
     ]
 

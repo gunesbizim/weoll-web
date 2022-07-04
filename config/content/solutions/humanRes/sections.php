@@ -6,7 +6,7 @@ return [
         "text" => "Şirketinizle birlikte çalışma kültürü oluşturabilir,
             bu kültürü zenginleştirmenizi sağlayacak hazır
             çözümlerle çalışan bağlılığını artırabilirsiniz.",
-        "img" => "solutions/section1.svg",
+        "img" => "solutions/calisan-donusum-orani.svg",
         "reversed" => true
     ],
     [
@@ -15,7 +15,7 @@ return [
         "text" => "E- Öğrenme araçlarından daha fazla yararlanabilir,
             dijital dönüşümün getirdiği teknolojik değişikliklerle
             harika bir çalışan deneyimi yaratabilirsiniz.",
-        "img" => "solutions/section2.svg",
+        "img" => "solutions/calisan-ogrenme-deneyimi.svg",
         "reversed" => false
 
     ],
@@ -26,7 +26,7 @@ return [
             çatısı altında ihtiyaç duydukları çalışmaları başka
             bir ekibin desteğini almaksızın yapmalarını
             sağlayabilirsiniz.",
-        "img" => "solutions/section3.svg",
+        "img" => "solutions/departmanlar-arasi-bagimlilik.svg",
         "reversed" => true
 
     ],
@@ -36,11 +36,11 @@ return [
         "text" => "Çalışanlarınızın, işe girdiği andan itibaren
             tüm sorularının yanıtlarına ve tüm ihtiyaçlarına
             tek noktadan erişmesini sağlayabilirsiniz.
-            <br>
+            </br></br>
             Çalışan ve yöneticilerden anlık geri bildirimler
             alarak, aralarındaki paylaşım ve etkileşimi
             artırabilirsiniz.",
-        "img" => "solutions/section4.svg",
+        "img" => "solutions/performans-yonetimi.svg",
         "reversed" => false
 
     ],

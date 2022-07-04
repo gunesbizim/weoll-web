@@ -7,7 +7,7 @@ return [
         "paragraph" => "Weoll’un kurum içi iletişim çözümleri ile kurumunuzun
 dinamik iletişim döngüsüne çevik şekilde cevap veren
 bir kurumsal portala hemen sahip olabilirsiniz. 
-
+<br><br>
 Kurumunuzun tüm katmanlarındaki çalışanlarıyla
 baştan uca, direkt ve çift yönlü iletişim kurabilirsiniz. ",
         "ctaText" => "Ücretsiz Deneyin",

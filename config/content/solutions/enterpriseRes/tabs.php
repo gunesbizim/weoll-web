@@ -1,12 +1,11 @@
 <?php
 
 return [
-    "sectionTitle" => "Kurum İçi İletişim Süreçleri Modüllerini
-    Keşfedebilirsiniz",
+    "sectionTitle" => "Kurumsal Kaynak Yönetimü Süreçleri Modüllerini Keşfedebilirsiniz",
     "tabs" =>
     [
         [
-            "title" => "Sosyal Süreçler",
+            "title" => "Şirket Kaynakları Yönetimi Süreçleri ",
             "img" => "human-res-tab.svg",
             "alt" => "",
             "icons" => [
@@ -48,7 +47,7 @@ return [
             ]
         ],
         [
-            "title" => "Duyuru Süreçleri",
+            "title" => "Dijital Operasyon Yönetimi",
             "img" => "human-res-tab.svg",
             "alt" => "",
             "icons" => [
@@ -90,7 +89,7 @@ return [
             ]
         ],
         [
-            "title" => "Geri Bildirim Süreçleri",
+            "title" => "Editörler & Sihirbazlar",
             "img" => "human-res-tab.svg",
             "alt" => "",
             "icons" => [
@@ -132,7 +131,7 @@ return [
             ]
         ],
         [
-            "title" => "Form ve Onay Süreçleri",
+            "title" => "Bilgiye Hızlı Ulaşım Süreçleri",
             "img" => "human-res-tab.svg",
             "alt" => "",
             "icons" => [

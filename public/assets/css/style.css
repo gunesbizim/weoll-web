@@ -206,7 +206,9 @@ img {
 img.full-size {
     max-width: 950px;
 }
-
+.solutions-img{
+    max-width: 360px;
+}
 /**Hero Section Start **/
 
 .fullpage {
@@ -295,6 +297,9 @@ p.hero-p {
 
 .text-center {
     text-align: center;
+}
+.text-right{
+    text-align: right;
 }
 
 .blog-title {
@@ -964,4 +969,104 @@ h2.purple{
 }
 .no-padding{
     padding: 0 !important;
+}
+.package-cta{
+    padding: 8px 16px;
+    width: 100%;
+    border: 1px solid var(--lightBlue);
+    border-radius: 5px;
+    background-color: transparent;
+    transition: 0.25s all linear;
+    color: var(--lightBlue);
+}
+.package-cta:hover{
+    background-color: var(--lightBlue);
+    color: #fff !important;
+    transition: 0.25s all linear;
+}
+.form-footer{
+    padding:16px;
+    border: 1px solid var(--lightGray);
+}
+.form-group input, .form-group textarea{
+    border: 1px solid var(--lightGray);
+    border-radius: 5px;
+    height: 40px;
+    margin-bottom: 32px;
+    padding: 16px 8px;
+}
+.form-group textarea{
+    min-height: 200px;
+    width: 100%;
+}
+.form-submit{
+    background-color: transparent;
+    border: 1px solid var(--lightBlue);
+    border-radius: 5px;
+    color: var(--lightBlue);
+    padding: 8px 16px ;
+}
+.contact-info{
+    min-width: 190px !important;
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: 1px solid var(--lightGray);
+    margin: 0 16px;
+    position:relative;
+    font-family: 'Raleway' , 'sans-serif';
+    font-size: 16px;
+    color:var(--darkGray)
+}
+.contact-info::before{
+    display: block;
+    content: "";
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 15px;
+    height: 16px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact-info.phone::before{
+    background-image: url('/assets/img/icons/phone.svg');
+}
+.form-group label{
+    font-family:'Raleway', sans-serif;
+    color: var(--darkGray);
+    font-size: 14pxs;
+}
+.contact-info.email::before{
+    background-image: url('/assets/img/icons/email.svg');
+    width: 17px;
+    height: 12px;
+}
+.footer-contact h2{
+    font-size: var(--f55);
+    color: var(--weollPurple);
+    text-align: center;
+    margin-bottom: 48px;
+}
+.container.fourofour{
+    margin-top: 80px;
+}
+.img404{
+    max-width: 573px !important;
+}
+.btn404{
+    max-width: 115px !important;
+    border: 1px solid var(--lightBlue);
+    color: var(--lightBlue);
+    padding: 8px 16px;
+    background-color: transparent;
+    transition: 0.25s all linear;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 48px !important;
+}
+.btn404:hover{
+    background-color: var(--lightBlue);
+    color: #fff !important;
 }
