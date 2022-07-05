@@ -10,15 +10,16 @@ return [
             ],
             [
                 "icon" => "2.svg",
-                "info" => ""
+                "info" => "Performans yönetimi, izin, işe giriş-çıkış, zimmet gibi merkezdeki
+                tüm iş süreçlerine mağaza çalışanlarını da dahil etmek"
             ],
             [
                 "icon" => "3.svg",
-                "info" => ""
+                "info" => "Satış ekipleriyle iletişim kurarak büyümeyi desteklemek"
             ],
             [
                 "icon" => "4.svg",
-                "info" => ""
+                "info" => "Entegre çalışan bir kurumsal portal kurmak"
             ],
         ],
         "brands" => [
@@ -28,11 +29,11 @@ return [
             ],
             [
                 "logo" => "weoll.svg",
-                "info" => ""
+                "info" => "Weoll Kurum İçi İletişim ve Süreç Yönetimi Platformu"
             ],
             [
                 "logo" => "google-cloud.svg",
-                "info" => ""
+                "info" => "Google Cloud Platform"
             ],
         ]
     ],
@@ -44,24 +45,24 @@ return [
                 "info" => "İşgücü devir oranında (turnover) ilk 6 ayda %15 düşüş.",
             ],
             [
-                "percentage" => "15",
-                "info" => "",
+                "percentage" => "29",
+                "info" => "İşgücü devir oranında (turnover) ikinci 6 ayda %29 düşüş.",
             ],
             [
-                "percentage" => "15",
-                "info" => "",
+                "percentage" => "10",
+                "info" => "Çalışan sayısının %10’u kadar yeni öneri toplanması",
             ],
             [
-                "percentage" => "15",
-                "info" => "",
+                "percentage" => "90",
+                "info" => "Kağıt kullanımında %90 azalma",
             ],
             [
-                "percentage" => "15",
-                "info" => "",
+                "percentage" => "100",
+                "info" => "Performans incelemesine %100 katılım",
             ],
             [
-                "percentage" => "15",
-                "info" => "",
+                "percentage" => "100",
+                "info" => "Bulut teknolojilerinin sağladığı maliyet avantajı",
             ],
         ]
 
