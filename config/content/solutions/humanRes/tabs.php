@@ -52,37 +52,37 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "anket.svg",
                     "alt" => "",
                     "title" => "Anket",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "pooling.svg",
                     "alt" => "",
                     "title" => "Pooling",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "gunluk-mod.svg",
                     "alt" => "",
                     "title" => "Günlük Mod",
                 ],
                 [
-                    "icon" => "4.svg",
+                    "icon" => "kahramanin-kim.svg",
                     "alt" => "",
                     "title" => "Kahramanın Kim?",
                 ],
                 [
-                    "icon" => "5.svg",
+                    "icon" => "bir-fikrim-var.svg",
                     "alt" => "",
                     "title" => "Bir Fikrim Var",
                 ],
                 [
-                    "icon" => "6.svg",
+                    "icon" => "biz-basardik.svg",
                     "alt" => "",
                     "title" => "Biz Başardık",
                 ],
                 [
-                    "icon" => "7.svg",
+                    "icon" => "risk-oneri-bildirim-sistemi.svg",
                     "alt" => "",
                     "title" => "Risk Öneri Bildirim Sistemi",
                 ],
@@ -94,17 +94,17 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "geri-bildirim-surecleri.svg",
                     "alt" => "",
                     "title" => "Geri Bildirim Süreçleri",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "hazir-is-ve-onay-surecleri.svg",
                     "alt" => "",
                     "title" => "Hazır İş ve Onay Süreçleri",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "ozellestirilmis-is-ve-onay-surecleri.svg",
                     "alt" => "",
                     "title" => "Özelleştirilmiş İş ve Onay Süreçleri",
                 ],
@@ -117,22 +117,22 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "sayfa-tasarlayicisi.svg",
                     "alt" => "",
                     "title" => "Sayfa Tasarlayıcısı",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "form-tasarlayicisi.svg",
                     "alt" => "",
                     "title" => "Form Tasarlayıcısı",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "surec-tasarlayicisi.svg",
                     "alt" => "",
                     "title" => "Süreç Tasarlayıcısı",
                 ],
                 [
-                    "icon" => "4.svg",
+                    "icon" => "duyuru-planlayicisi.svg",
                     "alt" => "",
                     "title" => "Duyuru Planlayıcısı",
                 ],

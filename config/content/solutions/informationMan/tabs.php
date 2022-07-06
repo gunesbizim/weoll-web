@@ -10,17 +10,17 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "geri-bildirim-surecleri.svg",
                     "alt" => "",
                     "title" => "Geri Bildirim Süreçleri",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "hazir-is-ve-onay-surecleri.svg",
                     "alt" => "",
                     "title" => "Hazır İş ve Onay Süreçleri",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "ozellestirilmis-is-ve-onay-surecleri.svg",
                     "alt" => "",
                     "title" => "Özelleştirilmiş İş ve Onay Süreçleri",
                 ],
@@ -33,22 +33,22 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "dosya-yonetimi.svg",
                     "alt" => "",
                     "title" => "Dosya Yönetimi",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "dosya-saklama.svg",
                     "alt" => "",
                     "title" => "Dosya Saklama",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "senkronizasyon-servisi.svg",
                     "alt" => "",
                     "title" => "Senkronizasyon Servisi",
                 ],
                 [
-                    "icon" => "4.svg",
+                    "icon" => "okuma-gorevi-atama-ve-takip.svg",
                     "alt" => "",
                     "title" => "Okuma Görevi Atama ve Takip",
                 ],
@@ -61,22 +61,22 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "sayfa-tasarlayicisi.svg",
                     "alt" => "",
                     "title" => "Sayfa Tasarlayıcısı",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "form-tasarlayicisi.svg",
                     "alt" => "",
                     "title" => "Form Tasarlayıcısı",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "surec-tasarlayicisi.svg",
                     "alt" => "",
                     "title" => "Süreç Tasarlayıcısı",
                 ],
                 [
-                    "icon" => "4.svg",
+                    "icon" => "duyuru-planlayicisi.svg",
                     "alt" => "",
                     "title" => "Duyuru Planlayıcısı",
                 ],
@@ -89,39 +89,44 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "doviz.svg",
                     "alt" => "",
-                    "title" => "Çalışan Başlılığı",
+                    "title" => "Döviz",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "hava-durumu.svg",
                     "alt" => "",
-                    "title" => "Organizasyon Şeması",
+                    "title" => "Hava Durumu",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "takvim.svg",
                     "alt" => "",
-                    "title" => "Çalışan Yan Hakları",
+                    "title" => "Takvim",
                 ],
                 [
-                    "icon" => "4.svg",
+                    "icon" => "uygulamalarim.svg",
                     "alt" => "",
-                    "title" => "Çalışana Özel Kampanya",
+                    "title" => "Uygulamalarım",
                 ],
                 [
-                    "icon" => "5.svg",
+                    "icon" => "arama-motoru.svg",
                     "alt" => "",
-                    "title" => "Flex Menü, Club",
+                    "title" => "Arama-Motoru",
                 ],
                 [
-                    "icon" => "6.svg",
+                    "icon" => "haberler.svg",
                     "alt" => "",
-                    "title" => "Zimmet Yönetimi",
+                    "title" => "Haberler",
                 ],
                 [
-                    "icon" => "7.svg",
+                    "icon" => "iframe.svg",
                     "alt" => "",
-                    "title" => "İzin, Avans, Bordro Sistemi",
+                    "title" => "Iframe",
+                ],
+                [
+                    "icon" => "calisan-rehberi.svg",
+                    "alt" => "",
+                    "title" => "Çalışan Rehberi",
                 ],
             ]
         ]

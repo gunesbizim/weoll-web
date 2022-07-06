@@ -19,7 +19,7 @@
                     <input type="text" name="firmname">
                 </div>
                 <div class="form-group col-md-6 col-xs-12 d-flex flex-column">
-                    <label for="position">Ünvan</label>
+                    <label for="position">Unvan</label>
                     <input type="text" name="position">
                 </div>
             </div>
@@ -46,7 +46,7 @@
                     +90 (212) 211 50 01
                 </div>
                 <div class="contact-info email col-md-2 text-right">
-                    info@weoll.com.tr
+                    info@weoll.com
                 </div>
             </div>
 

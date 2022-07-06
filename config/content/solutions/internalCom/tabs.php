@@ -11,37 +11,37 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "blog.svg",
                     "alt" => "",
                     "title" => "Blog",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "kurum-ici-sosyal-medya.svg",
                     "alt" => "",
                     "title" => "Kurum İçi Sosyal Medya",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "dogum-gunu-kutlamalari.svg",
                     "alt" => "",
                     "title" => "Doğum Günü Kutlamaları",
                 ],
                 [
-                    "icon" => "4.svg",
+                    "icon" => "kidem-basarilari.svg",
                     "alt" => "",
                     "title" => "Kıdem Başarıları",
                 ],
                 [
-                    "icon" => "5.svg",
+                    "icon" => "aramiza-yeni-katilanlar.svg",
                     "alt" => "",
                     "title" => "Aramıza Yeni Katılanlar",
                 ],
                 [
-                    "icon" => "6.svg",
+                    "icon" => "video-galeri.svg",
                     "alt" => "",
                     "title" => "Video Galeri",
                 ],
                 [
-                    "icon" => "7.svg",
+                    "icon" => "foto-galeri.svg",
                     "alt" => "",
                     "title" => "Foto Galeri",
                 ],
@@ -53,22 +53,22 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "duyuru-yonetimi.svg",
                     "alt" => "",
                     "title" => "Duyuru Yönetimi",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "ilan-panosu.svg",
                     "alt" => "",
                     "title" => "İlan Panosu",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "yemek-menusu.svg",
                     "alt" => "",
                     "title" => "Yemek Menüsü",
                 ],
                 [
-                    "icon" => "4.svg",
+                    "icon" => "afis-uygulamasi.svg",
                     "alt" => "",
                     "title" => "Afiş Uygulaması",
                 ],
@@ -81,37 +81,37 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "anket.svg",
                     "alt" => "",
                     "title" => "Anket",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "pooling.svg",
                     "alt" => "",
                     "title" => "Pooling",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "gunluk-mod.svg",
                     "alt" => "",
                     "title" => "Günlük Mod",
                 ],
                 [
-                    "icon" => "4.svg",
+                    "icon" => "kahramanin-kim.svg",
                     "alt" => "",
                     "title" => "Kahramanın Kim?",
                 ],
                 [
-                    "icon" => "5.svg",
+                    "icon" => "bir-fikrim-var.svg",
                     "alt" => "",
                     "title" => "Bir Fikrim Var",
                 ],
                 [
-                    "icon" => "6.svg",
+                    "icon" => "biz-basardik.svg",
                     "alt" => "",
                     "title" => "Biz Başardık",
                 ],
                 [
-                    "icon" => "7.svg",
+                    "icon" => "risk-oneri-bildirim-sistemi.svg",
                     "alt" => "",
                     "title" => "Risk Öneri Bildirim Sistemi",
                 ],
@@ -123,17 +123,17 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "geri-bildirim-surecleri.svg",
                     "alt" => "",
                     "title" => "Geri Bildirim Süreçleri",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "hazir-is-ve-onay-surecleri.svg",
                     "alt" => "",
                     "title" => "Hazır İş ve Onay Süreçleri",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "ozellestirilmis-is-ve-onay-surecleri.svg",
                     "alt" => "",
                     "title" => "Özelleştirilmiş İş ve Onay Süreçleri",
                 ],
