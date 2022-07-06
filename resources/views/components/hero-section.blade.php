@@ -15,9 +15,11 @@
 
 
         </div>
-        <div class="col-md-6 col-xs-12 d-flex flex-h-center">
+        <div class="col-md-6 col-xs-12 d-flex flex-h-center hero-img ">
             <img class="{{ $heroData->hero->imgSize === 'fullsize' ? 'full-size' : '' }}"
                 src="/assets/img/{{ $heroData->hero->img }}">
         </div>
+
+        <a class="mobile arrow-down" href="#nextSection"><i class="fa-solid fa-angle-down"></i></a>
     </div>
 </div>

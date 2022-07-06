@@ -17,14 +17,15 @@
             @endforeach
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-6">
-            <img class="footer-logo" src="assets/img/weoll-footer-logo.svg" alt="">
+    <div class="row mobile-reverse">
+        <div class="col-md-6 mobile-text-center">
+            <img class="footer-logo" src="/assets/img/weoll-footer-logo.svg" alt="">
         </div>
         <div class="col-md-6">
             <div class="newsletter-container">
-                <form action="">
-
+                <form action="" class="newsletter-form">
+                    <input type="email" class="" placeholder="E-mail">
+                    <button type="submit" value="Abone Ol">Abone Ol</button>
                 </form>
             </div>
         </div>
