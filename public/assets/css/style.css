@@ -774,7 +774,12 @@ footer a {
     color: var(--darkGray);
     font-size: var(--f14);
 }
-
+.m-40{
+    margin-top: 40px !important;
+}
+.m-80{
+    margin-top: 80px;
+}
 .tab-cont-container.visible.m-12 {
     margin: 12px 0;
 }
