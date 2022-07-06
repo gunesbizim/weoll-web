@@ -2,14 +2,12 @@
 
 return [
     [
-        "title" => "Mobil Çalışanlarınıza 
-            Anında Ulaşabilirsiniz",
-        "text" => "Genel müdürlük dışında çalışan,
-            genellikle mobil olan, sabit bir çalışma alanı
-            olmayan tüm yönetici ve çalışanlara,
-            kendi cep telefonlarından ulaşmanıza
-            imkan tanıyoruz. ",
-        "img" => "solutions/section1.svg",
-        "reversed" => true
+        "title" => "Kurumunuzu Geleceğe Taşıyoruz",
+        "text" => "Çalışanlarıyla bağ kuran, onları dinleyen,
+        onlara değer veren ve yeni nesil iş süreçlerine
+        hızlı adapte olabilen çevik kurumların rekabette
+        bir adım öne geçeceğine inanıyoruz.",
+        "img" => "kurumunuzu-gelecege-tasiyoruz.svg",
+        "reversed" => false
     ]
 ];

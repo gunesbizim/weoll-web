@@ -15,7 +15,7 @@ return [
                 "Performans Yönetimi",
                 "On-boarding Yönetimi"
             ],
-            "img" => "guclu-insan-kaynaklari.png"
+            "img" => "guclu-insan-kaynaklari.svg"
         ],
         [
             "title" => "Etkin İletişim Ağı",
@@ -26,7 +26,7 @@ return [
                 "Tutarlı & Eş Zamanlı Pazarlama Çalışmaları ",
                 "360 Derece Geri Bildirim"
             ],
-            "img" => "guclu-insan-kaynaklari.png"
+            "img" => "etkin-iletisim-agi.svg"
         ],
         [
             "title" => "Esnek Organizasyon Yapısı",
@@ -37,7 +37,7 @@ return [
                 "Doküman Yönetimi",
                 "Kurumsal Kaynak Rezervasyonu"
             ],
-            "img" => "guclu-insan-kaynaklari.png"
+            "img" => "esnek-organizasyon-yapisi.svg"
         ],
         [
             "title" => "Verimlilik ve Üretkenlik",
@@ -48,7 +48,7 @@ return [
                 "Kullanıcı Dostu Arayüzler",
                 "Kolay Analiz ve Raporlama"
             ],
-            "img" => "guclu-insan-kaynaklari.png"
+            "img" => "verimlilik-ve-uretkenlik.svg"
         ],
     ],
 

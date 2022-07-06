@@ -5,23 +5,27 @@ return [
     "contBoxes" => [
         [
             "icon" => "code.svg",
-            "title" => "Title title title",
-            "subtitle" => "Subtitle subtitle subtitle",
+            "title" => "Uçtan Uca İletişim",
+            "subtitle" => "Uzmanlık ve yazılım bilgisi gerektiren, koşullara bağlı komplike iş 
+            akışlarınızı basitleştiriyoruz.",
         ],
         [
             "icon" => "fast.svg",
-            "title" => "Title title title",
-            "subtitle" => "Subtitle subtitle subtitle",
+            "title" => "Hızlı Geri Bildirim",
+            "subtitle" => "Uzmanlık ve yazılım bilgisi gerektiren, koşullara bağlı komplike iş 
+            akışlarınızı basitleştiriyoruz.",
         ],
         [
             "icon" => "single.svg",
-            "title" => "Title title title",
-            "subtitle" => "Subtitle subtitle subtitle",
+            "title" => "Tek Platform",
+            "subtitle" => "Özelleştirilebilen hazır şablonlar, kolay analizler ve raporlama
+            araçlarıyla süreçlerinizi yapılandırmanızı sağlıyoruz.",
         ],
         [
             "icon" => "secure.svg",
-            "title" => "Title title title",
-            "subtitle" => "Subtitle subtitle subtitle",
+            "title" => "Güvenli Veri Depolama",
+            "subtitle" => "Kullanıcı dostu arayüzler ve süreç sihirbazlarıyla, değişen
+            ihtiyaçlarınıza çevik biçimde çözüm üretmenize imkan tanıyoruz.",
         ],
     ]
 ];

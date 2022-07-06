@@ -2,34 +2,28 @@
 
 return [
     "heroImg" => "ascelik.svg",
-    "info" => "Çalışan gelişimini destekleyebilecek ve gelişimiş bir gözetim sağlayabilecek
-            bir kurumsal portal kurmak, çalışanların değişim oranını azaltmada kilit farktör oldu.
-            <br>
-                        <br>
-
-            Portalı bulutta oluşturmanın maliyet  avantajını hissettik.
-            <br>
-                        <br>
-
-            Sunuculara yatırım yapmak zorunda kalmadık ya da onları korumak için
-            ek BT ekibi ihtiyacımız olmadı.",
-    "infoOwner" => "Ahmet Arasıl",
-    "infoPosition" => "Toyzz Shop Bilgi İşlem Direktörü",
+    "info" => "Weoll ile departmanlar arası iletişimi artırılmış, ürün takibi hızlandırılmıştır 
+    <br>
+    <br>
+    2020 yılında %3,39 olan ıskarta oranı 2021 yılında %2,14 e düşmüştür.",
+    "infoOwner" => "Lorem Ipsum Dolor",
+    "infoPosition" => "Title",
+   
     "sectors" => [
         [
             "icon" => "kurum.svg",
             "title" => "Kurum",
-            "info" => "Sunman | Toyzz Shop"
+            "info" => "Asçelik"
         ],
         [
             "icon" => "kurum.svg",
-            "title" => "Kurum",
-            "info" => "Sunman | Toyzz Shop"
+            "title" => "Sektör",
+            "info" => "Üretim"
         ],
         [
             "icon" => "kurum.svg",
-            "title" => "Kurum",
-            "info" => "Sunman | Toyzz Shop"
+            "title" => "Çalışan Sayısı",
+            "info" => "+450 Kişi"
         ]
     ],
 ];

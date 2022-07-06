@@ -1,13 +1,15 @@
 <?php
 return [
     "hero" => [
-        "h1Purple" => "KURUM İÇİ İLETİŞİM VE",
-        "h1Gray" => "SÜREÇ YÖNETİMİ PLATFORMU",
-        "paragraph" => "Yeni nesil dijital uygulamalarla iş ve iletişim süreçlerinizi
-            güçlendirerek kurumunuza değer katıyor, çalışan bağlılığını
-            ve verimliliğini artırmanıza olanak tanıyoruz.",
+        "h1Purple" => "Perakende
+        Sektörü
+        Weoll Kullanıyor",
+        "h1Gray" => "",
+        "paragraph" => "Mekandan ve cihazdan bağımsız olarak her an ulaşılabilir, hızla değişen çalışan
+        sirkülasyonuna ayak uyduran, daha akıllı, verimli, dinamik bir kurum kültürüne
+        ulaşmanıza aracı oluyoruz.",
         "ctaText" => "Ücretsiz Dene",
-        "img" => "placeholder-1.png",
+        "img" => "perakende-sektoru.svg",
         "imgSize" => ""
     ]
 ];

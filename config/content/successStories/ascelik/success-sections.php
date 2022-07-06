@@ -6,19 +6,21 @@ return [
         "subNeeds" => [
             [
                 "icon" => "1.svg",
-                "info" => "Merkez ve mağazalar arasında çift yönlü bilgi akışı oluşturmak"
+                "info" => "Hızlı Ürün Takibi"
             ],
             [
                 "icon" => "2.svg",
-                "info" => ""
+                "info" => "Departmanlar Arası
+                Güçlü İletişim"
             ],
             [
                 "icon" => "3.svg",
-                "info" => ""
+                "info" => "Güçlü Tedarik Zinciri
+                Yönetimi"
             ],
             [
                 "icon" => "4.svg",
-                "info" => ""
+                "info" => "Etkin Veri Analizi"
             ],
         ],
         "brands" => [
@@ -28,40 +30,37 @@ return [
             ],
             [
                 "logo" => "weoll.svg",
-                "info" => ""
+                "info" => "Weoll Kurum İçi İletişim ve Süreç Yönetimi Platformu"
             ],
             [
                 "logo" => "google-cloud.svg",
-                "info" => ""
+                "info" => "Google Cloud Platform"
             ],
+
         ]
     ],
     "earnings" => [
         "title" => "Kazanımlar",
         "percentages" => [
             [
-                "percentage" => "15",
-                "info" => "İşgücü devir oranında (turnover) ilk 6 ayda %15 düşüş.",
+                "percentage" => "37",
+                "info" => "Iskarta Oranındaki
+                Düşüş",
             ],
             [
-                "percentage" => "15",
-                "info" => "",
+                "percentage" => "47",
+                "info" => "Dış Ret Oranındaki
+                Düşüş",
             ],
             [
-                "percentage" => "15",
-                "info" => "",
+                "percentage" => "30",
+                "info" => "Duruş Süresindeki
+                Düşüş",
             ],
             [
-                "percentage" => "15",
-                "info" => "",
-            ],
-            [
-                "percentage" => "15",
-                "info" => "",
-            ],
-            [
-                "percentage" => "15",
-                "info" => "",
+                "percentage" => "25",
+                "info" => "Uygunsuzluk Tonaj
+                Oranındaki Düşüş",
             ],
         ]
 
