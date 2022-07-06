@@ -1,5 +1,5 @@
-<div class="container fullpage discover-weoll-bg fullwidth">
-    <div class="row">
+<div class="container fullpage discover-weoll-bg fullwidth packages-container">
+    <div class="row flex-v-center">
         {{-- @dd($discoverHero) --}}
         <div class="col-md-12 flex-column d-flex flex-v-center flex-h-center">
             <h1>{{ $discoverHero->sectionTitle }}</h1>
@@ -7,5 +7,7 @@
             <a href="{{ $discoverHero->ctaUrl === '#' ? '#' : route($discoverHero->ctaUrl) }}"
                 class="cta">{{ $discoverHero->ctaText }}</a>
         </div>
+        <a class="mobile arrow-down" href="#nextSection"><i class="fa-solid fa-angle-down"></i></a>
+
     </div>
 </div>

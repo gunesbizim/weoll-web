@@ -7,12 +7,13 @@
             <h1 class="text-center">{{ $packages->title }}</h1>
             <div class="spacer-80"></div>
         </div>
-        <div class="row flex-v-center flex-h-center d-flex">
+        <div class="row flex-v-center flex-h-center d-flex packages-container">
             <div class="col-md-6 col-xs-12"></div>
             <div class="col-md-6 col-xs-12">
                 <div class="row">
                     @foreach ($packages->packages as $package)
-                        <div class="col-md-6 col-xs-12 package">
+                        <div class="col-md-6 col-xs-12 package package-button {{ $loop->first ? 'selected btnone' : 'btntwo' }}"
+                            data-id="{{ $loop->first ? '1' : '2' }}">
                             <h2 class="{{ $loop->first ? 'blue' : 'purple' }}">{{ $package->title }}</h2>
                             <p>{{ $package->info1 }}</p>
                             <p>{{ $package->info2 }}</p>
@@ -28,16 +29,18 @@
 
                 @foreach ($arr as $feature)
                     <div class="row no-padding">
-                        <div class="col-md-6 subfeature"> {{ $feature->feature }}</div>
-                        <div class="col-md-6 d-flex">
+                        <div class="col-md-6 subfeature packages-mobile-col-1"> {{ $feature->feature }}</div>
+                        <div class="col-md-6 d-flex packages-mobile-col-2">
                             @php
                                 $p1 = '1';
                                 $p2 = '2';
                             @endphp
-                            <div class="col-md-6 text-center subfeature width-fix spacing-fix">
+                            <div
+                                class="col-md-6 text-center subfeature width-fix spacing-fix {{ $feature->packageAvailibility->{$p1} ? 'package pone active' : ' package active pone' }}">
                                 {!! $feature->packageAvailibility->{$p1} ? '<img src="/assets/img/icons/check.svg">' : '<img src="/assets/img/icons/uncheck.svg">' !!}
                             </div>
-                            <div class="col-md-6 text-center subfeature width-fix">
+                            <div
+                                class="col-md-6 text-center subfeature width-fix {{ $feature->packageAvailibility->{$p2} ? 'package ptwo' : '' }}">
                                 {!! $feature->packageAvailibility->{$p2} ? '<img src="/assets/img/icons/check-purple.svg">' : '<img src="/assets/img/icons/uncheck.svg">' !!}
                             </div>
                         </div>
