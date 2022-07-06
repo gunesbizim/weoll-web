@@ -6,8 +6,8 @@ return [
     <br>
     <br>
     2020 yılında %3,39 olan ıskarta oranı 2021 yılında %2,14 e düşmüştür.",
-    "infoOwner" => "Lorem Ipsum Dolor",
-    "infoPosition" => "Title",
+    "infoOwner" => "Okan Balcı",
+    "infoPosition" => "R&D Vice Manager",
    
     "sectors" => [
         [
@@ -16,12 +16,12 @@ return [
             "info" => "Asçelik"
         ],
         [
-            "icon" => "kurum.svg",
+            "icon" => "sektor.svg",
             "title" => "Sektör",
             "info" => "Üretim"
         ],
         [
-            "icon" => "kurum.svg",
+            "icon" => "calisan-sayisi.svg",
             "title" => "Çalışan Sayısı",
             "info" => "+450 Kişi"
         ]

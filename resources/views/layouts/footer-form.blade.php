@@ -2,42 +2,50 @@
 <div class="container footer-contact">
     <div class="row">
         <h2>Bizimle İletişime Geçin</h2>
-        <form action="" class="d-flex flex-column form-footer border-r-5">
+        <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST"
+            class="d-flex flex-column form-footer border-r-5" id="request-demo">
+            <input type="hidden" name="action" value="request-demo" />
+            <input type="hidden" name="lead_source" value="Weoll Website">
+            <input type="hidden" name="Web_Form_Type__c" value="Demo Form">
+            <input type="hidden" name="download_type" value="">
+            <input type=hidden name='captcha_settings'
+                value='{"keyname":"google","fallback":"true","orgId":"00D20000000BeWX","ts":""}'>
+            <input type=hidden name="oid" value="00D20000000BeWX">
             <div class="row d-flex">
                 <div class="form-group col-md-6 col-xs-12 d-flex flex-column">
-                    <label for="name">Ad</label>
-                    <input type="text" name="name">
+                    <label for="first_name">Ad</label>
+                    <input id="first_name" type="text" name="first_name">
                 </div>
                 <div class="form-group col-md-6 col-xs-12 d-flex flex-column">
-                    <label for="surname">Soyad</label>
-                    <input type="text" name="surname">
+                    <label for="last_name">Soyad</label>
+                    <input type="text" name="last_name" id="last_name">
                 </div>
             </div>
             <div class="row d-flex">
                 <div class="form-group col-md-6 col-xs-12 d-flex flex-column">
-                    <label for="firmname">Firma Adı</label>
-                    <input type="text" name="firmname">
+                    <label for="company">Firma Adı</label>
+                    <input type="text" name="company" id="company">
                 </div>
                 <div class="form-group col-md-6 col-xs-12 d-flex flex-column">
-                    <label for="position">Ünvan</label>
-                    <input type="text" name="position">
+                    <label for="title">Ünvan</label>
+                    <input type="text" name="title" id="title">
                 </div>
             </div>
 
             <div class="row d-flex">
                 <div class="form-group col-md-6 col-xs-12 d-flex flex-column">
                     <label for="email">E-Posta</label>
-                    <input type="email" name="email">
+                    <input type="email" name="email" id="email">
                 </div>
                 <div class="form-group col-md-6 col-xs-12 d-flex flex-column">
                     <label for="phone">Telefon</label>
-                    <input type="phone" name="phone">
+                    <input type="phone" name="phone" id="phone">
                 </div>
             </div>
             <div class="row d-flex ">
                 <div class="form-group col-md-12 col-xs-12 d-flex flex-column flex-h-end">
                     <label for="message"></label>
-                    <textarea name="message" id="" cols="30" rows="10"></textarea>
+                    <textarea name="description" id="" cols="30" rows="10" id="description"></textarea>
                     <button type="submit" value="Gönder" class="form-submit">Gönder</button>
                 </div>
             </div>
@@ -46,7 +54,7 @@
                     +90 (212) 211 50 01
                 </div>
                 <div class="contact-info email col-md-2 text-right">
-                    info@weoll.com.tr
+                    info@weoll.com
                 </div>
             </div>
 

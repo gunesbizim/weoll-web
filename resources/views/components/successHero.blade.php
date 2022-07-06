@@ -1,4 +1,4 @@
-<div class="container fullpage">
+<div class="container fullpage m-80">
     <div class="row d-flex flex-v-center">
         <div class="col-md-12 d-flex flex-h-center flex-v-center flex-column h-55">
             <img src="/assets/img/successStories/{{ $successHero->heroImg }}" alt="">
