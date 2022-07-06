@@ -65,8 +65,8 @@ class SolutionsController extends Controller
 
         $heroData = arrayToObject(config('content.solutions.enterpriseRes.hero'));
 
-        $sections = arrayToObject(config('content.solutions.informationMan.sections'));
-        $solutionsTab = arrayToObject(config('content.solutions.informationMan.tabs'));
+        $sections = arrayToObject(config('content.solutions.enterpriseRes.sections'));
+        $solutionsTab = arrayToObject(config('content.solutions.enterpriseRes.tabs'));
 
         $otherSolutions = arrayToObject(config('content.solutions.other-solutions'));
 

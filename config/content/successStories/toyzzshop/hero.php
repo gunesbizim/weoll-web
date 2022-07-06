@@ -22,12 +22,12 @@ return [
             "info" => "Sunman | Toyzz Shop"
         ],
         [
-            "icon" => "kurum.svg",
+            "icon" => "sektor.svg",
             "title" => "Sektör",
             "info" => "Perakende"
         ],
         [
-            "icon" => "kurum.svg",
+            "icon" => "calisan-sayisi.svg",
             "title" => "Çalışan Sayısı",
             "info" => "+2000 Kişi"
         ]

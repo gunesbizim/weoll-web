@@ -10,7 +10,7 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "sirket-kaynaklari-arama-ve-rezervasyon.svg",
                     "alt" => "",
                     "title" => "Şirket Kaynakları Arama ve Rezervasyon",
                 ],
@@ -23,29 +23,29 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "hammadde-yonetimi.svg",
                     "alt" => "",
                     "title" => "Hammadde Yönetimi",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "satin-alma-surecleri.svg",
                     "alt" => "",
                     "title" => "Satın Alma Süreçleri",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "lojistik-surecleri.svg",
                     "alt" => "",
                     "title" => "Lojistik Süreçleri",
                 ],
                 [
-                    "icon" => "4.svg",
+                    "icon" => "dijital-evrak.svg",
                     "alt" => "",
                     "title" => "Dijital Evrak",
                 ],
                 [
-                    "icon" => "5.svg",
+                    "icon" => "ariza-bildirimi.svg",
                     "alt" => "",
-                    "title" => "Arıza Yönetimi",
+                    "title" => "Arıza Bildirimi",
                 ],
                
             ]
@@ -56,17 +56,17 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "geri-bildirim-surecleri.svg",
                     "alt" => "",
                     "title" => "Geri Bildirim Süreçleri",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "hazir-is-ve-onay-surecleri.svg",
                     "alt" => "",
                     "title" => "Hazır İş ve Onay Süreçleri",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "ozellestirilmis-is-ve-onay-surecleri.svg",
                     "alt" => "",
                     "title" => "Özelleştirilmiş İş ve Onay Süreçleri",
                 ],
@@ -79,22 +79,22 @@ return [
             "alt" => "",
             "icons" => [
                 [
-                    "icon" => "1.svg",
+                    "icon" => "sayfa-tasarlayicisi.svg",
                     "alt" => "",
                     "title" => "Sayfa Tasarlayıcısı",
                 ],
                 [
-                    "icon" => "2.svg",
+                    "icon" => "form-tasarlayicisi.svg",
                     "alt" => "",
                     "title" => "Form Tasarlayıcısı",
                 ],
                 [
-                    "icon" => "3.svg",
+                    "icon" => "surec-tasarlayicisi.svg",
                     "alt" => "",
                     "title" => "Süreç Tasarlayıcısı",
                 ],
                 [
-                    "icon" => "4.svg",
+                    "icon" => "duyuru-planlayicisi.svg",
                     "alt" => "",
                     "title" => "Duyuru Planlayıcısı",
                 ],

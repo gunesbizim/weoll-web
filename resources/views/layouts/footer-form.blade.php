@@ -54,7 +54,7 @@
                     +90 (212) 211 50 01
                 </div>
                 <div class="contact-info email col-md-2 text-right">
-                    info@weoll.com.tr
+                    info@weoll.com
                 </div>
             </div>
 
