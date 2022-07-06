@@ -23,13 +23,13 @@ return [
         ],
         [
             "icon" => "kurum.svg",
-            "title" => "Kurum",
-            "info" => "Sunman | Toyzz Shop"
+            "title" => "Sektör",
+            "info" => "Perakende"
         ],
         [
             "icon" => "kurum.svg",
-            "title" => "Kurum",
-            "info" => "Sunman | Toyzz Shop"
+            "title" => "Çalışan Sayısı",
+            "info" => "+2000 Kişi"
         ]
     ],
 ];

@@ -1,13 +1,17 @@
 <?php
 return [
     "hero" => [
-        "h1Purple" => "HOLDINGS",
+        "h1Purple" => "Grup Şirketleri
+        (Holdingler)
+        Weoll Kullanıyor",
         "h1Gray" => "",
-        "paragraph" => "Yeni nesil dijital uygulamalarla iş ve iletişim süreçlerinizi
-            güçlendirerek kurumunuza değer katıyor, çalışan bağlılığını
-            ve verimliliğini artırmanıza olanak tanıyoruz.",
-        "ctaText" => "Ücretsiz Dene",
-        "img" => "placeholder-1.png",
+        "paragraph" => "Weoll sayesinde grup şirketlerinin iş süreçleri ve iletişim ihtiyaçlarını
+        tek merkezden yönetmelerini sağlıyoruz.
+        <br><br>
+        Merkez yönetimin mesajlarını, kuruma ait bilgi ve içerikleri, bağlı şirketlerde
+        en uç noktalara kadar iletmenize olanak tanıyoruz.",
+        "ctaText" => "Ücretsiz Deneyin",
+        "img" => "grup-sirketleri.svg",
         "imgSize" => ""
     ]
 ];

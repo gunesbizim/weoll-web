@@ -2,7 +2,7 @@
 
 
 return [
-    "title" => "SİZE EN UYGUN PAKET HANGİSİ ?",
+    "title" => "Size En Uygun Paket Hangisi?",
     "packages" => [
         [
             "id" => "0",
@@ -183,7 +183,7 @@ return [
             "mainFeature" => "6",
             "feature" => "Veri Analitiği",
             "packageAvailibility" => [
-                "1" => true,
+                "1" => false,
                 "2" => true
             ]
         ],
@@ -191,7 +191,7 @@ return [
             "mainFeature" => "6",
             "feature" => "Entegrasyonlar",
             "packageAvailibility" => [
-                "1" => true,
+                "1" => false,
                 "2" => true
             ]
         ],
@@ -199,7 +199,7 @@ return [
             "mainFeature" => "6",
             "feature" => "Özelleştirilebilir Domain",
             "packageAvailibility" => [
-                "1" => true,
+                "1" => false,
                 "2" => true
             ]
         ],
@@ -207,7 +207,7 @@ return [
             "mainFeature" => "6",
             "feature" => "Özel uygulama geliştirme",
             "packageAvailibility" => [
-                "1" => true,
+                "1" => false,
                 "2" => true
             ]
         ],

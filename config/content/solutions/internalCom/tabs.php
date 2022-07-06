@@ -13,37 +13,37 @@ return [
                 [
                     "icon" => "1.svg",
                     "alt" => "",
-                    "title" => "Çalışan Başlılığı",
+                    "title" => "Blog",
                 ],
                 [
                     "icon" => "2.svg",
                     "alt" => "",
-                    "title" => "Organizasyon Şeması",
+                    "title" => "Kurum İçi Sosyal Medya",
                 ],
                 [
                     "icon" => "3.svg",
                     "alt" => "",
-                    "title" => "Çalışan Yan Hakları",
+                    "title" => "Doğum Günü Kutlamaları",
                 ],
                 [
                     "icon" => "4.svg",
                     "alt" => "",
-                    "title" => "Çalışana Özel Kampanya",
+                    "title" => "Kıdem Başarıları",
                 ],
                 [
                     "icon" => "5.svg",
                     "alt" => "",
-                    "title" => "Flex Menü, Club",
+                    "title" => "Aramıza Yeni Katılanlar",
                 ],
                 [
                     "icon" => "6.svg",
                     "alt" => "",
-                    "title" => "Zimmet Yönetimi",
+                    "title" => "Video Galeri",
                 ],
                 [
                     "icon" => "7.svg",
                     "alt" => "",
-                    "title" => "İzin, Avans, Bordro Sistemi",
+                    "title" => "Foto Galeri",
                 ],
             ]
         ],
@@ -55,38 +55,24 @@ return [
                 [
                     "icon" => "1.svg",
                     "alt" => "",
-                    "title" => "Çalışan Başlılığı 2",
+                    "title" => "Duyuru Yönetimi",
                 ],
                 [
                     "icon" => "2.svg",
                     "alt" => "",
-                    "title" => "Organizasyon Şeması",
+                    "title" => "İlan Panosu",
                 ],
                 [
                     "icon" => "3.svg",
                     "alt" => "",
-                    "title" => "Çalışan Yan Hakları",
+                    "title" => "Yemek Menüsü",
                 ],
                 [
                     "icon" => "4.svg",
                     "alt" => "",
-                    "title" => "Çalışana Özel Kampanya",
+                    "title" => "Afiş Uygulaması",
                 ],
-                [
-                    "icon" => "5.svg",
-                    "alt" => "",
-                    "title" => "Flex Menü, Club",
-                ],
-                [
-                    "icon" => "6.svg",
-                    "alt" => "",
-                    "title" => "Zimmet Yönetimi",
-                ],
-                [
-                    "icon" => "7.svg",
-                    "alt" => "",
-                    "title" => "İzin, Avans, Bordro Sistemi",
-                ],
+ 
             ]
         ],
         [
@@ -97,37 +83,37 @@ return [
                 [
                     "icon" => "1.svg",
                     "alt" => "",
-                    "title" => "Çalışan Başlılığı",
+                    "title" => "Anket",
                 ],
                 [
                     "icon" => "2.svg",
                     "alt" => "",
-                    "title" => "Organizasyon Şeması",
+                    "title" => "Pooling",
                 ],
                 [
                     "icon" => "3.svg",
                     "alt" => "",
-                    "title" => "Çalışan Yan Hakları",
+                    "title" => "Günlük Mod",
                 ],
                 [
                     "icon" => "4.svg",
                     "alt" => "",
-                    "title" => "Çalışana Özel Kampanya",
+                    "title" => "Kahramanın Kim?",
                 ],
                 [
                     "icon" => "5.svg",
                     "alt" => "",
-                    "title" => "Flex Menü, Club",
+                    "title" => "Bir Fikrim Var",
                 ],
                 [
                     "icon" => "6.svg",
                     "alt" => "",
-                    "title" => "Zimmet Yönetimi",
+                    "title" => "Biz Başardık",
                 ],
                 [
                     "icon" => "7.svg",
                     "alt" => "",
-                    "title" => "İzin, Avans, Bordro Sistemi",
+                    "title" => "Risk Öneri Bildirim Sistemi",
                 ],
             ]
         ],
@@ -139,38 +125,19 @@ return [
                 [
                     "icon" => "1.svg",
                     "alt" => "",
-                    "title" => "Çalışan Başlılığı",
+                    "title" => "Geri Bildirim Süreçleri",
                 ],
                 [
                     "icon" => "2.svg",
                     "alt" => "",
-                    "title" => "Organizasyon Şeması",
+                    "title" => "Hazır İş ve Onay Süreçleri",
                 ],
                 [
                     "icon" => "3.svg",
                     "alt" => "",
-                    "title" => "Çalışan Yan Hakları",
+                    "title" => "Özelleştirilmiş İş ve Onay Süreçleri",
                 ],
-                [
-                    "icon" => "4.svg",
-                    "alt" => "",
-                    "title" => "Çalışana Özel Kampanya",
-                ],
-                [
-                    "icon" => "5.svg",
-                    "alt" => "",
-                    "title" => "Flex Menü, Club",
-                ],
-                [
-                    "icon" => "6.svg",
-                    "alt" => "",
-                    "title" => "Zimmet Yönetimi",
-                ],
-                [
-                    "icon" => "7.svg",
-                    "alt" => "",
-                    "title" => "İzin, Avans, Bordro Sistemi",
-                ],
+               
             ]
         ]
     ],

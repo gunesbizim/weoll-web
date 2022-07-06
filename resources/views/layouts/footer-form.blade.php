@@ -1,7 +1,7 @@
 <div class="spacer-80"></div>
 <div class="container footer-contact">
     <div class="row">
-        <h2>BİZİMLE İLETİŞİME GEÇİN</h2>
+        <h2>Bizimle İletişime Geçin</h2>
         <form action="" class="d-flex flex-column form-footer border-r-5">
             <div class="row d-flex">
                 <div class="form-group col-md-6 col-xs-12 d-flex flex-column">

@@ -54,37 +54,37 @@ return [
                 [
                     "icon" => "1.svg",
                     "alt" => "",
-                    "title" => "Çalışan Başlılığı 2",
+                    "title" => "Anket",
                 ],
                 [
                     "icon" => "2.svg",
                     "alt" => "",
-                    "title" => "Organizasyon Şeması",
+                    "title" => "Pooling",
                 ],
                 [
                     "icon" => "3.svg",
                     "alt" => "",
-                    "title" => "Çalışan Yan Hakları",
+                    "title" => "Günlük Mod",
                 ],
                 [
                     "icon" => "4.svg",
                     "alt" => "",
-                    "title" => "Çalışana Özel Kampanya",
+                    "title" => "Kahramanın Kim?",
                 ],
                 [
                     "icon" => "5.svg",
                     "alt" => "",
-                    "title" => "Flex Menü, Club",
+                    "title" => "Bir Fikrim Var",
                 ],
                 [
                     "icon" => "6.svg",
                     "alt" => "",
-                    "title" => "Zimmet Yönetimi",
+                    "title" => "Biz Başardık",
                 ],
                 [
                     "icon" => "7.svg",
                     "alt" => "",
-                    "title" => "İzin, Avans, Bordro Sistemi",
+                    "title" => "Risk Öneri Bildirim Sistemi",
                 ],
             ]
         ],
@@ -96,38 +96,19 @@ return [
                 [
                     "icon" => "1.svg",
                     "alt" => "",
-                    "title" => "Çalışan Başlılığı",
+                    "title" => "Geri Bildirim Süreçleri",
                 ],
                 [
                     "icon" => "2.svg",
                     "alt" => "",
-                    "title" => "Organizasyon Şeması",
+                    "title" => "Hazır İş ve Onay Süreçleri",
                 ],
                 [
                     "icon" => "3.svg",
                     "alt" => "",
-                    "title" => "Çalışan Yan Hakları",
+                    "title" => "Özelleştirilmiş İş ve Onay Süreçleri",
                 ],
-                [
-                    "icon" => "4.svg",
-                    "alt" => "",
-                    "title" => "Çalışana Özel Kampanya",
-                ],
-                [
-                    "icon" => "5.svg",
-                    "alt" => "",
-                    "title" => "Flex Menü, Club",
-                ],
-                [
-                    "icon" => "6.svg",
-                    "alt" => "",
-                    "title" => "Zimmet Yönetimi",
-                ],
-                [
-                    "icon" => "7.svg",
-                    "alt" => "",
-                    "title" => "İzin, Avans, Bordro Sistemi",
-                ],
+                
             ]
         ],
         [
@@ -138,38 +119,24 @@ return [
                 [
                     "icon" => "1.svg",
                     "alt" => "",
-                    "title" => "Çalışan Başlılığı",
+                    "title" => "Sayfa Tasarlayıcısı",
                 ],
                 [
                     "icon" => "2.svg",
                     "alt" => "",
-                    "title" => "Organizasyon Şeması",
+                    "title" => "Form Tasarlayıcısı",
                 ],
                 [
                     "icon" => "3.svg",
                     "alt" => "",
-                    "title" => "Çalışan Yan Hakları",
+                    "title" => "Süreç Tasarlayıcısı",
                 ],
                 [
                     "icon" => "4.svg",
                     "alt" => "",
-                    "title" => "Çalışana Özel Kampanya",
+                    "title" => "Duyuru Planlayıcısı",
                 ],
-                [
-                    "icon" => "5.svg",
-                    "alt" => "",
-                    "title" => "Flex Menü, Club",
-                ],
-                [
-                    "icon" => "6.svg",
-                    "alt" => "",
-                    "title" => "Zimmet Yönetimi",
-                ],
-                [
-                    "icon" => "7.svg",
-                    "alt" => "",
-                    "title" => "İzin, Avans, Bordro Sistemi",
-                ],
+ 
             ]
         ]
     ],
