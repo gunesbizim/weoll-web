@@ -1390,8 +1390,8 @@ h2.purple {
 
     .icons-cont {
         display: flex;
-        flex-flow: row !important;
-        height: 80px;
+        flex-flow: column !important;
+        height: 100px;
         margin: 16px 0;
     }
 
