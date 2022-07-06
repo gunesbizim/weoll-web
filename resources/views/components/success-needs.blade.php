@@ -12,12 +12,16 @@
             @endforeach
             {{-- @dd($successSections) --}}
             <div class="spacer-80"></div>
-            @foreach ($successSections->needs->brands as $brand)
-                <div class="col-md-4 text-center success-logo-cont">
-                    <img src="/assets/img/successStories/{{ $brand->logo }}" alt="">
-                    <p class="text-center">{{ $brand->info }}</p>
-                </div>
-            @endforeach
+            <div class="brands-container d-flex flex-column">
+
+                @foreach ($successSections->needs->brands as $brand)
+                    <div class="col-md-4 text-center success-logo-cont">
+                        <img src="/assets/img/successStories/{{ $brand->logo }}" alt="">
+                        <p class="text-center">{{ $brand->info }}</p>
+                    </div>
+                @endforeach
+            </div>
+
     </div>
     <div class="spacer-80"></div>
     <div class="row">

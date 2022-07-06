@@ -230,7 +230,7 @@ img.full-size {
 }
 
 .flex-v-center {
-    justify-content: center;
+    justify-content: center !important;
 }
 
 .flex-v-end {
@@ -1390,9 +1390,10 @@ h2.purple {
 
     .icons-cont {
         display: flex;
-        flex-flow: column !important;
+        flex-flow: row !important;
         height: 100px;
         margin: 16px 0;
+        align-items: center;
     }
 
     .other-solution {
@@ -1426,6 +1427,7 @@ h2.purple {
         display: flex;
         align-items: center;
         justify-content: center;
+        height: 80px;
     }
     footer .row.spacing{
         margin: 0 16px
@@ -1451,4 +1453,61 @@ h2.purple {
     .row.footer-border-top .col-md-6{
         width: 50%;
     }
+    .max-w-210{
+        max-width: 33% !important;
+    }
+    .h-45{
+        height: auto;
+    }
+    .align-center-top{
+        align-items: flex-start;
+        justify-content: center;
+    }
+    .h-auto{
+        height: auto;
+    }
+    .tab-icon{
+        min-width: 36px;
+    }
+    .tab-info p{
+        font-size: 10px;
+    }
+    p.tabs-2-cont{
+        font-size: 8px;
+    }
+    .pone,.ptwo{
+        display: none;
+    }
+    
+
+    .pone.active, .ptwo.active{
+        display: block;
+    }
+    .packages-mobile-col-1{
+        width: 65%;
+    }
+    .packages-mobile-col-2{
+        width: 35%;
+    }
+    .subfeature.width-fix.package{
+        width: 100% !important;
+    }
+    .subfeature{
+        padding: 16px;
+    }
+    .packages-container{
+        padding: 0 16px !important;
+    }
+    .package-button.btnone.selected{
+        color: #fff !important;
+        background-color: var(--lightBlue);
+    }
+    .package-button.btnone.selected .blue ,.package-button.btntwo.selected .purple{
+        color: #fff !important;
+    }
+    .package-button.btntwo.selected{
+        color:#fff !important;
+        background-color: var(--weollPurple);
+    }
+
 }

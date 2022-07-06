@@ -37,4 +37,36 @@ $(document).ready(function () {
     $('.nav-link').on('click', function () {
         $(this).focus();
     });
+
+    if ($(window).width() <= 992) {
+
+
+        $('.package-button').on('click', function () {
+            if($(this).hasClass('selected')){
+                return;
+            }else{
+                $('.package-button').removeClass('selected');
+                $(this).addClass('selected');
+            }
+            if ($(this).attr('data-id') == 1) {
+
+                if ($('.pone').hasClass('active')) {
+                    return;
+                } else {
+                    $('.pone').addClass('active');
+                    $('.ptwo').removeClass('active');
+                }
+            } else {
+                if ($('.ptwo').hasClass('active')) {
+                    return;
+                } else {
+                    $('.ptwo').addClass('active');
+                    $('.pone').removeClass('active');
+                }
+            }
+
+        });
+    }
+
+
 });

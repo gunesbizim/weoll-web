@@ -8,12 +8,16 @@
             <p class="success-hero-owner">{{ $successHero->infoPosition }}</p>
             <p class="success-hero-owner italic">{{ $successHero->infoOwner }}</p>
         </div>
-        @foreach ($successHero->sectors as $sector)
-            <div class="col-md-4 col-xs-12 d-flex flex-h-center max-w-210 flex-column text-center h-45">
-                <img class="success-sector-icon" src="/assets/img/successStories/{{ $sector->icon }}" alt="">
-                <p class="sector-title">{{ $sector->title }}</p>
-                <p class="sector-info">{{ $sector->info }}</p>
-            </div>
-        @endforeach
+        <div class="row d-flex align-center-top h-auto">
+            @foreach ($successHero->sectors as $sector)
+                <div class="col-md-4 col-xs-12 d-flex flex-h-center max-w-210 flex-column text-center h-45">
+                    <img class="success-sector-icon" src="/assets/img/successStories/{{ $sector->icon }}"
+                        alt="">
+                    <p class="sector-title">{{ $sector->title }}</p>
+                    <p class="sector-info">{{ $sector->info }}</p>
+                </div>
+            @endforeach
+        </div>
+
     </div>
 </div>

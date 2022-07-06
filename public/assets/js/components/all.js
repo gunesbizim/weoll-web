@@ -42,6 +42,49 @@ $(document).ready(function () {
   $('.nav-link').on('click', function () {
     $(this).focus();
   });
+
+  if ($(window).width() <= 992) {
+    $('.package-button').on('click', function () {
+      if ($(this).hasClass('selected')) {
+        return;
+      } else {
+        $('.package-button').removeClass('selected');
+        $(this).addClass('selected');
+      }
+
+      if ($(this).attr('data-id') == 1) {
+        if ($('.pone').hasClass('active')) {
+          return;
+        } else {
+          $('.pone').addClass('active');
+          $('.ptwo').removeClass('active');
+        }
+      } else {
+        if ($('.ptwo').hasClass('active')) {
+          return;
+        } else {
+          $('.ptwo').addClass('active');
+          $('.pone').removeClass('active');
+        }
+      }
+    });
+  }
+});
+})();
+
+// This entry need to be wrapped in an IIFE because it need to be isolated against other entry modules.
+(() => {
+/*!*********************************************!*\
+  !*** ./resources/js/components/packages.js ***!
+  \*********************************************/
+$(document).ready(function () {
+  $('.packages-button').on('click', function () {
+    if ($(this).attr('data-id') == 1) {
+      console.log('1');
+    } else {
+      console.log('2');
+    }
+  });
 });
 })();
 
