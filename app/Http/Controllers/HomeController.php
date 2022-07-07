@@ -62,4 +62,10 @@ class HomeController extends Controller
             'packages'
         ));
     }
+
+    public function showTryNow()
+    {
+
+        return view('pages.try-now');
+    }
 }

@@ -23,6 +23,7 @@ Route::controller(HomeController::class)->group(function () {
     Route::get('/who-are-we', 'showWhoWeAre')->name('who-are-we');
     Route::get('/success-stories', 'showSuccessStories')->name('success-stories');
     Route::get('/packages', 'showPackages')->name('packages');
+    Route::get('/try-now', 'showTryNow')->name('try-now');
 });
 
 Route::controller(SolutionsController::class)->prefix('solutions')->group(function () {
