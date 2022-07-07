@@ -65,7 +65,7 @@ class HomeController extends Controller
 
     public function showTryNow()
     {
-
-        return view('pages.try-now');
+        $footerform = false;
+        return view('pages.try-now', compact('footerform'));
     }
 }

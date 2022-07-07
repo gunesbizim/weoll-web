@@ -50,9 +50,10 @@
     </header>
     @include('components.contact-icons')
     @yield('content')
-
-    @include('layouts.footer-form')
-
+    @if (isset($footerform) && $footerform != true)
+    @else
+        @include('layouts.footer-form')
+    @endif
     @include('layouts.footer')
 
     @yield('custom-script')
