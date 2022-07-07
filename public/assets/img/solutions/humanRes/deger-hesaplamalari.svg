@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1085" data-name="Rectangle 1085" width="27" height="27" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1145" data-name="Group 1145" transform="translate(-984 -3897)">
+    <rect id="Rectangle_705" data-name="Rectangle 705" width="36" height="36" rx="5" transform="translate(984 3897)" fill="#71005d"/>
+    <g id="Group_1111" data-name="Group 1111" transform="translate(2.722 4.5)">
+      <g id="Group_1110" data-name="Group 1110" transform="translate(985.778 3897)">
+        <g id="Group_1109" data-name="Group 1109" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Path_6127" data-name="Path 6127" d="M2.742,35.59a2.742,2.742,0,1,0-1.939-.8,2.742,2.742,0,0,0,1.939.8m0-4.641a1.9,1.9,0,1,1-1.343.556,1.9,1.9,0,0,1,1.343-.556" transform="translate(0 -19.348)" fill="#fff"/>
+          <path id="Path_6128" data-name="Path 6128" d="M62.95,30.1a2.742,2.742,0,1,0,1.939.8,2.742,2.742,0,0,0-1.939-.8m0,4.641a1.9,1.9,0,1,1,1.343-.556,1.9,1.9,0,0,1-1.343.556" transform="translate(-38.692 -19.346)" fill="#fff"/>
+          <path id="Path_6129" data-name="Path 6129" d="M35.589,2.742a2.742,2.742,0,1,0-.8,1.939,2.742,2.742,0,0,0,.8-1.939m-4.641,0A1.9,1.9,0,1,1,31.5,4.085a1.9,1.9,0,0,1-.556-1.343" transform="translate(-19.347 0)" fill="#fff"/>
+          <path id="Path_6130" data-name="Path 6130" d="M35.589,62.95a2.742,2.742,0,1,0-.8,1.939A2.742,2.742,0,0,0,35.589,62.95Zm-4.641,0a1.9,1.9,0,1,1,.556,1.343,1.9,1.9,0,0,1-.556-1.343" transform="translate(-19.347 -38.692)" fill="#fff"/>
+          <path id="Path_6131" data-name="Path 6131" d="M30.571,34.578A4.008,4.008,0,1,0,27.737,33.4a4.006,4.006,0,0,0,2.834,1.174m0-6.75a2.743,2.743,0,1,1-1.939.8,2.741,2.741,0,0,1,1.939-.8" transform="translate(-17.071 -17.07)" fill="#fff"/>
+          <path id="Path_6132" data-name="Path 6132" d="M18.3,25.26a6.961,6.961,0,1,0,2.039-4.922A6.961,6.961,0,0,0,18.3,25.26m6.961-4.851a4.852,4.852,0,1,1-3.431,1.421,4.85,4.85,0,0,1,3.431-1.421" transform="translate(-11.759 -11.76)" fill="#fff"/>
+          <path id="Path_6133" data-name="Path 6133" d="M34.364,36.264a1.9,1.9,0,1,0-1.343-.556,1.9,1.9,0,0,0,1.343.556" transform="translate(-20.863 -20.865)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
