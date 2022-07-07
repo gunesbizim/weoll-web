@@ -61,15 +61,6 @@
                             <button type="submit" value="Gönder" class="form-submit">Gönder</button>
                         </div>
                     </div>
-                    <div class="row d-flex flex-v-center">
-                        <div class="contact-info phone col-md-2 text-right">
-                            +90 (212) 211 50 01
-                        </div>
-                        <div class="contact-info email col-md-2 text-right">
-                            info@weoll.com
-                        </div>
-                    </div>
-
                 </form>
             </div>
 
