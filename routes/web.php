@@ -24,6 +24,7 @@ Route::controller(HomeController::class)->group(function () {
     Route::get('/success-stories', 'showSuccessStories')->name('success-stories');
     Route::get('/packages', 'showPackages')->name('packages');
     Route::get('/try-now', 'showTryNow')->name('try-now');
+    Route::get('/thanks', 'showThanks')->name('thanks');
 });
 
 Route::controller(SolutionsController::class)->prefix('solutions')->group(function () {
