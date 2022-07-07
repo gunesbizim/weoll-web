@@ -68,4 +68,10 @@ class HomeController extends Controller
         $footerform = false;
         return view('pages.try-now', compact('footerform'));
     }
+
+    public function showThanks()
+    {
+
+        return view('pages.thanks');
+    }
 }
