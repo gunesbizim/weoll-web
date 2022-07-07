@@ -46,9 +46,15 @@
                 <div class="form-group col-md-12 col-xs-12 d-flex flex-column flex-h-end">
                     <label for="message"></label>
                     <textarea name="description" id="" cols="30" rows="10" id="description"></textarea>
+                    @if (env('APP_ENV') == 'production')
+                        <div class="g-recaptcha" data-sitekey="6Lfx-vAUAAAAAKgm7KorlGPMXPl9FU6BwuVT3qWP"
+                            data-callback="recaptchaCallback"></div><br>
+                    @endif
                     <button type="submit" value="Gönder" class="form-submit">Gönder</button>
                 </div>
+
             </div>
+
             <div class="row d-flex flex-v-center">
                 <div class="contact-info phone col-md-2 text-right">
                     +90 (212) 211 50 01
@@ -64,3 +70,25 @@
 
 
 <div class="spacer-80"></div>
+
+@section('custom-script')
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script>
+        function timestamp() {
+            var response = document.getElementById("g-recaptcha-response");
+            if (response == null || response.value.trim() == "") {
+                var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);
+                elems["ts"] = JSON.stringify(new Date().getTime());
+                document.getElementsByName("captcha_settings").forEach(function(t, e) {
+                    t.value = JSON.stringify(elems);
+                })
+                // document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems);
+            }
+        }
+        setInterval(timestamp, 500);
+
+        function recaptchaCallback() {
+            $('.footer-contact form').attr('data-validate', 'true');
+        }
+    </script>
+@endsection

@@ -20,9 +20,10 @@
                     <input type="hidden" name="lead_source" value="Weoll Website">
                     <input type="hidden" name="Web_Form_Type__c" value="Demo Form">
                     <input type="hidden" name="download_type" value="">
-                    <input type=hidden name='captcha_settings'
+                    <input type="hidden" name="retURL" value="{{ route('thanks') }}">
+                    {{-- <input type=hidden name='captcha_settings'
                         value='{"keyname":"google","fallback":"true","orgId":"00D20000000BeWX","ts":""}'>
-                    <input type=hidden name="oid" value="00D20000000BeWX">
+                    <input type=hidden name="oid" value="00D20000000BeWX"> --}}
                     <div class="row d-flex">
                         <div class="form-group col-md-6 col-xs-12 d-flex flex-column">
                             <label for="first_name">Ad</label>
@@ -58,6 +59,11 @@
                         <div class="form-group col-md-12 col-xs-12 d-flex flex-column flex-h-end">
                             <label for="message"></label>
                             <textarea name="description" id="" cols="30" rows="10" id="description"></textarea>
+                            @if (env('APP_ENV') == 'production')
+                                <div class="g-recaptcha" data-sitekey="6Lfx-vAUAAAAAKgm7KorlGPMXPl9FU6BwuVT3qWP"
+                                    data-callback="recaptchaCallback"></div><br>
+                            @endif
+
                             <button type="submit" value="Gönder" class="form-submit">Gönder</button>
                         </div>
                     </div>
@@ -69,4 +75,26 @@
 
 
     <div class="spacer-110"></div>
+@endsection
+
+@section('custom-script')
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script>
+        function timestamp() {
+            var response = document.getElementById("g-recaptcha-response");
+            if (response == null || response.value.trim() == "") {
+                var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);
+                elems["ts"] = JSON.stringify(new Date().getTime());
+                document.getElementsByName("captcha_settings").forEach(function(t, e) {
+                    t.value = JSON.stringify(elems);
+                })
+                // document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems);
+            }
+        }
+        setInterval(timestamp, 500);
+
+        function recaptchaCallback() {
+            $('.footer-contact form').attr('data-validate', 'true');
+        }
+    </script>
 @endsection
