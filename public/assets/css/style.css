@@ -183,11 +183,12 @@ ul.navigator {
 
 }
 
-@media only screen and (min-width:1280px){
-    .nav-link:hover .hidden-sub{
+@media only screen and (min-width:1280px) {
+    .nav-link:hover .hidden-sub {
         min-width: 250px;
     }
 }
+
 .nav-link:hover .hidden-sub {
     display: block;
     top: 70px;
@@ -496,9 +497,6 @@ p.content-subtitle {
 .flex-column {
     display: flex;
     flex-flow: column;
-}
-.icons-cont.flex-row{
-    flex-flow: row !important;
 }
 
 /** Testimoial **/
@@ -988,12 +986,14 @@ div[role="progressbar"]::before {
     height: 135px;
 }
 
-.w40{
+.w40 {
     width: 40%;
 }
-.w60{
+
+.w60 {
     width: 60%;
 }
+
 .package:first-child {
     margin-right: 2%;
 }
@@ -1252,6 +1252,10 @@ h2.purple {
     .navigator.active {
         right: 0;
         transition: 0.25s all linear;
+    }
+
+    .icons-cont.flex-row-mb {
+        flex-flow: row !important;
     }
 
     .navigator .nav-link {
