@@ -37,11 +37,15 @@
                             @endphp
                             <div
                                 class="col-md-6 text-center subfeature width-fix spacing-fix {{ $feature->packageAvailibility->{$p1} ? 'package pone active' : ' package active pone' }}">
-                                {!! $feature->packageAvailibility->{$p1} ? '<img src="/assets/img/icons/check.svg">' : '<img src="/assets/img/icons/uncheck.svg">' !!}
+                                {!! $feature->packageAvailibility->{$p1}
+                                    ? '<img src="/assets/img/icons/check.svg">'
+                                    : '<img src="/assets/img/icons/uncheck.svg">' !!}
                             </div>
                             <div
                                 class="col-md-6 text-center subfeature width-fix {{ $feature->packageAvailibility->{$p2} ? 'package ptwo' : '' }}">
-                                {!! $feature->packageAvailibility->{$p2} ? '<img src="/assets/img/icons/check-purple.svg">' : '<img src="/assets/img/icons/uncheck.svg">' !!}
+                                {!! $feature->packageAvailibility->{$p2}
+                                    ? '<img src="/assets/img/icons/check-purple.svg">'
+                                    : '<img src="/assets/img/icons/uncheck.svg">' !!}
                             </div>
                         </div>
                     </div>
@@ -49,11 +53,12 @@
             @endforeach
             <div class="row no-padding">
                 <div class="col-md-6"></div>
-                <div class="col-md-6 d-flex">
-                    <div class="col-md-6 text-center no-padding d-flex spacing-fix"> <a class="package-cta"
+                <div class="col-md-6 d-flex no-padding">
+                    <div class="col-md-6 text-center no-padding d-flex spacing-fix w40"> <a class="package-cta"
                             href="#">Satın Al</a>
                     </div>
-                    <div class="col-md-6 text-center no-padding d-flex"> <a class="package-cta" href="#">Teklif Al</a>
+                    <div class="col-md-6 text-center no-padding d-flex w60"> <a class="package-cta" href="#">Teklif
+                            Al</a>
                     </div>
 
                 </div>

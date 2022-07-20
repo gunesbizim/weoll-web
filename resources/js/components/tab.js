@@ -1,15 +1,17 @@
-$(document).ready(function(){
-   
-    $('.tab-title').on('click',function(){
-        if($(this).hasClass('selected')){
+$(document).ready(function () {
+
+    $('.tab-title').on('click', function () {
+        if ($(this).hasClass('selected')) {
             return;
-        }else{
+        } else {
             $('.tab-title.selected').removeClass('selected');
             $('.tab-content.selected').removeClass('selected');
             $(this).addClass('selected');
+            $(this).scroll();
+
             var contId = $(this).data('id');
-            $('.tab-content[data-id='+contId+']').addClass('selected');
+            $('.tab-content[data-id=' + contId + ']').addClass('selected');
         }
-        
+
     });
 });

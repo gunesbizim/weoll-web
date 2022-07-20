@@ -6,8 +6,8 @@
         <div class="row">
             @foreach ($otherSolutions->solutions as $solution)
                 @if (!str_contains(url()->current(), $solution->slug))
-                    <div class="col-md-4 col-xs-12 icons-cont">
-                        <div class="other-solution">
+                    <div class="col-md-4 col-xs-12 icons-cont flex-row">
+                        <div class="other-solution flex-row">
                             <img class="" src="/assets/img/solutions/otherSolutions/{{ $solution->icon }}"
                                 alt="">
                             <h4>{{ $solution->title }}</h4>

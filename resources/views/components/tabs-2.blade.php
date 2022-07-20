@@ -8,7 +8,7 @@
     <div class="spacer-110"></div>
 
     <div class="row">
-        <div class="col-md-6 col-xs-12">
+        <div class="col-md-6 col-xs-12 d-flex flex-column flex-v-center flex-h-center">
             @foreach ($tabsTwo->tabs as $tab)
                 <img class="tabs-two-img {{ $loop->first ? 'selected' : '' }}" src="/assets/img/{{ $tab->img }}"
                     alt="" data-id={{ $loop->index }}>
