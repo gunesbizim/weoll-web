@@ -1,20 +1,20 @@
 <div class="container">
     <div class="row">
-        <div class="col-md-12 col-xs-12">
+        <div class="col-md-12 col-xs-12 ">
             <h2 class="blog-title"> {{ $tabsTwoRev->sectionTitle }}</h2>
             <h3 class="blog-subtitle"> {{ $tabsTwoRev->sectionSubTitle }}</h3>
         </div>
     </div>
     <div class="spacer-110"></div>
 
-    <div class="row reversed">
+    <div class="row reversed flex-v-center flex-h-center">
         <div class="col-md-6 col-xs-12">
             @foreach ($tabsTwoRev->tabs as $tab)
                 <img class="tabs-two-img {{ $loop->first ? 'selected' : '' }}" src="/assets/img/{{ $tab->img }}"
                     alt="" data-id={{ $loop->index }}>
             @endforeach
         </div>
-        <div class="col-md-6 col-xs-12">
+        <div class="col-md-6 col-xs-12 ">
             @foreach ($tabsTwoRev->tabs as $tab)
                 <div class="tab-cont-container {{ $loop->first ? 'selected' : '' }}" data-id="{{ $loop->index }}">
                     <div class="tab-img-cont">
