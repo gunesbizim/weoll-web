@@ -7,7 +7,7 @@
             <a href="{{ $discoverHero->ctaUrl === '#' ? '#' : route($discoverHero->ctaUrl) }}"
                 class="cta">{{ $discoverHero->ctaText }}</a>
         </div>
-        <a class="mobile arrow-down" href="#nextSection"><i class="fa-solid fa-angle-down"></i></a>
+        {{-- <a class="mobile arrow-down" href="#nextSection"><i class="fa-solid fa-angle-down"></i></a> --}}
 
     </div>
 </div>
