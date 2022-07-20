@@ -47,6 +47,9 @@ $(document).ready(function () {
       $('.navigator').focus();
       $(this).removeClass('active');
     } else {
+      $.each($('.nav-link.fa-angle-down'), function (key, value) {
+        $(this).removeClass('active');
+      });
       $(this).addClass('active');
     }
   });
