@@ -54,6 +54,7 @@
     @else
         @include('layouts.footer-form')
     @endif
+
     @include('layouts.footer')
 
     @yield('custom-script')
