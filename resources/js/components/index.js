@@ -37,14 +37,22 @@ $(document).ready(function () {
     $('.nav-link').on('click', function () {
         $(this).focus();
     });
+    $('.nav-link.fa-angle-down').on('click',function(){
+        if ($(this).hasClass('active')) {
+            $('.navigator').focus();
+            $(this).removeClass('active');
+        }else{
+            $(this).addClass('active')
+        }
+    });
 
     if ($(window).width() <= 992) {
 
 
         $('.package-button').on('click', function () {
-            if($(this).hasClass('selected')){
+            if ($(this).hasClass('selected')) {
                 return;
-            }else{
+            } else {
                 $('.package-button').removeClass('selected');
                 $(this).addClass('selected');
             }

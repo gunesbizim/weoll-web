@@ -12,7 +12,7 @@
             @endforeach
             {{-- @dd($successSections) --}}
             <div class="spacer-80"></div>
-            <div class="brands-container d-flex flex-column">
+            <div class="brands-container d-flex">
 
                 @foreach ($successSections->needs->brands as $brand)
                     <div class="col-md-4 text-center success-logo-cont">
