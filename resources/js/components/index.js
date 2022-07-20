@@ -37,12 +37,17 @@ $(document).ready(function () {
     $('.nav-link').on('click', function () {
         $(this).focus();
     });
-    $('.nav-link.fa-angle-down').on('click',function(){
+    $('.nav-link.fa-angle-down').on('click', function () {
         if ($(this).hasClass('active')) {
             $('.navigator').focus();
             $(this).removeClass('active');
-        }else{
-            $(this).addClass('active')
+        } else {
+            $.each($('.nav-link.fa-angle-down'), function (key, value) {
+                $(this).removeClass('active');
+
+            });
+            $(this).addClass('active');
+
         }
     });
 
