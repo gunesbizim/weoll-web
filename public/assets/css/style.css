@@ -1217,6 +1217,9 @@ h2.purple {
     .w60 {
         width: 60%;
     }
+    .no-padding-mobile{
+        padding: 0 !important;
+    }
     .spacer-230{
         height: 100px;
     }

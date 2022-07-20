@@ -53,7 +53,7 @@
             @endforeach
             <div class="row no-padding">
                 <div class="col-md-6"></div>
-                <div class="col-md-6 d-flex no-padding">
+                <div class="col-md-6 d-flex no-padding-mobile">
                     <div class="col-md-6 text-center no-padding d-flex spacing-fix w40"> <a class="package-cta first-btn"
                             href="#">Satın Al</a>
                     </div>
