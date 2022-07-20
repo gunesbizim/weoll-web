@@ -183,6 +183,11 @@ ul.navigator {
 
 }
 
+@media only screen and (min-width:1280px){
+    .nav-link:hover .hidden-sub{
+        min-width: 250px;
+    }
+}
 .nav-link:hover .hidden-sub {
     display: block;
     top: 70px;
