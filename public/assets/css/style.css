@@ -1116,7 +1116,6 @@ h2.purple {
 .footer-contact h2 {
     font-size: var(--f55);
     color: var(--weollPurple);
-    text-align: center;
     margin-bottom: 48px;
 }
 
@@ -1482,6 +1481,9 @@ h2.purple {
     }
 
     .footer-contact .col-md-6 {
+        padding: 0;
+    }
+    .footer-contact .col-md-12{
         padding: 0;
     }
 
