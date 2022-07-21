@@ -11,7 +11,8 @@ return [
         "ctaText" => "",
         "img" => "kurum-icindeki-is-ortaginiz.svg",
         "imgSize" => "",
-        "hideCta" => true
+        "hideCta" => true,
+        "safariOnly" => true
 
     ]
 ];

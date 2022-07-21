@@ -2,8 +2,14 @@
 <div class="container footer-contact">
 
     <div class="row">
-        <h2>Bizimle İletişime Geçin</h2>
-        <div class="col-md-6 col-xs-12"></div>
+        <div class="col-md-6 col-xs-12 d-flex flex-column flex-v-center">
+            <h2>Bizimle İletişime Geçin</h2>
+            <p>Dijital dönüşüm gerçekleştiren kurumların
+                yeniden yapılanma süreçlerinde, onlara seçim
+                özgürlüğü tanıyor; kurumların kendine has iş yapış
+                biçimlerine uyum sağlıyor, kurumsal iş ve iletişim
+                süreçlerinin verimliliğini artırıyoruz.</p>
+        </div>
         <div class="col-md-6 col-xs-12">
             <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST"
                 class="d-flex flex-column form-footer border-r-5" id="request-demo">

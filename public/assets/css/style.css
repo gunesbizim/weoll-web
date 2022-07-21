@@ -194,7 +194,7 @@ ul.navigator {
     top: 70px;
     left: -20px;
     position: absolute;
-    padding: 16px 16px;
+    padding: 16px;
     border: 1px solid var(--lightGray);
     border-top: none !important;
     border-radius: 0 0px 5px 5px;
@@ -1116,7 +1116,6 @@ h2.purple {
 .footer-contact h2 {
     font-size: var(--f55);
     color: var(--weollPurple);
-    text-align: center;
     margin-bottom: 48px;
 }
 
@@ -1217,10 +1216,19 @@ h2.purple {
     .w60 {
         width: 60%;
     }
+<<<<<<< HEAD
     .no-padding-mobile{
         padding: 0 !important;
     }
     .spacer-230{
+=======
+
+    .no-padding-mobile {
+        padding: 0 !important;
+    }
+
+    .spacer-230 {
+>>>>>>> origin/gunes
         height: 100px;
     }
 
@@ -1273,6 +1281,20 @@ h2.purple {
         max-height: 43px;
         border: 1px solid var(--lightGray);
         border-radius: 5px;
+        height: auto;
+        max-height: 100%;
+        flex-flow: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+    }
+
+    .navigator.active .nav-link .hidden-sub {
+        padding: 16px;
+        text-align: left;
+    }
+
+    header .navigator li {
+        margin: 0;
     }
 
     .menu-toggle {
@@ -1320,17 +1342,7 @@ h2.purple {
         transform: translateY(-50%);
     }
 
-    .nav-link:hover {
-        flex-flow: column;
-        align-items: flex-start;
-        justify-content: flex-start;
-        max-width: auto;
-    }
 
-    .navigator .nav-link {
-        height: auto;
-        max-height: 100%;
-    }
 
     .nav-link.active .hidden-sub {
         position: unset;
@@ -1351,6 +1363,7 @@ h2.purple {
     .nav-link.active .hidden-sub li {
         max-width: 100%;
         width: 100%;
+        padding: 4px 0;
     }
 
     .nav-link.active .hidden-sub li a {
@@ -1444,6 +1457,14 @@ h2.purple {
         height: 12px;
     }
 
+    .tabs-2-title {
+        font-size: var(--f16);
+    }
+
+    .success-logo-cont {
+        margin: 8px 0;
+    }
+
     .splide__arrows.splide__arrows--ltr {
         display: none !important;
     }
@@ -1469,14 +1490,18 @@ h2.purple {
     .footer-contact .col-md-6 {
         padding: 0;
     }
+    .footer-contact .col-md-12{
+        padding: 0;
+    }
 
     .footer-contact form {
         padding: 0;
     }
 
     .contact-info {
-        text-align: center;
-        margin: 16px 0;
+        text-align: left;
+        margin: 8px 0;
+        padding: 8px 48px;
     }
 
     .reversed {
@@ -1651,6 +1676,18 @@ h2.purple {
     .package-button.btntwo.selected {
         color: #fff !important;
         background-color: var(--weollPurple);
+    }
+
+    @supports (-webkit-hyphens:none) {
+
+        .safari_only {
+            height: auto !important;
+            margin-bottom: 32px !important;
+        }
+        .safari_only .hero-img img{
+            max-width: 100%;
+        }
+
     }
 
 }
