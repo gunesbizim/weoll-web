@@ -10,7 +10,7 @@
         {{-- @dd($icons) --}}
         @foreach ($icons->icons as $icon)
             {{-- @dd($icon) --}}
-            <div class="col-md-2 col-xs-4">
+            <div class="col-md-2 col-xs-6">
                 <div class="icons-cont flex-v-center flex-h-center">
                     <img class="icons-icon" src="/assets/img/icons/icons-explanations/{{ $icon->img }}"
                         alt="">

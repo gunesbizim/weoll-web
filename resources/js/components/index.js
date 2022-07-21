@@ -18,8 +18,13 @@ $(document).ready(function () {
                 $(this).parent().addClass('fa-angle-down');
             }
         });
-        $($('.container').get(1)).attr('id', 'nextSection')
+        // $($('.container').get(1)).attr('id', 'nextSection')
     }
+    $('.nav-link a').on('click',function(e){
+        if($(this).attr('href') == "  "){
+            e.preventDefault();
+        }
+    });
 
     $('.menu-toggle').on('click', function () {
         if ($(this).hasClass('active')) {
@@ -60,9 +65,19 @@ $(document).ready(function () {
             } else {
                 $('.package-button').removeClass('selected');
                 $(this).addClass('selected');
+                if ($(this).hasClass('btnone')) {
+                    $('.first-btn').html('Satın Al');
+                    $('.second-btn').html('Enterprise Paketi İncele');
+                    $('.second-btn').addClass('enterprise-btn');
+                    $('.second-btn').removeClass('business-btn');
+                } else {
+                    $('.first-btn').html('Teklif Al');
+                    $('.second-btn').html('Business Paketi İncele');
+                    $('.second-btn').addClass('business-btn');
+                    $('.second-btn').removeClass('enterprise-btn');
+                }
             }
             if ($(this).attr('data-id') == 1) {
-
                 if ($('.pone').hasClass('active')) {
                     return;
                 } else {
@@ -79,7 +94,15 @@ $(document).ready(function () {
             }
 
         });
+        $('.package-cta.second-btn').on('click',function(e){
+            console.log('here');
+            e.preventDefault();
+            if($(this).hasClass('enterprise-btn')){
+                $('.package-button.btntwo').click();
+            }else{
+                $('.package-button.btnone').click();
+            }
+        })
     }
-
 
 });

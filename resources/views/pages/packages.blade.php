@@ -53,12 +53,12 @@
             @endforeach
             <div class="row no-padding">
                 <div class="col-md-6"></div>
-                <div class="col-md-6 d-flex no-padding">
-                    <div class="col-md-6 text-center no-padding d-flex spacing-fix w40"> <a class="package-cta"
+                <div class="col-md-6 d-flex no-padding-mobile">
+                    <div class="col-md-6 text-center no-padding d-flex spacing-fix w40"> <a class="package-cta first-btn"
                             href="#">Satın Al</a>
                     </div>
-                    <div class="col-md-6 text-center no-padding d-flex w60"> <a class="package-cta" href="#">Teklif
-                            Al</a>
+                    <div class="col-md-6 text-center no-padding d-flex w60"> <a
+                            class="package-cta second-btn enterprise-btn" href="#">Enterprise Paketi İncele</a>
                     </div>
 
                 </div>

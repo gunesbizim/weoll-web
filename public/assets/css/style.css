@@ -986,13 +986,7 @@ div[role="progressbar"]::before {
     height: 135px;
 }
 
-.w40 {
-    width: 40%;
-}
 
-.w60 {
-    width: 60%;
-}
 
 .package:first-child {
     margin-right: 2%;
@@ -1081,7 +1075,7 @@ h2.purple {
     min-width: 190px !important;
     padding: 8px 16px;
     border-radius: 5px;
-    border: 1px solid var(--lightGray);
+    /* border: 1px solid var(--lightGray); */
     margin: 0 16px;
     position: relative;
     font-family: 'Raleway', 'sans-serif';
@@ -1216,6 +1210,20 @@ h2.purple {
         --iconBorder: #E4E4E4;
     }
 
+    .w40 {
+        width: 40%;
+    }
+
+    .w60 {
+        width: 60%;
+    }
+    .no-padding-mobile{
+        padding: 0 !important;
+    }
+    .spacer-230{
+        height: 100px;
+    }
+
     .spacer-80 {
         height: 40px;
     }
@@ -1270,6 +1278,7 @@ h2.purple {
     .menu-toggle {
         font-size: 32px;
         color: var(--weollPurple);
+        position: relative;
     }
 
     .menu-toggle.active .fa-bars {
@@ -1285,6 +1294,9 @@ h2.purple {
     .menu-toggle .fa-bars {
         visibility: visible;
         width: auto;
+        position: absolute;
+        top: 10px;
+        right: 0;
     }
 
     .container.fullpage.fullwidth.m-40 {
@@ -1330,6 +1342,10 @@ h2.purple {
 
     .nav-link .hidden-sub {
         display: none !important;
+    }
+
+    .nav-link a {
+        line-height: 1 !important;
     }
 
     .nav-link.active .hidden-sub li {
@@ -1409,6 +1425,10 @@ h2.purple {
 
     .col-xs-4 {
         width: 33.3333%;
+    }
+
+    .col-xs-6 {
+        width: 50%;
     }
 
     p.testimonial {
@@ -1584,7 +1604,7 @@ h2.purple {
     }
 
     p.tabs-2-cont {
-        font-size: 8px;
+        font-size: var(--f12);
     }
 
     .pone,
