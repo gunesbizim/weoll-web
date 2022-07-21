@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="58" viewBox="0 0 58 58">
+  <g id="Group_774" data-name="Group 774" transform="translate(-1224 -3265)">
+    <g id="Group_773" data-name="Group 773">
+      <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(1224 3265)" fill="#e9eef1" stroke="#dee2e6" stroke-width="1">
+        <rect width="58" height="58" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="57" height="57" rx="4.5" fill="none"/>
+      </g>
+      <path id="checkbox-marked-outline" d="M37.307,37.307H7.288V7.288H28.73V3H7.288A4.274,4.274,0,0,0,3,7.288V37.307A4.288,4.288,0,0,0,7.288,41.6H37.307A4.288,4.288,0,0,0,41.6,37.307V20.153H37.307M13.528,18.181,10.5,21.225l9.649,9.649L41.6,9.433,38.572,6.388,20.153,24.806Z" transform="translate(1230.702 3271.702)" fill="#71005d"/>
+    </g>
+  </g>
+</svg>
