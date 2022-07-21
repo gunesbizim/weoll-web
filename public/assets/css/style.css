@@ -1216,19 +1216,12 @@ h2.purple {
     .w60 {
         width: 60%;
     }
-<<<<<<< HEAD
-    .no-padding-mobile{
-        padding: 0 !important;
-    }
-    .spacer-230{
-=======
 
     .no-padding-mobile {
         padding: 0 !important;
     }
 
     .spacer-230 {
->>>>>>> origin/gunes
         height: 100px;
     }
 
@@ -1691,3 +1684,4 @@ h2.purple {
     }
 
 }
+
