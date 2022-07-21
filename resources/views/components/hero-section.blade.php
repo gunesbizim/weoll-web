@@ -1,4 +1,4 @@
-<div class="container fullpage fullwidth m-40">
+<div class="container fullpage fullwidth m-40 {{ $heroData->hero->safariOnly ? 'safari_only' : '' }}">
     <div class="row">
         <div class="d-flex col-md-6 col-xs-12 flex-column flex-v-center">
             {{-- @dd($heroData) --}}

@@ -17,7 +17,7 @@
                 @foreach ($successSections->needs->brands as $brand)
                     <div class="col-md-4 text-center success-logo-cont">
                         <img src="/assets/img/successStories/{{ $brand->logo }}" alt="">
-                        <p class="text-center">{{ $brand->info }}</p>
+                        {{-- <p class="text-center">{{ $brand->info }}</p> --}}
                     </div>
                 @endforeach
             </div>
