@@ -3,14 +3,14 @@
     <div class="row spacing">
         <div class="col-md-12 col-xs-12 d-grid grid-md-4">
 
-            @foreach ($menu as $menuItem)
+            @foreach ($footer->menu as $menuItem)
                 <div class="footer-menu-cont {{ $loop->index > 3 ? 'footer-spacing' : '' }}">
                     <h4><a
-                            href="{{ $menuItem['url'] !== '#' ? route($menuItem['url']) : ' ' }} ">{{ $menuItem['title'] }}</a>
+                            href="{{ $menuItem->url !== '#' ? route($menuItem->url) : ' ' }} ">{{ $menuItem->title }}</a>
                     </h4>
-                    @if (count($menuItem['sub-menus']) > 0)
-                        @foreach ($menuItem['sub-menus'] as $subMenuItem)
-                            <a href="{{ route($subMenuItem['url']) }}">{{ $subMenuItem['title'] }}</a>
+                    @if (count($menuItem->subMenus) > 0)
+                        @foreach ($menuItem->subMenus as $subMenuItem)
+                            <a href="{{ route($subMenuItem->url) }}">{{ $subMenuItem->title }}</a>
                         @endforeach
                     @endif
                 </div>

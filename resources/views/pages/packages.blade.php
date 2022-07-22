@@ -39,13 +39,13 @@
                                 class="col-md-6 text-center subfeature width-fix spacing-fix {{ $feature->packageAvailibility->{$p1} ? 'package pone active' : ' package active pone' }}">
                                 {!! $feature->packageAvailibility->{$p1}
                                     ? '<img src="/assets/img/icons/check.svg">'
-                                    : '<img src="/assets/img/icons/uncheck.svg">' !!}
+                                    : '<div class="uncheck"></div>' !!}
                             </div>
                             <div
                                 class="col-md-6 text-center subfeature width-fix {{ $feature->packageAvailibility->{$p2} ? 'package ptwo' : '' }}">
                                 {!! $feature->packageAvailibility->{$p2}
                                     ? '<img src="/assets/img/icons/check-purple.svg">'
-                                    : '<img src="/assets/img/icons/uncheck.svg">' !!}
+                                    : '<div class="uncheck"></div>' !!}
                             </div>
                         </div>
                     </div>

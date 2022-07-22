@@ -30,6 +30,7 @@ class AppServiceProvider extends ServiceProvider
     public function boot()
     {
         $data = config('content.header');
+        $footer = arrayToObject(config('content.footer'));
         $menu = $data['menu'];
         $cta = $data['cta'];
 
@@ -39,5 +40,6 @@ class AppServiceProvider extends ServiceProvider
         View::share('cta', $cta);
         View::share('socialMedias', $socialMedias);
         View::share('contactIcons', $contactIcons);
+        View::share('footer', $footer);
     }
 }
