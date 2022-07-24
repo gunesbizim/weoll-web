@@ -5,8 +5,7 @@
 
             @foreach ($footer->menu as $menuItem)
                 <div class="footer-menu-cont {{ $loop->index > 3 ? 'footer-spacing' : '' }}">
-                    <h4><a
-                            href="{{ $menuItem->url !== '#' ? route($menuItem->url) : ' ' }} ">{{ $menuItem->title }}</a>
+                    <h4><a href="{{ $menuItem->url !== '#' ? route($menuItem->url) : ' ' }} ">{{ $menuItem->title }}</a>
                     </h4>
                     @if (count($menuItem->subMenus) > 0)
                         @foreach ($menuItem->subMenus as $subMenuItem)
@@ -40,7 +39,7 @@
             <div class="social-media-container d-flex flex-h-center">
                 @foreach ($socialMedias as $social)
                     <div class="social">
-                        <a href="{{ $social->url }}"> <img src="/assets/img/icons/{{ $social->img }}"
+                        <a href="{{ $social->url }}"> <img loading="lazy" src="/assets/img/icons/{{ $social->img }}"
                                 alt="{{ $social->alt }}"> </a>
                     </div>
                 @endforeach
