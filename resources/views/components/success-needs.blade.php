@@ -5,7 +5,7 @@
             @foreach ($successSections->needs->subNeeds as $subNeed)
                 <div class="col-md-6 col-xs-12">
                     <div class="need-container d-flex flex-h-center">
-                        <img src="/assets/img/successStories/{{ $subNeed->icon }}" alt="">
+                        <img loading="lazy" src="/assets/img/successStories/{{ $subNeed->icon }}" alt="">
                         <p>{{ $subNeed->info }}</p>
                     </div>
                 </div>
@@ -16,7 +16,7 @@
 
                 @foreach ($successSections->needs->brands as $brand)
                     <div class="col-md-4 text-center success-logo-cont">
-                        <img src="/assets/img/successStories/{{ $brand->logo }}" alt="">
+                        <img loading="lazy" src="/assets/img/successStories/{{ $brand->logo }}" alt="">
                         {{-- <p class="text-center">{{ $brand->info }}</p> --}}
                     </div>
                 @endforeach

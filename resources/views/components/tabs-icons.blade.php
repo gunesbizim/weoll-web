@@ -21,7 +21,7 @@
                                 <div class="col-md-6">
                                     <div class="tab-icon-container">
                                         <div class="tab-icon d-flex flex-h-center">
-                                            <img src="/assets/img/solutions/humanRes/{{ $icon->icon }}"
+                                            <img loading="lazy" src="/assets/img/solutions/humanRes/{{ $icon->icon }}"
                                                 alt="{{ $icon->alt }}">
                                         </div>
                                         <div class="tab-info d-flex flex-h-center">
@@ -34,7 +34,7 @@
                     </div>
 
                     <div class="col-xs-12 col-md-6 flex-v-center flex-h-center">
-                        <img src="/assets/img/solutions/humanRes/{{ $tab->img }}">
+                        <img loading="lazy" src="/assets/img/solutions/humanRes/{{ $tab->img }}">
                     </div>
 
                 </div>
