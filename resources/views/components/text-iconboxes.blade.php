@@ -11,7 +11,7 @@
             <div class="col-md-6 col-xs-12">
                 <div class="tab-cont-container visible m-12 border-r-5">
                     <div class="tab-img-cont">
-                        <img src="/assets/img/discover-weoll/{{ $box->icon }}" alt="">
+                        <img loading="lazy" src="/assets/img/discover-weoll/{{ $box->icon }}" alt="">
                     </div>
                     <div class="tab-content-cont">
                         <h4 class="tabs-2-title">{{ $box->title }}</h4>
