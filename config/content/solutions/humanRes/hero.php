@@ -10,7 +10,8 @@ return [
             kurumsal portalınızı ihtiyaçlarınıza göre kişiselleştirebilirsiniz.",
         "ctaText" => "Ücretsiz Deneyin",
         "img" => "placeholder-1.png",
-        "imgSize" => "fullsize"
+        "imgSize" => "fullsize",
+        "ctaUrl" => "/try-now",
 
     ]
 ];

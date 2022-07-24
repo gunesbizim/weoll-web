@@ -13,7 +13,9 @@ return [
         paylaşım yapmaya kadar pek çok özelliğe tek noktadan ulaşabilirsiniz.",
         "img" => "microsoft-entegrasyonu.svg",
         "ctaText" => "Ücretsiz Deneyin",
-        "imgSize" => ""
+        "imgSize" => "",
+        "ctaUrl" => "/try-now",
+
 
     ]
 ];

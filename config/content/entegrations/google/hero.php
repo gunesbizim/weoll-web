@@ -15,7 +15,8 @@ return [
         entegre eden kurumlar rekabette bir adım öne çıkıyor.",
         "img" => "google-workspace-entegrasyonu.svg",
         "ctaText" => "Ücretsiz Deneyin",
-        "imgSize" => ""
+        "imgSize" => "",
+        "ctaUrl" => "/try-now",
 
     ]
 ];

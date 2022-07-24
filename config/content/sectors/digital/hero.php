@@ -10,6 +10,8 @@ return [
         eşlik ediyor, teknolojiyi ve dijital çözümleri iş süreçlerine entegre ediyoruz.",
         "ctaText" => "Ücretsiz Deneyin",
         "img" => "dijitali-odagina-alan.svg",
-        "imgSize" => ""
+        "imgSize" => "",
+        "ctaUrl" => "/try-now",
+
     ]
 ];

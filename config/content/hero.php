@@ -8,6 +8,7 @@ return [
             ve verimliliğini artırmanıza olanak tanıyoruz.",
         "ctaText" => "KEŞFET",
         "img" => "herobanner.png",
-        "imgSize" => "fullsize"
+        "imgSize" => "fullsize",
+        "ctaUrl" => "/who-are-we#video"
     ]
 ];

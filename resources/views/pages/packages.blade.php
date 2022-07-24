@@ -55,10 +55,11 @@
                 <div class="col-md-6"></div>
                 <div class="col-md-6 d-flex no-padding-mobile">
                     <div class="col-md-6 text-center no-padding d-flex spacing-fix w40"> <a class="package-cta first-btn"
-                            href="#">Satın Al</a>
+                            href="/try-now">Satın Al</a>
                     </div>
                     <div class="col-md-6 text-center no-padding d-flex w60"> <a
-                            class="package-cta second-btn enterprise-btn" href="#">Enterprise Paketi İncele</a>
+                            class="package-cta second-btn enterprise-btn" href="#footer-contact">Enterprise Paketi
+                            İncele</a>
                     </div>
 
                 </div>

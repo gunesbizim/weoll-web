@@ -96,7 +96,6 @@ $(document).ready(function () {
       }
     });
     $('.package-cta.second-btn').on('click', function (e) {
-      console.log('here');
       e.preventDefault();
 
       if ($(this).hasClass('enterprise-btn')) {
@@ -104,6 +103,14 @@ $(document).ready(function () {
       } else {
         $('.package-button.btnone').click();
       }
+    });
+    $('.package-cta.first-btn').on('click', function (e) {
+      if ($('.package-button.btntwo').hasClass('selected')) {
+        e.preventDefault();
+        $('html, body').animate({
+          scrollTop: $("#footer-contact").offset().top
+        }, 500);
+      } else {}
     });
   }
 });

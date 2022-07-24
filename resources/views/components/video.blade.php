@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" id="{{ $video->container_id }}">
     <div class="row">
         <div class="col-md-12 col-xs-12 d-flex flex-v-center flex-h-center video-container">
             <iframe class="video" width="100%" height="auto" src="https://www.youtube.com/embed/{{ $video->embed }}"

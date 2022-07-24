@@ -14,7 +14,9 @@ return [
             sağlayabilir, kişilere yetki atayabilirsiniz.",
         "ctaText" => "Ücretsiz Deneyin",
         "img" => "placeholder-1.png",
-        "imgSize" => "fullsize"
+        "imgSize" => "fullsize",
+        "ctaUrl" => "/try-now",
+
 
     ]
 ];

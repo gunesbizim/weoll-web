@@ -1,5 +1,5 @@
 <div class="spacer-80"></div>
-<div class="container footer-contact">
+<div class="container footer-contact" id="footer-contact">
 
     <div class="row">
         <div class="col-md-6 col-xs-12 d-flex flex-column">
