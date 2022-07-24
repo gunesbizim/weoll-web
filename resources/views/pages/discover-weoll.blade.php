@@ -1,4 +1,7 @@
-@extends('layouts.master')
+@extends('layouts.master', [
+    'title' => 'Weoll’u Keşfet',
+    'metadesc' => 'Dijital dönüşüm gerçekleştiren kurumların yeniden yapılanma süreçlerinde, onlara seçim özgürlüğü tanıyor; kurumların kendine has iş yapış biçimlerine uyum sağlıyor, kurumsal iş ve iletişim süreçlerinin verimliliğini artırıyoruz.',
+])
 
 @section('content')
     @include('components.discover-hero')

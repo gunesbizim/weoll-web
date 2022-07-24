@@ -1,8 +1,16 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
-
-<title></title>
+<link rel="shortcut icon" type="image/png" href="/favicon.png" />
+<title>
+    @php
+        if (isset($title)) {
+            $title = 'Weoll | ' . $title;
+        } else {
+            $title = 'Weoll';
+        }
+    @endphp
+    {{ $title }}</title>
 <meta name="description" content="{{ $metadesc ?? '' }}">
 <meta name="csrf-token" content="{{ csrf_token() }}" />
 {{-- GTM START --}}

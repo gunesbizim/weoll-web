@@ -1,4 +1,7 @@
-@extends('layouts.master')
+@extends('layouts.master', [
+    'title' => 'Size En Uygun Paket Hangisi?',
+    'metadesc' => 'Weoll olarak, kurumunuzun iş ve iletişim süreçleri ihtiyaçlarınızı keşfetmenizi sağlıyor, bu ihtiyaçlara en uygun dijital çözümleri seçebileceğiniz bir deneyim alanı açıyoruz.',
+])
 
 @section('content')
     <div class="container packages">

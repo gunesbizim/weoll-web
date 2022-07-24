@@ -1,4 +1,7 @@
-@extends('layouts.master')
+@extends('layouts.master', [
+    'title' => 'Perakende Sektörü Weoll Kullanıyor',
+    'metadesc' => 'Mekandan ve cihazdan bağımsız olarak her an ulaşılabilir, hızla değişen çalışan sirkülasyonuna ayak uyduran, daha akıllı, verimli, dinamik bir kurum kültürüne ulaşmanıza aracı oluyoruz.',
+])
 
 @section('content')
     @include('layouts.head')

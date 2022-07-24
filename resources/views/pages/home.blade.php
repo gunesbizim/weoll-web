@@ -1,4 +1,7 @@
-@extends('layouts.master')
+@extends('layouts.master', [
+    'title' => 'Kurum İçi İletişim ve Süreç Yönetimi Platformu',
+    'metadesc' => 'Yeni nesil dijital uygulamalarla iş ve iletişim süreçlerinizi güçlendirerek kurumunuza değer katıyor, çalışan bağlılığını ve verimliliğini artırmanıza olanak tanıyoruz.',
+])
 
 @section('custom-css')
     <link rel="stylesheet" href="assets/splideslider/dist/css/splide.min.css">

@@ -1,4 +1,7 @@
-@extends('layouts.master')
+@extends('layouts.master', [
+    'title' => 'Kurumsal Kaynak Yönetimi Süreçleri',
+    'metadesc' => 'Weoll’un kurumsal kaynak yönetimi çözümleri ile kurumsal kaynaklarınızın kullanımında şeffaflığı ve görünürlüğü artırabilirsiniz',
+])
 
 @section('content')
     @include('components.hero-section')
