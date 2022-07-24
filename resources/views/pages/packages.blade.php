@@ -7,7 +7,7 @@
     <div class="container packages">
         <div class="spacer-230"></div>
         <div class="row">
-            <h1 class="text-center">{{ $packages->title }}</h1>
+            <h1 class="text-center" style="color:var(--weollPurple)">{{ $packages->title }}</h1>
             <div class="spacer-80"></div>
         </div>
         <div class="row flex-v-center flex-h-center d-flex packages-container">
