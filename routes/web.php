@@ -102,5 +102,5 @@ Route::controller(SuccessController::class)->prefix('basari-hikayesi')->group(fu
 // });
 
 Route::get('/404', function () {
-    return view('errors.404');
+    return response()->view('errors.404', [], 404);
 })->name('404');
