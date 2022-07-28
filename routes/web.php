@@ -2,6 +2,10 @@
 
 //use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
+use Spatie\Browsershot\Browsershot;
+use Spatie\Crawler\Crawler;
+use Spatie\Sitemap\Tags\Url;
+use Spatie\Sitemap\SitemapGenerator;
 
 /*
 |--------------------------------------------------------------------------
@@ -55,6 +59,47 @@ Route::controller(SuccessController::class)->prefix('basari-hikayesi')->group(fu
     Route::get('/toyzzshop', 'showToyzzShop')->name('toyzz-shop');
     Route::get('/ascelik', 'showAscelik')->name('ascelik');
 });
+
+// Route::get('generate-sitemap', function () {
+
+
+//     $path = public_path() . "/sitemap.xml";
+//     $dom = request()->root();
+
+//     $browsershot = (new Browsershot())->noSandbox()->ignoreHttpsErrors();
+
+//     $sitemap = SitemapGenerator::create("http://nginx/")
+//         ->configureCrawler(function (Crawler $crawler) use ($browsershot) {
+//             // dd($crawler, $browsershot);
+//             // $crawler->setBrowsershot($browsershot);
+//         })
+//         ->hasCrawled(function (Url $url) use ($dom) {
+//             // dd($url);
+//             // overwriting the base nginx url in our sitemap. Without this the url display in the xml will look something like this: https://nginx/uri
+//             $uri = implode('/', $url->segments());
+//             $url->setUrl($dom . '/' . $uri);
+//             return $url;
+//         })
+//         ->getSitemap()
+//         // adding the base slug routes
+//         // ->add(Url::create('/courses')->setPriority(0.9))
+//     ;
+
+//     // Contributor::toSitemap()->each(function(Contributor $model) use (&$sitemap){
+//     //     $sitemap->add(Url::create("/contributor/{$model->getSlug()}"));
+//     // });
+
+//     // for some reasons laravel sitemap can only detect static pages. This is a workaround to add slug routes
+//     // $courses = Course::all();
+//     // $courses->each(function ($course) use (&$sitemap){
+//     //     $sitemap->add('/courses/' . $course->slug );
+//     // });
+//     $sitemap->writeToFile($path);
+
+//     $xml = file_get_contents($path);
+//     // $xmlObject = simplexml_load_string($xmlString);
+//     return response($xml, 200)->header('Content-Type', 'application/xml');
+// });
 
 Route::get('/404', function () {
     return view('errors.404');
