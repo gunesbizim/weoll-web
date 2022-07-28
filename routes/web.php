@@ -55,3 +55,7 @@ Route::controller(SuccessController::class)->prefix('success-stories')->group(fu
     Route::get('/toyzz-shop', 'showToyzzShop')->name('toyzz-shop');
     Route::get('/ascelik', 'showAscelik')->name('ascelik');
 });
+
+Route::get('/404', function () {
+    return view('errors.404');
+})->name('404');
