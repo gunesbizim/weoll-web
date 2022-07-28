@@ -14,6 +14,7 @@ return [
                     girdisi tipi ile form tasarlayabilirsiniz.",
                     "title" => "Gelişmiş Form Girdisi Tipleri",
                 ],
+                
                 [
                     "icon" => "temalandirma-secenekleri.svg",
                     "alt" => "",
