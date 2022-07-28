@@ -15,7 +15,7 @@ return [
         "ctaText" => "Ücretsiz Deneyin",
         "img" => "placeholder-1.png",
         "imgSize" => "fullsize",
-        "ctaUrl" => "/try-now",
+        "ctaUrl" => "/ucretsiz-dene",
 
 
     ]

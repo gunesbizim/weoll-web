@@ -16,7 +16,7 @@ return [
         "img" => "google-workspace-entegrasyonu.svg",
         "ctaText" => "Ücretsiz Deneyin",
         "imgSize" => "",
-        "ctaUrl" => "/try-now",
+        "ctaUrl" => "/ucretsiz-dene",
 
     ]
 ];

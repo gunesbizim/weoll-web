@@ -13,7 +13,7 @@ return [
         "ctaText" => "Ücretsiz Deneyin",
         "img" => "grup-sirketleri.svg",
         "imgSize" => "",
-        "ctaUrl" => "/try-now",
+        "ctaUrl" => "/ucretsiz-dene",
 
     ]
 ];

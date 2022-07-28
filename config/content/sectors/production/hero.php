@@ -10,7 +10,7 @@ return [
         "ctaText" => "Ücretsiz Deneyin",
         "img" => "uretim-sektoru.svg",
         "imgSize" => "",
-        "ctaUrl" => "/try-now",
+        "ctaUrl" => "/ucretsiz-dene",
 
     ]
 ];

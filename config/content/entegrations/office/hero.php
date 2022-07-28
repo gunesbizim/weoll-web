@@ -14,7 +14,7 @@ return [
         "img" => "microsoft-entegrasyonu.svg",
         "ctaText" => "Ücretsiz Deneyin",
         "imgSize" => "",
-        "ctaUrl" => "/try-now",
+        "ctaUrl" => "/ucretsiz-dene",
 
 
     ]

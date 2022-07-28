@@ -11,7 +11,7 @@ return [
         "ctaText" => "Ücretsiz Deneyin",
         "img" => "dijitali-odagina-alan.svg",
         "imgSize" => "",
-        "ctaUrl" => "/try-now",
+        "ctaUrl" => "/ucretsiz-dene",
 
     ]
 ];

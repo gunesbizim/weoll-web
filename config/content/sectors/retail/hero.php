@@ -11,7 +11,7 @@ return [
         "ctaText" => "Ücretsiz Dene",
         "img" => "perakende-sektoru.svg",
         "imgSize" => "",
-        "ctaUrl" => "/try-now",
+        "ctaUrl" => "/ucretsiz-dene",
 
     ]
 ];

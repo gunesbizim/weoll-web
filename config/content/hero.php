@@ -9,6 +9,6 @@ return [
         "ctaText" => "KEŞFET",
         "img" => "herobanner.png",
         "imgSize" => "fullsize",
-        "ctaUrl" => "/who-are-we#video"
+        "ctaUrl" => "/biz-kimiz#video"
     ]
 ];
