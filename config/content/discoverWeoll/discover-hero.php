@@ -6,5 +6,5 @@ return [
     onlara seçim özgürlüğü tanıyor; kurumların kendine has iş yapış biçimlerine uyum sağlıyor,
     kurumsal iş ve iletişim süreçlerinin verimliliğini artırıyoruz.",
     "ctaText" => "Ücretsiz Deneyin",
-    "ctaUrl" => "try-now",
+    "ctaUrl" => "ucretsiz-dene",
 ];

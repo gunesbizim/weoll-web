@@ -29,7 +29,7 @@ Route::controller(HomeController::class)->group(function () {
     Route::get('/biz-kimiz', 'showWhoWeAre')->name('who-are-we');
     Route::get('/basari-hikayesi', 'showSuccessStories')->name('success-stories');
     Route::get('/paketler', 'showPackages')->name('packages');
-    Route::get('/ucretsiz-dene', 'showTryNow')->name('try-now');
+    Route::get('/ucretsiz-dene', 'showTryNow')->name('ucretsiz-dene');
     Route::get('/tesekkurler', 'showThanks')->name('thanks');
 });
 //done

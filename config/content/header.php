@@ -98,7 +98,7 @@ return [
     ],
     "cta" => [
         "title" => "Ücretsiz Deneyin",
-        "url" => "try-now"
+        "url" => "ucretsiz-dene"
     ]
 
 
