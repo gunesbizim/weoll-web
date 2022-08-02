@@ -60,6 +60,9 @@ Route::controller(SuccessController::class)->prefix('basari-hikayesi')->group(fu
     Route::get('/ascelik', 'showAscelik')->name('ascelik');
 });
 
+Route::get('/blog', 'BlogController@index')->name('blog');
+Route::get('/blog/{id}', 'BlogController@show')->name('blog.show');
+
 // Route::get('generate-sitemap', function () {
 
 

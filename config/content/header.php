@@ -94,6 +94,12 @@ return [
             "sub-menus" => []
 
         ],
+        [
+            "title" => "Blog",
+            "url" => "blog",
+            "sub-menus" => []
+
+        ],
 
     ],
     "cta" => [
