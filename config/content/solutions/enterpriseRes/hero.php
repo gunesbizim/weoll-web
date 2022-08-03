@@ -1,9 +1,7 @@
 <?php
 return [
     "hero" => [
-        "h1Purple" => "KURUMSAL
-                KAYNAK
-            YÖNETİMİ SÜREÇLERİ",
+        "h1Purple" => "KURUMSAL KAYNAK YÖNETİMİ SÜREÇLERİ",
         "h1Gray" => "",
         "paragraph" => "Weoll’un kurumsal kaynak yönetimi çözümleri ile kurumsal
             kaynaklarınızın kullanımında şeffaflığı ve görünürlüğü
