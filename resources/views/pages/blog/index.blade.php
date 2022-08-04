@@ -26,6 +26,7 @@
                                     <div class="date">
                                         {{ $publish_date }}
                                     </div>
+
                                 </div>
                                 <div class="card-body-bottom">
                                     <h2 class="card-title">{{ $item['title'] }} </h2>
