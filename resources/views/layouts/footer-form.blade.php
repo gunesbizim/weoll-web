@@ -1,8 +1,8 @@
 <div class="spacer-80"></div>
-<div class="container footer-contact">
+<div class="container footer-contact" id="footer-contact">
 
     <div class="row">
-        <div class="col-md-6 col-xs-12 d-flex flex-column flex-v-center">
+        <div class="col-md-6 col-xs-12 d-flex flex-column">
             <h2>Bizimle İletişime Geçin</h2>
             <p>Dijital dönüşüm gerçekleştiren kurumların
                 yeniden yapılanma süreçlerinde, onlara seçim
@@ -52,7 +52,7 @@
                     </div>
                 </div>
                 <div class="row d-flex ">
-                    <div class="form-group col-md-12 col-xs-12 d-flex flex-column flex-h-end">
+                    <div class="form-group col-md-12 col-xs-12 d-flex flex-column">
                         <label for="message"></label>
                         <textarea name="description" id="" cols="30" rows="10" id="description"></textarea>
                         @if (env('APP_ENV') == 'production')

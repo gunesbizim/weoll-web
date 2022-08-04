@@ -9,6 +9,8 @@ return [
         ve daha çevik, kontrol edilebilir hale getirmek mümkün.",
         "ctaText" => "Ücretsiz Deneyin",
         "img" => "uretim-sektoru.svg",
-        "imgSize" => ""
+        "imgSize" => "",
+        "ctaUrl" => "/ucretsiz-dene",
+
     ]
 ];

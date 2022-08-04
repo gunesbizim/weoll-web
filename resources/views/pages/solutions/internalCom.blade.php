@@ -1,4 +1,7 @@
-@extends('layouts.master')
+@extends('layouts.master', [
+    'title' => 'Kurum İçi İletişim Süreçleri',
+    'metadesc' => 'Weoll’un kurum içi iletişim çözümleri ile kurumunuzun dinamik iletişim döngüsüne çevik şekilde cevap veren bir kurumsal portala hemen sahip olabilirsiniz.',
+])
 
 @section('content')
     @include('components.hero-section')

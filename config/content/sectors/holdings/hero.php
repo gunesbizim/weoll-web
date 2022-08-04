@@ -12,6 +12,8 @@ return [
         en uç noktalara kadar iletmenize olanak tanıyoruz.",
         "ctaText" => "Ücretsiz Deneyin",
         "img" => "grup-sirketleri.svg",
-        "imgSize" => ""
+        "imgSize" => "",
+        "ctaUrl" => "/ucretsiz-dene",
+
     ]
 ];

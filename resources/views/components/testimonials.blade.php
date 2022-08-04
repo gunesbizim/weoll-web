@@ -10,7 +10,7 @@
                                     <div class="row testimonial-grid">
                                         {{-- @dd($testimonial) --}}
                                         <div class="testimonial-img ">
-                                            <img src="/assets/img/testimonials/{{ $testimonial->img }}">
+                                            <img loading="lazy" src="/assets/img/testimonials/{{ $testimonial->img }}">
                                         </div>
                                         <div class="person-info">
                                             <p class="p-name">{{ $testimonial->name }}</p>

@@ -10,6 +10,8 @@ return [
         ulaşmanıza aracı oluyoruz.",
         "ctaText" => "Ücretsiz Dene",
         "img" => "perakende-sektoru.svg",
-        "imgSize" => ""
+        "imgSize" => "",
+        "ctaUrl" => "/ucretsiz-dene",
+
     ]
 ];

@@ -1,4 +1,7 @@
-@extends('layouts.master')
+@extends('layouts.master', [
+    'title' => 'Demo Talep Et',
+    'metadesc' => 'Dijital dönüşüm gerçekleştiren kurumların yeniden yapılanma süreçlerinde, onlara seçim özgürlüğü tanıyor; kurumların kendine has iş yapış biçimlerine uyum sağlıyoruz.',
+])
 
 
 @section('content')

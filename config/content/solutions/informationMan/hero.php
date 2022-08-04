@@ -1,8 +1,7 @@
 <?php
 return [
     "hero" => [
-        "h1Purple" => "BİLGİ YÖNETİMİ
-SÜREÇLERİ",
+        "h1Purple" => "BİLGİ YÖNETİMİ SÜREÇLERİ",
         "h1Gray" => "",
         "paragraph" => "Weoll’un bilgi yönetimi çözümleri ile çalışanların yetki sahibi
             oldukları kurumsal dokümanlara, ortak bir alandan kolaylıkla
@@ -12,7 +11,9 @@ SÜREÇLERİ",
             çözümüyle rahatlıkla bulmalarına imkan tanıyabilirsiniz.",
         "ctaText" => "Ücretsiz Deneyin",
         "img" => "placeholder-1.png",
-        "imgSize" => "fullsize"
+        "imgSize" => "fullsize",
+        "ctaUrl" => "/ucretsiz-dene",
+
 
     ]
 ];

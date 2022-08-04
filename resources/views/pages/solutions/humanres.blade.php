@@ -1,4 +1,7 @@
-@extends('layouts.master')
+@extends('layouts.master', [
+    'title' => 'İnsan Kaynakları Süreçleri',
+    'metadesc' => 'Weoll’un insan kaynakları çözümleri ile herkesi kucaklayan bir iletişim ve çalışma alanına hemen sahip olabilirsiniz.',
+])
 
 @section('content')
     @include('components.hero-section')

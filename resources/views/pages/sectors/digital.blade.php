@@ -1,4 +1,7 @@
-@extends('layouts.master')
+@extends('layouts.master', [
+    'title' => 'Dijitali Odağına Alan Kurumlar Weoll Kullanıyor',
+    'metadesc' => 'Bilgi ve iletişim teknolojileri alanındaki inovasyon hız kesmezken dijitali odağına alarak büyümek isteyen kurumların dijital dönüşüm yolculuklarına eşlik ediyoruz.',
+])
 
 @section('content')
     @include('layouts.head')

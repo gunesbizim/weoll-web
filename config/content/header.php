@@ -94,11 +94,17 @@ return [
             "sub-menus" => []
 
         ],
+        [
+            "title" => "Blog",
+            "url" => "blog",
+            "sub-menus" => []
+
+        ],
 
     ],
     "cta" => [
         "title" => "Ücretsiz Deneyin",
-        "url" => "try-now"
+        "url" => "ucretsiz-dene"
     ]
 
 

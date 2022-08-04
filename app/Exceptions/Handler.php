@@ -38,4 +38,17 @@ class Handler extends ExceptionHandler
             //
         });
     }
+
+    public function render($request, Throwable $e)
+    {
+        if ($this->isHttpException($e)) {
+            if ($e->getStatusCode() == 404)
+                return redirect()->route('404');
+
+            // if ($e->getStatusCode() == 500)
+            //     return redirect()->guest('home');
+        }
+
+        return parent::render($request, $e);
+    }
 }

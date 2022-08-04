@@ -1,10 +1,13 @@
-@extends('layouts.master')
+@extends('layouts.master', [
+    'title' => 'Size En Uygun Paket Hangisi?',
+    'metadesc' => 'Weoll olarak, kurumunuzun iş ve iletişim süreçleri ihtiyaçlarınızı keşfetmenizi sağlıyor, bu ihtiyaçlara en uygun dijital çözümleri seçebileceğiniz bir deneyim alanı açıyoruz.',
+])
 
 @section('content')
     <div class="container packages">
         <div class="spacer-230"></div>
         <div class="row">
-            <h1 class="text-center">{{ $packages->title }}</h1>
+            <h1 class="text-center" style="color:var(--weollPurple)">{{ $packages->title }}</h1>
             <div class="spacer-80"></div>
         </div>
         <div class="row flex-v-center flex-h-center d-flex packages-container">
@@ -39,13 +42,13 @@
                                 class="col-md-6 text-center subfeature width-fix spacing-fix {{ $feature->packageAvailibility->{$p1} ? 'package pone active' : ' package active pone' }}">
                                 {!! $feature->packageAvailibility->{$p1}
                                     ? '<img src="/assets/img/icons/check.svg">'
-                                    : '<img src="/assets/img/icons/uncheck.svg">' !!}
+                                    : '<div class="uncheck"></div>' !!}
                             </div>
                             <div
                                 class="col-md-6 text-center subfeature width-fix {{ $feature->packageAvailibility->{$p2} ? 'package ptwo' : '' }}">
                                 {!! $feature->packageAvailibility->{$p2}
                                     ? '<img src="/assets/img/icons/check-purple.svg">'
-                                    : '<img src="/assets/img/icons/uncheck.svg">' !!}
+                                    : '<div class="uncheck"></div>' !!}
                             </div>
                         </div>
                     </div>
@@ -55,10 +58,11 @@
                 <div class="col-md-6"></div>
                 <div class="col-md-6 d-flex no-padding-mobile">
                     <div class="col-md-6 text-center no-padding d-flex spacing-fix w40"> <a class="package-cta first-btn"
-                            href="#">Satın Al</a>
+                            href="/ucretsiz-dene">Satın Al</a>
                     </div>
                     <div class="col-md-6 text-center no-padding d-flex w60"> <a
-                            class="package-cta second-btn enterprise-btn" href="#">Enterprise Paketi İncele</a>
+                            class="package-cta second-btn enterprise-btn" href="#footer-contact">Enterprise Paketi
+                            İncele</a>
                     </div>
 
                 </div>

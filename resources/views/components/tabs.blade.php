@@ -30,7 +30,7 @@
                         </div>
 
                         <div class="col-xs-12 col-md-6 flex-v-center flex-h-center">
-                            <img src="/assets/img/{{ $tab->img }}">
+                            <img loading="lazy" src="/assets/img/{{ $tab->img }}">
                         </div>
 
                     </div>

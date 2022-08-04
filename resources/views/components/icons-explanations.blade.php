@@ -12,7 +12,7 @@
             {{-- @dd($icon) --}}
             <div class="col-md-2 col-xs-6">
                 <div class="icons-cont flex-v-center flex-h-center">
-                    <img class="icons-icon" src="/assets/img/icons/icons-explanations/{{ $icon->img }}"
+                    <img loading="lazy" class="icons-icon" src="/assets/img/icons/icons-explanations/{{ $icon->img }}"
                         alt="">
                     <p class="icons-title text-center">{{ $icon->title }}</p>
                 </div>

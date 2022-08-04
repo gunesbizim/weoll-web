@@ -8,8 +8,8 @@
                 @if (!str_contains(url()->current(), $solution->slug))
                     <div class="col-md-4 col-xs-12 icons-cont flex-row-mb">
                         <div class="other-solution flex-row-mb">
-                            <img class="" src="/assets/img/solutions/otherSolutions/{{ $solution->icon }}"
-                                alt="">
+                            <img loading="lazy" class=""
+                                src="/assets/img/solutions/otherSolutions/{{ $solution->icon }}" alt="">
                             <h4>{{ $solution->title }}</h4>
                             <p> {{ $solution->info }}</p>
                         </div>

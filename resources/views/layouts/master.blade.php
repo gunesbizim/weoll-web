@@ -7,6 +7,10 @@
 </head>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-59C36BC" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <header>
         <div class="header-container">
             <div class="logo col-md-1 d-flex flex-h-center col-xs-6">
@@ -21,8 +25,7 @@
                                 <ul class="hidden-sub">
                                     @foreach ($menuItem['sub-menus'] as $subMenuItem)
                                         <li>
-                                            <a
-                                                href="{{ route($subMenuItem['url']) }}">{{ $subMenuItem['title'] }}</a>
+                                            <a href="{{ route($subMenuItem['url']) }}">{{ $subMenuItem['title'] }}</a>
                                         </li>
                                     @endforeach
                                 </ul>

@@ -10,15 +10,15 @@
     <div class="row">
         <div class="col-md-6 col-xs-12 d-flex flex-column flex-v-center flex-h-center">
             @foreach ($tabsTwo->tabs as $tab)
-                <img class="tabs-two-img {{ $loop->first ? 'selected' : '' }}" src="/assets/img/{{ $tab->img }}"
-                    alt="" data-id={{ $loop->index }}>
+                <img loading="lazy" class="tabs-two-img {{ $loop->first ? 'selected' : '' }}"
+                    src="/assets/img/{{ $tab->img }}" alt="" data-id={{ $loop->index }}>
             @endforeach
         </div>
         <div class="col-md-6 col-xs-12">
             @foreach ($tabsTwo->tabs as $tab)
                 <div class="tab-cont-container {{ $loop->first ? 'selected' : '' }}" data-id="{{ $loop->index }}">
                     <div class="tab-img-cont">
-                        <img src="/assets/img/icons/{{ $tab->icon }}" alt="">
+                        <img loading="lazy" src="/assets/img/icons/{{ $tab->icon }}" alt="">
                     </div>
                     <div class="tab-content-cont">
                         <h4 class="tabs-2-title">{{ $tab->title }}</h4>

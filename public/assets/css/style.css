@@ -1076,11 +1076,19 @@ h2.purple {
     padding: 8px 16px;
     border-radius: 5px;
     /* border: 1px solid var(--lightGray); */
-    margin: 0 16px;
+    margin: 16px;
     position: relative;
     font-family: 'Raleway', 'sans-serif';
     font-size: 16px;
     color: var(--darkGray)
+}
+
+.uncheck {
+    border: 2.5px solid #707070;
+    height: 24px;
+    width: 24px;
+    opacity: 0.3;
+    margin: auto;
 }
 
 .contact-info::before {
@@ -1184,6 +1192,98 @@ h2.purple {
     transition: 0.25s all linear;
 }
 
+/* Blog Container START**/
+.page-item.active .page-link{
+    background-color: var(--lightBlue);
+    border-color: var(--lightBlue);
+}
+.page-link{
+    color: var(--lightBlue);
+}
+.blog-main-title {
+    text-align: center;
+    font-size: var(--f55);
+    font-weight: 300;
+    color: var(--weollPurple);
+    margin:32px 0;
+}
+
+.blog-container {
+    margin-top: 150px;
+}
+
+.blog-container nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+.blog-card {
+    padding: 16px;
+    border: 1px solid var(--lightGray);
+    border-radius: 8px;
+    margin: 8px;
+}
+
+.blog-card .card-body {
+    padding: 0;
+}
+
+.card-img img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.card-body-top {
+    margin: 8px 0;
+}
+
+.blog-card-link {
+    color: unset;
+}
+
+.blog-card-link:hover {
+    color: unset !important;
+}
+
+.blog-card-link .card-title {
+    transition: 0.2s all linear;
+    font-size: var(--f24);
+    margin: 0 0 8px 0;
+}
+
+.blog-card-link:hover .card-title {
+    color: var(--lightBlue);
+    transition: 0.2s all linear;
+}
+
+.blog-card .card-desc {
+    margin: 0;
+}
+
+/* Blog Container END **/
+
+/* Single Post Start **/
+
+.container.single-post{
+    margin-top: 150px;
+    max-width: 900px !important;
+}
+.single-post h1{
+    font-size: var(--f55);
+    color: var(--weollPurple);
+}
+.single-post-featured-img{
+    max-width: 100%;
+    width: 100%;
+    margin: 16px 0;
+}
+p.date{
+    margin:16px 0 0 0;
+}
+
+/* Single Post End **/
 @media screen and (max-width:767px) {
 
     :root {
@@ -1351,18 +1451,13 @@ h2.purple {
 
     .nav-link a {
         line-height: 1 !important;
+        width: 100%;
+        display: flex;
     }
 
     .nav-link.active .hidden-sub li {
-        max-width: 100%;
-        width: 100%;
         padding: 4px 0;
     }
-
-    .nav-link.active .hidden-sub li a {
-        width: 100%;
-    }
-
 
     .nav-link.no-border {
         border: none;
@@ -1483,7 +1578,8 @@ h2.purple {
     .footer-contact .col-md-6 {
         padding: 0;
     }
-    .footer-contact .col-md-12{
+
+    .footer-contact .col-md-12 {
         padding: 0;
     }
 
@@ -1677,11 +1773,11 @@ h2.purple {
             height: auto !important;
             margin-bottom: 32px !important;
         }
-        .safari_only .hero-img img{
+
+        .safari_only .hero-img img {
             max-width: 100%;
         }
 
     }
 
 }
-
