@@ -44,7 +44,7 @@ return [
                 </h2>
                 
                 <p>
-                Bir şirketin paylaştığı ve savunduğu değerlerin, uygulamaların, ilkelerin ve iş akış standartlarının oluşturduğu kurum kültürü, şirketin kimliğine dair genel bir çerçeve sunuyor. Bu çerçeve, işe alımdan ofis ortamına, çalışan verimliliğinden şirket algısı ve marka itibarına, birçok açıdan önem arz ediyor. Pazarlama ve iş dünyasının önemli gurularından Peter Drucker’ın 'Kültür, stratejiyi kahvaltı niyetine yer' cümlesi, güçlü bir kurum kültürünün olmadığı durumda şirket stratejisinin, büyüme planlarının, ürün ve hizmet kalitesinin pek bir anlam ifade etmeyeceğini ortaya koyuyor. Kültür ve strateji, şirket hedeflerine ulaşmanın olmazsa olmaz iki parçası, adeta madalyonun iki ayrı yüzü olarak konumlanıyor.
+                Bir şirketin paylaştığı ve savunduğu değerlerin, uygulamaların, ilkelerin ve iş akış standartlarının oluşturduğu kurum kültürü, şirketin kimliğine dair genel bir çerçeve sunuyor. Bu çerçeve, işe alımdan ofis ortamına, çalışan verimliliğinden şirket algısı ve marka itibarına, birçok açıdan önem arz ediyor. Pazarlama ve iş dünyasının önemli gurularından Peter Drucker'ın 'Kültür, stratejiyi kahvaltı niyetine yer' cümlesi, güçlü bir kurum kültürünün olmadığı durumda şirket stratejisinin, büyüme planlarının, ürün ve hizmet kalitesinin pek bir anlam ifade etmeyeceğini ortaya koyuyor. Kültür ve strateji, şirket hedeflerine ulaşmanın olmazsa olmaz iki parçası, adeta madalyonun iki ayrı yüzü olarak konumlanıyor.
                 </p>
                 <br>
                 
@@ -160,7 +160,7 @@ return [
                 <br>
                 
                 <p>
-                Weoll olarak bu yazıda öncelikle “Çalışan deneyimi nedir?” sorusuna odaklanacağız. Bu deneyimi oluşturan unsurları yakından inceleyip, her yıl trendlere göre güncellenen çalışan deneyiminde 2022’nin öne çıkanlarına göz atacağız. Akabinde, teknolojinin benzersiz çalışan deneyimleri yaratmak isteyen şirketlere nasıl yardım edeceğini ve Weoll olarak ihtiyaçlarınıza yanıt bulmak amacıyla geliştirdiğimiz ileri teknolojili <a href='https://weoll.com/weollu-kesfet' target='_blank'>çözümlerin</a>                işinizi nasıl kolaylaştıracağını özetleyeceğiz. 
+                Weoll olarak bu yazıda öncelikle “Çalışan deneyimi nedir?” sorusuna odaklanacağız. Bu deneyimi oluşturan unsurları yakından inceleyip, her yıl trendlere göre güncellenen çalışan deneyiminde 2022'nin öne çıkanlarına göz atacağız. Akabinde, teknolojinin benzersiz çalışan deneyimleri yaratmak isteyen şirketlere nasıl yardım edeceğini ve Weoll olarak ihtiyaçlarınıza yanıt bulmak amacıyla geliştirdiğimiz ileri teknolojili <a href='https://weoll.com/weollu-kesfet' target='_blank'>çözümlerin</a>                işinizi nasıl kolaylaştıracağını özetleyeceğiz. 
                 </p>
                 <br>
                 
@@ -193,20 +193,20 @@ return [
                 </h2>
                 
                 <p>
-                <a href='https://www.qualtrics.com/uk/experience-management/employee/employee-experience' target='_blank’>Çalışan deneyimi,</a> çalışan yaşam döngüsünün (employee lifecycle) beş aşamasından oluşuyor. Şirketlerin iyi bir çalışan deneyimi tasarlamak için her bir aşamada, çeşitli kriterleri gözden geçirmesi gerekiyor. 
+                <a href='https://www.qualtrics.com/uk/experience-management/employee/employee-experience' target='_blank'>Çalışan deneyimi,</a> çalışan yaşam döngüsünün (employee lifecycle) beş aşamasından oluşuyor. Şirketlerin iyi bir çalışan deneyimi tasarlamak için her bir aşamada, çeşitli kriterleri gözden geçirmesi gerekiyor. 
                 </p>
                 <br>
                 
                 <ul>
                 <li>İşe alım (Recruitment): İşe alma sürecinin uzunluğu, işe alma maliyeti, tekliflerin kabul edilme oranı ve işe alınan kişilerin donanımları, bu sürecin tasarımında dikkat edilmesi gereken unsurlar arasında sıralanıyor. Şirketlerin iş ilanlarına gelen başvuru sayısı ve niteliğini, mülakat süreçlerinin uzunluğunu, tekliften sonra geri dönüşün kaç günde geldiğini, kaç teklifin olumlu sonuçlandığını tek tek değerlendirerek, aday çalışan deneyimini iyileştirebilmek için eksik noktaları tespit etmesi gerekiyor. </li><br>
-                <li>İlk katılım (Onboarding): Bir organizasyona katılan kişilerin iş hayatı deneyimleri ne kadar fazla olsa da, yeni bir yapıda var olmak zaman alıyor. Bu noktada oryantasyon sürecinin iyi tasarlanması, işe alınan kişinin yapacağı görevlerin belirlenmiş ve kişiye doğru biçimde aktarılmış olması gerekiyor. Yeni başlayan çalışanlar, hızlanmak ve uyum sağlamak için bir hızlanma süresine (ramp time) ihtiyaç duyuyor. Weoll olarak geliştirdiğimiz, işletmenizin tüm kurumsal dokümanlarına tek <a href='https://weoll.com/cozum/bilgi-yonetimi-surecleri’ target='_blank’>noktadan</a> erişmeyi mümkün kılan bilgi yönetimi platformumuzla, ilk katılım süreçlerini hızlandırıyoruz. Ayrıca, 'Aramıza Yeni Katılanlar' modülüyle gelen Kurum İçi İletişim Süreçleri çözümümüzle, şirketlere yeni çalışanları için sıcak bir karşılama sunmasını sağlıyoruz.</li><br>
+                <li>İlk katılım (Onboarding): Bir organizasyona katılan kişilerin iş hayatı deneyimleri ne kadar fazla olsa da, yeni bir yapıda var olmak zaman alıyor. Bu noktada oryantasyon sürecinin iyi tasarlanması, işe alınan kişinin yapacağı görevlerin belirlenmiş ve kişiye doğru biçimde aktarılmış olması gerekiyor. Yeni başlayan çalışanlar, hızlanmak ve uyum sağlamak için bir hızlanma süresine (ramp time) ihtiyaç duyuyor. Weoll olarak geliştirdiğimiz, işletmenizin tüm kurumsal dokümanlarına tek <a href='https://weoll.com/cozum/bilgi-yonetimi-surecleri' target='_blank'>noktadan</a> erişmeyi mümkün kılan bilgi yönetimi platformumuzla, ilk katılım süreçlerini hızlandırıyoruz. Ayrıca, 'Aramıza Yeni Katılanlar' modülüyle gelen Kurum İçi İletişim Süreçleri çözümümüzle, şirketlere yeni çalışanları için sıcak bir karşılama sunmasını sağlıyoruz.</li><br>
                 <li>Gelişim (Development): Şirketlerin, sürdürülebilir büyüme ve kârlılık için sahip oldukları yetkinlikleri daima geliştirmesi gerekiyor. Eğitim bütçeleri sağlamak, çalışanların kendilerini geliştirme ve terfi isteklerini ölçmek, görev süreleri boyunca üretkenlik ve takım uyumlarının nasıl geliştiğini izlemek, farklı pozisyonları deneyimle şansı vermek gibi eylemlerin gerçekleştirilebileceği bu bölüm için, iyi tasarlanmış bir performans yönetimine ve terfi süreçlerine sahip olmak gerekiyor.</li><br>
                 <li>Elde tutma (Retention): Çalışan bağlılığı ne kadar yüksek olursa olsun, kendi kariyerlerine yatırım yapmak isteyen yetenekli çalışanlar, daha iyi tekliflere sıcak bakabiliyor. Bu aşamaya gelmiş bir çalışanı kaybetmek ise şirketler için finansal açıdan olumsuz bir sonuç olarak nitelendiriliyor. Zira yetişmiş işgücünü yitirmek, işe alım sürecinin yeniden başlaması ve önceki paragraflarda sıraladığımız her aşamanın yeniden yürütülmesi anlamına geliyor. Bu durumda şirketlere, en bağlı çalışanlarının dahi işten ayırabileceğini hesaba katarak, önemsedikleri çalışanlara sunduğu deneyimi sürekli iyileştirmek düşüyor.</li><br>
-                <li>İşten ayrılma (Exit): Emeklilik, başka bir iş ya da başka bir kariyer yolculuğu gibi tercihlerle işten ayrılan çalışanların da hâlâ o şirketin bir parçası, mezunu olduğunu unutmamak gerekiyor. İşten ayrılma sürecini kötü yönetmek, marka itibarına zarar verme potansiyeli taşıyor. Bu noktada ayrılma kararı veren çalışanların bu kararlarının arkasındaki motivasyonu keşfetmek, çalışan deneyimini iyileştirmek noktasında önem kazanıyor. Ücretler mi yetersiz? Yönetici ilişkileri mi kötü? Baskıcı ve stresli bir iş ortamı mı var? Tüm bu soruların yanıtları, açık sözlü olmaya ikna edilebilecek çalışanların deneyimleriyle keşfedilebiliyor. <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank’>Kurum İçi iletişim Süreçleri</a> platformumuzla, geribildirim toplamayı bu noktaya gelmeden önce kolaylaştırabiliyor ve şirket kültürünün bir parçası haline <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri’ target='_blank’>dönüştürebiliyoruz.</a></li><br>
+                <li>İşten ayrılma (Exit): Emeklilik, başka bir iş ya da başka bir kariyer yolculuğu gibi tercihlerle işten ayrılan çalışanların da hâlâ o şirketin bir parçası, mezunu olduğunu unutmamak gerekiyor. İşten ayrılma sürecini kötü yönetmek, marka itibarına zarar verme potansiyeli taşıyor. Bu noktada ayrılma kararı veren çalışanların bu kararlarının arkasındaki motivasyonu keşfetmek, çalışan deneyimini iyileştirmek noktasında önem kazanıyor. Ücretler mi yetersiz? Yönetici ilişkileri mi kötü? Baskıcı ve stresli bir iş ortamı mı var? Tüm bu soruların yanıtları, açık sözlü olmaya ikna edilebilecek çalışanların deneyimleriyle keşfedilebiliyor. <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank'>Kurum İçi iletişim Süreçleri</a> platformumuzla, geribildirim toplamayı bu noktaya gelmeden önce kolaylaştırabiliyor ve şirket kültürünün bir parçası haline <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank'>dönüştürebiliyoruz.</a></li><br>
                 </ul>
 
                 <h2>
-                2022’de çalışan deneyimi
+                2022'de çalışan deneyimi
                 </h2>
                 
                 <p>
@@ -216,15 +216,15 @@ return [
 
                 
                 <p>
-                27 ülkeden yaklaşık 14 bin tam zamanlı çalışan yürütülen anket, bu konuda nitelikli bir referans oluşturuyor. <a href='https://success.qualtrics.com/rs/542-FMF-412/images/Qualtrics%20-%202022%20Employee%20Experience%20Trends%20Report.pdf’ target='_blank’>Rapora </a> göre:
+                27 ülkeden yaklaşık 14 bin tam zamanlı çalışan yürütülen anket, bu konuda nitelikli bir referans oluşturuyor. <a href='https://success.qualtrics.com/rs/542-FMF-412/images/Qualtrics%20-%202022%20Employee%20Experience%20Trends%20Report.pdf' target='_blank'>Rapora </a> göre:
                 </p>
                 <br>
 
                 <ul>
-                <li>Çalışanların %66’sı, deneyim kavramını bağlılıkla ilişkilendiriyor.</li><br>
-                <li>%72’si çalışan esenliğini (employee well-being) iyi bir deneyimin olmazsa olmazı sayıyor.</li><br>
-                <li>Çalışanların %67’si, yöneticilerinin etkisinin ve şirket yönetimine güvenin deneyimi iyileştirdiğini düşünüyor.</li><br>
-                <li>10 çalışandan yaklaşık 7’si büyüme ve gelişmeye önem verirken, katılımcıların %66’sı kurumsal sosyal sorumluluğu çalışan deneyiminin bir parçası olarak görüyor.</li><br>
+                <li>Çalışanların %66'sı, deneyim kavramını bağlılıkla ilişkilendiriyor.</li><br>
+                <li>%72'si çalışan esenliğini (employee well-being) iyi bir deneyimin olmazsa olmazı sayıyor.</li><br>
+                <li>Çalışanların %67'si, yöneticilerinin etkisinin ve şirket yönetimine güvenin deneyimi iyileştirdiğini düşünüyor.</li><br>
+                <li>10 çalışandan yaklaşık 7'si büyüme ve gelişmeye önem verirken, katılımcıların %66'sı kurumsal sosyal sorumluluğu çalışan deneyiminin bir parçası olarak görüyor.</li><br>
                 </ul>
                 
                 
@@ -233,21 +233,21 @@ return [
                 </h2>
                 
                 <p>
-                <a href='https://www.pwc.com.tr/insan-kaynaklari-liderlerinin-gundemi'  target='_blank’>PwC’nin</a> yürüttüğü araştırmaya göre, Türkiye'deki 10 insan kaynakları yöneticisinden 8'i, yeni dijital / teknolojik araçlar sağlamayı iyi bir çalışan deneyiminin parçası olarak görüyor. Raporda ayrıca çalışan deneyiminin önem kazandığı vurgulanıyor. <a href='https://www.pwc.com/us/en/library/pulse-survey/executive-views-2022/chro.html' target='_blank’>PwC’nin</a> insan kaynakları yöneticilerine ve insan sermayesi liderlerine yönelttiği küresel ankette ise katılımcıların %68’i şirketlerinin dijital dönüşüme çok fazla yatırım yapacağını ifade ediyor. Çalışan deneyiminin aşamalarını sıraladığımız bölümde söz ettiğimiz her süreç, bugünün teknolojileriyle kolaylaşıyor. Dilerseniz, bunun nasıl olduğunu birkaç maddede özetleyelim:
+                <a href='https://www.pwc.com.tr/insan-kaynaklari-liderlerinin-gundemi'  target='_blank'>PwC'nin</a> yürüttüğü araştırmaya göre, Türkiye'deki 10 insan kaynakları yöneticisinden 8'i, yeni dijital / teknolojik araçlar sağlamayı iyi bir çalışan deneyiminin parçası olarak görüyor. Raporda ayrıca çalışan deneyiminin önem kazandığı vurgulanıyor. <a href='https://www.pwc.com/us/en/library/pulse-survey/executive-views-2022/chro.html' target='_blank'>PwC'nin</a> insan kaynakları yöneticilerine ve insan sermayesi liderlerine yönelttiği küresel ankette ise katılımcıların %68'i şirketlerinin dijital dönüşüme çok fazla yatırım yapacağını ifade ediyor. Çalışan deneyiminin aşamalarını sıraladığımız bölümde söz ettiğimiz her süreç, bugünün teknolojileriyle kolaylaşıyor. Dilerseniz, bunun nasıl olduğunu birkaç maddede özetleyelim:
                 </p>
                 <br>
                 
                 <ul>
                 <li>Teknoloji, uzaktan çalışmayı kolaylaştırır. Birlikte çalışmaya olanak tanıyan iş uygulamaları, uzaktan çalışma çağının olmazsa olmazıdır. Yeni teknolojiler sayesinde çalışanlar aynı doküman üzerinde beyin fırtınası yapabilir, ortak tablolar üzerinde çalışabilir ve iş akışlarını görev yönetimi platformları üzerinden takip edebilir. </li><br>
                 <li>Teknoloji, geribildirim almayı kolaylaştırır. Kurum içi iletişim ve insan kaynakları süreci için ortak bir platform kullanan şirketler, çalışanlarının düşüncelerini anlık anket ve geribildirim formlarıyla kolaylıkla öğrenebilir. Weoll olarak yüksek teknolojinin olanakları ve iyi çalışan deneyimlerinin ilhamıyla geliştirdiğimiz platformumuzda yer alan anket, “Bence/Bir Fikrim Var” ve geribildirim gibi entegre araçlarımızın bu süreci kısaltacağına inanıyoruz. </li><br>
-                <li>Teknoloji, şirkete dair bilgileri tek platformda toplar. Özellikle onboarding sürecini hızlandırmak isteyen şirketlere, şirket dokümanlarının, organizasyon şemasının, çalışan yan haklarının herkes tarafından her an erişilebilir olduğu, <a href='https://weoll.com/cozum/bilgi-yonetimi-surecleri ’ target='_blank’> Weoll bilgi yönetimi platformumuzu </a> öneriyoruz.</li><br>
-                <li>Teknoloji, karmaşık prosedürlerin kolay takip edilmesini sağlar. Zimmet, izin, avans, bordro gibi ayrıntılar, çalışanlara çoğunlukla karmaşık gelebilir. Geliştirdiğimiz <a href='https://weoll.com/cozum/insan-kaynaklari-surecleri ' target='_blank’> İnsan Kaynakları Süreçleri Çözümümüzle, </a> bu karmaşık süreçleri tek platformda erişilebilir kılarak çalışanların işlerini kolaylaştırmayı amaçlıyoruz.</li><br>
-                <li>Teknoloji, girişimciliği ve çoksesliliği destekler. Düzenli olarak geribildirim veren ve yeni fikirlerini çekinmeden söyleyebilen çalışanlar, kurum içi girişimciliği destekler. Weoll’un <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri ' target='_blank’> 'Bence / Bir Fikrim Var'</a> gibi modülleriyle, çalışanların şirket yönetiminde, iş akışlarında daha çok söz sahibi olduklarını fark etmelerini hedefliyoruz. Zira bu durumun bağlılıklarını artıracağını ve bunun da performanslarına yansıyacağını biliyoruz.</li><br>
+                <li>Teknoloji, şirkete dair bilgileri tek platformda toplar. Özellikle onboarding sürecini hızlandırmak isteyen şirketlere, şirket dokümanlarının, organizasyon şemasının, çalışan yan haklarının herkes tarafından her an erişilebilir olduğu, <a href='https://weoll.com/cozum/bilgi-yonetimi-surecleri ' target='_blank'> Weoll bilgi yönetimi platformumuzu </a> öneriyoruz.</li><br>
+                <li>Teknoloji, karmaşık prosedürlerin kolay takip edilmesini sağlar. Zimmet, izin, avans, bordro gibi ayrıntılar, çalışanlara çoğunlukla karmaşık gelebilir. Geliştirdiğimiz <a href='https://weoll.com/cozum/insan-kaynaklari-surecleri ' target='_blank'> İnsan Kaynakları Süreçleri Çözümümüzle, </a> bu karmaşık süreçleri tek platformda erişilebilir kılarak çalışanların işlerini kolaylaştırmayı amaçlıyoruz.</li><br>
+                <li>Teknoloji, girişimciliği ve çoksesliliği destekler. Düzenli olarak geribildirim veren ve yeni fikirlerini çekinmeden söyleyebilen çalışanlar, kurum içi girişimciliği destekler. Weoll'un <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri ' target='_blank'> 'Bence / Bir Fikrim Var'</a> gibi modülleriyle, çalışanların şirket yönetiminde, iş akışlarında daha çok söz sahibi olduklarını fark etmelerini hedefliyoruz. Zira bu durumun bağlılıklarını artıracağını ve bunun da performanslarına yansıyacağını biliyoruz.</li><br>
                 <li>Teknoloji, değişimlere ayak uydurma çevikliğini artırır. Kodsuz (no-code) yaklaşımla desteklenen kurum kültürü ve insan kaynakları çözümleri, şirketlerin değişen süreçlerine uygun formlar, sayfalar, süreçler ve duyurular tasarlamasını mümkün kılar. Weoll olarak yüksek teknolojiyi temel alan, kurum içi iletişimi ve süreç yönetimini iyileştirmeyi hedefleyen çözümlerimizi, formları, sayfaları, anketleri sürükle-bırak yöntemiyle kolaylıkla özelleştirmeye olanak tanıyan editör ve sihirbazlarla birlikte sunuyoruz.</li><br>
                 </ul>
 
                 <p>
-                Bu yazımızda teknolojinin son dönemin yükselen kavramı çalışan deneyimini nasıl iyileştirebileceğini özetlemeye çalıştık. Weoll olarak şirketlerin dijital dönüşüm ve yeniden yapılanma süreçlerinde tüm iletişim ve süreç yönetimi ihtiyaçlarını <a href='https://weoll.com/weollu-kesfet’ target='_blank’> tek platformda</a> keşfetmeleri için alan açarak, güçlü bir kurum kültürü inşa etmek isteyen organizasyonların yanında oluyoruz.
+                Bu yazımızda teknolojinin son dönemin yükselen kavramı çalışan deneyimini nasıl iyileştirebileceğini özetlemeye çalıştık. Weoll olarak şirketlerin dijital dönüşüm ve yeniden yapılanma süreçlerinde tüm iletişim ve süreç yönetimi ihtiyaçlarını <a href='https://weoll.com/weollu-kesfet' target='_blank'> tek platformda</a> keşfetmeleri için alan açarak, güçlü bir kurum kültürü inşa etmek isteyen organizasyonların yanında oluyoruz.
                 </p>
                 <br>
 
@@ -257,7 +257,7 @@ return [
                 <br>
 
                 <p>
-                Bizi daha yakından tanımak için <a href='https://weoll.com/weollu-kesfet’ target='_blank’> bu bağlantıyı</a> ziyaret edebilirsiniz. 
+                Bizi daha yakından tanımak için <a href='https://weoll.com/weollu-kesfet' target='_blank'> bu bağlantıyı</a> ziyaret edebilirsiniz. 
                 </p>
                 <br>
                 
@@ -282,7 +282,7 @@ return [
                 </blockquote>
                 
                 <p>
-                Her şirketin, her çalışma ortamının kendine has bir enerjisi ve hissiyatı vardır.  İşte bu, tam olarak “Burada çalışmak nasıldır?” sorusuna yanıt veren, çalışanlara nasıl davranacaklarını, işlerini nasıl yapacaklarını, o şirket için neyin önemli olduğunu gösteren değerler bütününü tanımlayan kurum kültürü ya da organizasyonel kültürden kaynaklanır. Bu açıdan bakıldığında, kültürün bir organizasyonunun başarılı ya da başarısız olmasını etkileyen en önemli<a href='https://www.corporatewellnessmagazine.com/article/why-culture-is-the-most-important-factor-in-your-companys-success-or-failur’ target='_blank’> faktör</a> olduğu ortaya çıkar.
+                Her şirketin, her çalışma ortamının kendine has bir enerjisi ve hissiyatı vardır.  İşte bu, tam olarak “Burada çalışmak nasıldır?” sorusuna yanıt veren, çalışanlara nasıl davranacaklarını, işlerini nasıl yapacaklarını, o şirket için neyin önemli olduğunu gösteren değerler bütününü tanımlayan kurum kültürü ya da organizasyonel kültürden kaynaklanır. Bu açıdan bakıldığında, kültürün bir organizasyonunun başarılı ya da başarısız olmasını etkileyen en önemli<a href='https://www.corporatewellnessmagazine.com/article/why-culture-is-the-most-important-factor-in-your-companys-success-or-failur' target='_blank'> faktör</a> olduğu ortaya çıkar.
                 </p>
                 <br>
                 
@@ -293,7 +293,7 @@ return [
                 
                 
                 <p>
-                Şüphesiz, böyle bir kurum kültürü oluşturmanın yolu, doğru tasarlanmış ve yenilikçi araçlarla yönetilen kurum içi iletişimden geçiyor. Weoll olarak, şirketlerin dijital dönüşüm ve yeniden yapılanma süreçlerine, tüm iletişim ve süreç yönetimi ihtiyaçlarını tek platformda keşfetmeye alan açıyoruz. <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank’>Kurum İçi iletişim Süreçleri </a>çözümlerimizle teknolojinin gücünü kullanarak şirketlerin hızlı ve dinamik iletişim döngülerine çevik şekilde yanıt veren kurumsal portallar sunuyoruz.  
+                Şüphesiz, böyle bir kurum kültürü oluşturmanın yolu, doğru tasarlanmış ve yenilikçi araçlarla yönetilen kurum içi iletişimden geçiyor. Weoll olarak, şirketlerin dijital dönüşüm ve yeniden yapılanma süreçlerine, tüm iletişim ve süreç yönetimi ihtiyaçlarını tek platformda keşfetmeye alan açıyoruz. <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank'>Kurum İçi iletişim Süreçleri </a>çözümlerimizle teknolojinin gücünü kullanarak şirketlerin hızlı ve dinamik iletişim döngülerine çevik şekilde yanıt veren kurumsal portallar sunuyoruz.  
                 </p>
                 <br>
                 
@@ -325,7 +325,7 @@ return [
                 </h2>
                 
                 <p>
-                Geribildirim alıp vermeyi şirket kültürünün bir parçası haline getirmek, bunun için uygun bir iletişim zemini oluşturmakla mümkün oluyor. Bir <a href='https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/10/how-to-promote-company-culture-through-your-internal-communications/?sh=332bd6d5462d’ target='_blank’>ankette</a> duyulduğunu, dinlendiğini hisseden çalışanların motive olma ve işlerini en iyi şekilde yapma olasılıklarının 4,6 kat daha fazla olduğu görülüyor. Geribildirimin ötesinde, yeni fikirlerin konuşulacağı açık bir tartışma ortamı yaratmak, inovasyonun ve özgür düşüncenin teşvik edilmesi açısından önem arz ediyor. Weoll olarak <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank’>Kurum İçi iletişim Süreçleri Yönetimi </a> uygulamamızla, teknolojinin olanaklarını kullanarak karşılıklı geribildirim alışverişi süreçlerini hızlandırmayı sağlıyoruz.
+                Geribildirim alıp vermeyi şirket kültürünün bir parçası haline getirmek, bunun için uygun bir iletişim zemini oluşturmakla mümkün oluyor. Bir <a href='https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/10/how-to-promote-company-culture-through-your-internal-communications/?sh=332bd6d5462d' target='_blank'>ankette</a> duyulduğunu, dinlendiğini hisseden çalışanların motive olma ve işlerini en iyi şekilde yapma olasılıklarının 4,6 kat daha fazla olduğu görülüyor. Geribildirimin ötesinde, yeni fikirlerin konuşulacağı açık bir tartışma ortamı yaratmak, inovasyonun ve özgür düşüncenin teşvik edilmesi açısından önem arz ediyor. Weoll olarak <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank'>Kurum İçi iletişim Süreçleri Yönetimi </a> uygulamamızla, teknolojinin olanaklarını kullanarak karşılıklı geribildirim alışverişi süreçlerini hızlandırmayı sağlıyoruz.
                 </p>
                 <br>
                 
@@ -340,7 +340,7 @@ return [
                 
                 <ul>
                 <li>Teknolojinin olanağıyla geliştirilen yenilikçi platformlar, kurum içi iletişim süreçlerini iyileştirerek kurum kültürünü geliştirmek isteyen şirketlerin ihtiyaç duydukları çözümleri sağlıyor. Weoll olarak, Kurum İçi İletişim Süreçleri kapsamında geliştirdiğimiz yenilikçi altyapı ve çözümlerle, kurumların tüm katmanlarındaki çalışanlarıyla uçtan uca, direkt ve çift yönlü iletişim kurmalarının önünü açıyoruz. </li><br>
-                <li><a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank’>Kurum İçi iletişim Süreçleri’yle </a> şirketlere, kurumsal tanıtım dokümanlarını kurum içinde kolayca yaygınlaştırma, kurum içi ve dışındaki iletişimi eşzamanlı hale getirme gibi olanakların yanı sıra, şirket portalını kurum kimliğini yansıtacak biçimde düzenleme imkanı sunuyoruz. Kurum dışındaki paydaşlarla yapılan etkinlikleri, basına dağıtılan bültenleri, yöneticilerin röportajlarını, Weoll Kurum İçi İletişim Süreçleri aracılığıyla eşzamanlı bir biçimde kurum içine taşıma fırsatı veriyoruz.</li><br>
+                <li><a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank'>Kurum İçi iletişim Süreçleri'yle </a> şirketlere, kurumsal tanıtım dokümanlarını kurum içinde kolayca yaygınlaştırma, kurum içi ve dışındaki iletişimi eşzamanlı hale getirme gibi olanakların yanı sıra, şirket portalını kurum kimliğini yansıtacak biçimde düzenleme imkanı sunuyoruz. Kurum dışındaki paydaşlarla yapılan etkinlikleri, basına dağıtılan bültenleri, yöneticilerin röportajlarını, Weoll Kurum İçi İletişim Süreçleri aracılığıyla eşzamanlı bir biçimde kurum içine taşıma fırsatı veriyoruz.</li><br>
                 <li>Şirkete yeni katılan çalışanları kurum içinde tanıtmayı, kıdem başarılarını ya da doğum günlerini ortak bir kutlamaya dönüştürmeyi, video ve fotoğraf galerisiyle o şirkette çalışmanın ayrıcalığını hissettiren görsel materyalleri tüm çalışanların erişimine açmayı sağlıyoruz. </li><br>
                 <li>Duyuru yönetimi, slider, yemek menüsü gibi ortak bilgi kaynaklarının yanı sıra, hazır anket formatları ve geribildirim araçları sayesinde tüm çalışanların fikirlerini özgürce söyleyebileceği bir çalışma kültürünün zeminini oluşturuyoruz. </li><br>
                 </ul>
@@ -351,7 +351,7 @@ return [
                 <br>
                 
                 <p>
-                Şirketiniz için dakikalar içinde uyarlayabileceğiniz Kurum İçi İletişim Süreçleri çözümümüze dair daha fazla ayrıntı için <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank’> bu bağlantıyı</a> ziyaret edebilirsiniz. 
+                Şirketiniz için dakikalar içinde uyarlayabileceğiniz Kurum İçi İletişim Süreçleri çözümümüze dair daha fazla ayrıntı için <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank'> bu bağlantıyı</a> ziyaret edebilirsiniz. 
                 </p>
                 <br>
  
@@ -382,7 +382,7 @@ return [
                 <br>
                 
                 <p>
-                Kurum içi iletişim ve süreç yönetimi odağında geliştirdiğimiz teknoloji çözümleriyle işletmelerin dijital dönüşüm ve yeni çalışma düzenine uyum sağlama süreçlerinde ihtiyaç duydukları tüm iletişim araçlarını tek platformda bir araya getiren <a href='https://weoll.com/’ target='_blank’>Weoll</a> olarak, bu yazıda dijitalleşme ve kurum kültürünün ilişkisini ele alacağız. 
+                Kurum içi iletişim ve süreç yönetimi odağında geliştirdiğimiz teknoloji çözümleriyle işletmelerin dijital dönüşüm ve yeni çalışma düzenine uyum sağlama süreçlerinde ihtiyaç duydukları tüm iletişim araçlarını tek platformda bir araya getiren <a href='https://weoll.com/' target='_blank'>Weoll</a> olarak, bu yazıda dijitalleşme ve kurum kültürünün ilişkisini ele alacağız. 
                 </p>
                 <br>
                 
@@ -391,7 +391,7 @@ return [
                 </h2>
                 
                 <p>
-                Kuruluş genelinde yürütülecek dijital dönüşüm süreçlerine insan kaynakları (İK), kurum içi iletişim ve süreç yönetimi dönüşümünde başlamak güçlü kurum kültürünün ilk adımlarını atmak anlamına geliyor. <a href='https://www.humanresourcesonline.net/hr-leaders-open-towards-digitalisation-but-adoption-is-sluggish-due-to-company-and-own-limitations' target='_blank’>Endüstri İçgörüleri: İnsan Kaynakları</a> başlıklı raporda, 10 İK yöneticisinden 9'u kendi departmanlarındaki süreçleri dijitalleştirmeyi iş hedeflerine ulaşmak için bir ihtiyaç olarak görüyor.
+                Kuruluş genelinde yürütülecek dijital dönüşüm süreçlerine insan kaynakları (İK), kurum içi iletişim ve süreç yönetimi dönüşümünde başlamak güçlü kurum kültürünün ilk adımlarını atmak anlamına geliyor. <a href='https://www.humanresourcesonline.net/hr-leaders-open-towards-digitalisation-but-adoption-is-sluggish-due-to-company-and-own-limitations' target='_blank'>Endüstri İçgörüleri: İnsan Kaynakları</a> başlıklı raporda, 10 İK yöneticisinden 9'u kendi departmanlarındaki süreçleri dijitalleştirmeyi iş hedeflerine ulaşmak için bir ihtiyaç olarak görüyor.
                 </p>
                 <br>
                 
@@ -403,7 +403,7 @@ return [
                 
                 
                 <p>
-                Weoll olarak, şirketlerin çalışan bağlılığını ve motivasyonunu yüksek tutabilmeleri için özgün uygulamalar geliştiriyoruz. İşe alım sonrası insan kaynakları süreçlerini, kurum içi iletişimi, bilgi yönetimini ve kurumsal kaynak yönetimini verimli ve çevik hale getirmeyi amaçlayan <a href='https://weoll.com/weollu-kesfet’ target='_blank’>çözümlerimizle</a> perakende ve üretim sektörleri başta olmak üzere her ölçekte şirketin ihtiyaçlarına yanıt veriyoruz. 
+                Weoll olarak, şirketlerin çalışan bağlılığını ve motivasyonunu yüksek tutabilmeleri için özgün uygulamalar geliştiriyoruz. İşe alım sonrası insan kaynakları süreçlerini, kurum içi iletişimi, bilgi yönetimini ve kurumsal kaynak yönetimini verimli ve çevik hale getirmeyi amaçlayan <a href='https://weoll.com/weollu-kesfet' target='_blank'>çözümlerimizle</a> perakende ve üretim sektörleri başta olmak üzere her ölçekte şirketin ihtiyaçlarına yanıt veriyoruz. 
                 </p>
                 <br>
                 
@@ -431,9 +431,9 @@ return [
                 <br>
                 
                 <ul>
-               <li>Beklentileri belirleyin: Dijital dönüşüm yolculuğunun ilk adımı, beklentileri belirlemekten geçiyor. Dijital dönüşümün yalnızca teknolojiyi iş süreçlerine dahil etmek değil, kültürel bir dönüşüm olduğunu fark etmek ve beklentileri, faydaları tüm şirket çalışanlarına açıklamak gerekiyor. Buradan sonraki aşamada ise yöneticilerin çalışanları, değişikliklerin operasyonlarına nasıl etki ettiğini konuşmaları, bu konuda görüşlerini belirtmeleri için iletişim kurmaya teşvik etmesi öneriliyor. Weoll olarak geliştirdiğimiz <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank’>Kurum İçi iletişim Süreçleri,</a> şirketinizin dinamik iletişim döngüsüne çevik şekilde yanıt vererek duyuru yönetimi, anket ve geribildirim araçlarının yanı sıra, çalışanların fikirlerini beyan edebileceği 'Bir Fikrim Var' isimli bir modül de sunuyor.<li><br>
+               <li>Beklentileri belirleyin: Dijital dönüşüm yolculuğunun ilk adımı, beklentileri belirlemekten geçiyor. Dijital dönüşümün yalnızca teknolojiyi iş süreçlerine dahil etmek değil, kültürel bir dönüşüm olduğunu fark etmek ve beklentileri, faydaları tüm şirket çalışanlarına açıklamak gerekiyor. Buradan sonraki aşamada ise yöneticilerin çalışanları, değişikliklerin operasyonlarına nasıl etki ettiğini konuşmaları, bu konuda görüşlerini belirtmeleri için iletişim kurmaya teşvik etmesi öneriliyor. Weoll olarak geliştirdiğimiz <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank'>Kurum İçi iletişim Süreçleri,</a> şirketinizin dinamik iletişim döngüsüne çevik şekilde yanıt vererek duyuru yönetimi, anket ve geribildirim araçlarının yanı sıra, çalışanların fikirlerini beyan edebileceği 'Bir Fikrim Var' isimli bir modül de sunuyor.<li><br>
                <li>Bir iletişim planı hazırlayın: Tüm çalışanları değişimin bir parçası haline getirmek için açık kanallar aracılığıyla tartışmayı teşvik etmek önem kazanıyor. Süreçle ilgili soruları olan çalışanlara yanıt vermek için, yöneticilerin de bu kanallarda bulunması ve olası soru senaryolarına hazır olduklarından emin olmaları gerekiyor.</li><br>
-               <li>Değişim fikrini yaygınlaştırın: Weoll olarak geliştirdiğimiz <a href='https://weoll.com/cozum/insan-kaynaklari-surecleri ' target='_blank’> İnsan Kaynakları Çözümleri</a> ve <a href='https://weoll.com/cozum/bilgi-yonetimi-surecleri ' target='_blank’> Bilgi Yönetim Çözümleri,</a> çalışanların işe girdikleri andan itibaren tüm sorularının yanıtlarına ve tüm ihtiyaçlarına tek noktadan erişebilmelerini mümkün kılıyor. Bu sayede değişim fikrinin yaygınlaşması hızlanıyor.</li><br>
+               <li>Değişim fikrini yaygınlaştırın: Weoll olarak geliştirdiğimiz <a href='https://weoll.com/cozum/insan-kaynaklari-surecleri ' target='_blank'> İnsan Kaynakları Çözümleri</a> ve <a href='https://weoll.com/cozum/bilgi-yonetimi-surecleri ' target='_blank'> Bilgi Yönetim Çözümleri,</a> çalışanların işe girdikleri andan itibaren tüm sorularının yanıtlarına ve tüm ihtiyaçlarına tek noktadan erişebilmelerini mümkün kılıyor. Bu sayede değişim fikrinin yaygınlaşması hızlanıyor.</li><br>
                </ul>
                 
                 <p>
@@ -443,7 +443,7 @@ return [
                 
                 
                 <p>
-                Weoll olarak işletmelerin bir kurum içi partneri olarak konumlanıyor, verimliliğe, çevikliği ve en sonunda başarıya giden süreçte yol arkadaşları oluyoruz. Bizi yakından tanımak için <a href='https://weoll.com/ ' target='_blank’> bu bağlantıyı</a> kullanabilirsiniz. 
+                Weoll olarak işletmelerin bir kurum içi partneri olarak konumlanıyor, verimliliğe, çevikliği ve en sonunda başarıya giden süreçte yol arkadaşları oluyoruz. Bizi yakından tanımak için <a href='https://weoll.com/ ' target='_blank'> bu bağlantıyı</a> kullanabilirsiniz. 
                 </p>
                 <br>
                   
