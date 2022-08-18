@@ -451,7 +451,458 @@ return [
         ],
 
         
+        "uzaktan-calisma-kulturu" => [
+            'title' => 'Uzaktan çalışmayı kolaylaştıracak 7 iş yazılımı',
+            'metadesc' => 'Weoll olarak bu yazıda, iş süreçlerini dijitale taşıyan işletmeler için daha verimli ve birbirine bağlı ekip yapıları oluşturmalarını sağlayacak 7 iş yazılımını derliyoruz.',
+            'h1' => 'Uzaktan çalışmayı kolaylaştıracak 7 iş yazılımı',
+            'img' => 'remote-work.png',
+            'imgAlt' => 'Uzaktan çalışmayı kolaylaştıracak 7 iş yazılımı',
+            'date' => '03.08.2022',
+            'articleSection' => "Technology",
+            'author' => '', //Author name
+            'description' => 'İş dünyası son yıllarda büyük bir değişim geçiriyor, çalışma hayatı her yönüyle farklılaşıyor. İş modellerinden sektörlere, çalışma mekanından çalışan beklentilerine birçok katman, yeni bir form alıyor. Weoll olarak bu yazıda, iş süreçlerini dijitale taşıyan işletmeler için daha verimli ve birbirine bağlı ekip yapıları oluşturmalarını sağlayacak 7 iş yazılımını derliyoruz.',
+            'text' => "
+                <br>
+                <blockquote cite=''
+                style=' ' >
+                İş dünyası son yıllarda büyük bir değişim geçiriyor, çalışma hayatı her yönüyle farklılaşıyor. İş modellerinden sektörlere, çalışma mekanından çalışan beklentilerine birçok katman, yeni bir form alıyor. Weoll olarak bu yazıda, iş süreçlerini dijitale taşıyan işletmeler için daha verimli ve birbirine bağlı ekip yapıları oluşturmalarını sağlayacak 7 iş yazılımını derliyoruz. 
+                </blockquote>
+                
+                <p>
+                İş dünyasının son yıllarda yaşadığı değişimi yalnızca çalışma mekanlarının değişmesi ve ofislerin eski önemini yitirmesi şeklinde açıklarsak, konuyu kısıtlamış oluruz. Zira değişim bu ikisinin ötesine geçerek organizasyon yapılarına, çalışma biçimlerine, iş araçlarına ve çalışan beklentilerine kadar uzanıyor. <a href='https://www.kornferry.com/insights/featured-topics/future-of-work/2022-future-of-work-trends' target='_blank'>Korn Ferry'nin</a> araştırmasına göre organizasyonlar giderek daha akışkan hale geliyor, hiyerarşiler ortadan kalkıyor. Proje tabanlı çalışma metodolojileri ve çevik proje yönetimi gibi uygulamalar yaygınlaşıyor. Teknolojini hakim sektörlerden birine dönüşmesi, tüm sektörlerde teknolojinin daha çok kullanılmasıyla birleşince her departman ve iş kolu için taşınabilir cihazlar üzerinden iletişim elzem hale geliyor. 
+                </p>
+                <br>
+                
+                <p>
+                Weoll olarak bu yazıda, ürün prototiplerinin yapıldığı beyaz tahtalara, kağıtlara, fotokopi makinelerine, geleneksel ofis malzemelerine ve hatta e-postalara ihtiyacın giderek azaldığı bir çağda, iş yapmanın yeni biçimlerine ayak uydurmayı sağlayacak 7 önemli iş yazılımından söz edeceğiz. 
+                </p>
+                <br>
+                
+                <h2>
+                <a href='https://slack.com/' target='_blank'> 1. Slack </a>
+                </h2>
+                
+                <p>
+                Kanada doğumlu yazılımcı Stewart Butterfield tarafından geliştirilen ve e-postaların yerine geçme hedefiyle hızla geniş bir kullanıcı kitlesine erişen Slack, alıştığımız mesajlaşma deneyimini iş ortamına taşıyan bir platform sunuyor. İngilizcede 'tembellik etmek' gibi bir karşılığı olsa da Slack kelimesi, aslında 'tüm konuşma ve bilgilerin aranabilir günlüğü' ifadesinin İngilizcesi olan 'Searchable Log of All Conversation and Knowledge' tabirinden türüyor. Organizasyon ölçeği fark etmeksizin bir şirketin tüm çalışanlarının dahil olabildiği ve anlık olarak iletişim kurabildiği iş odaklı mesajlaşma yazılımı, web platformunda, masaüstünde ve mobil cihazlarda çalışabiliyor. 
+                </p>
+                <br>
+                
+                
+                <p>
+                Kanallar özelliğiyle departmanların, proje gruplarının veya iş arkadaşlarının kendilerine ait alanlarda grup olarak veya birebir iletişimlerini sürdürebildiği Slack, metin dışında ses, görsel, video, doküman gibi dosya formatlarının paylaşımını da destekliyor. Tüm mesajlaşmalar ilgili kişilere anında iletiliyor ve bu sayede iletişim internetin olduğu her yerde mümkün hale geliyor.
+                </p>
+                <br>
+                
+                
+                <p>
+                Slack aynı zamanda huddle adı verilen özelliğiyle sesli görüşmelere de olanak tanıyor. Bu sayede çalışanlar, yazışmanın yeterli olmadığı durumlarda kısa aramalar yaparak iş arkadaşlarıyla adeta ofisteymiş gibi konuşabiliyor. Kendi özelliklerinin yanı sıra uygulama marketiyle proje yönetimi, dosya paylaşımı, takvim, satış, görüntülü görüşme gibi alanlarda sık kullanılan Asana, Dropbox, Jira, Google Calendar, Zoom gibi yazılımlarla da entegrasyon olanağı sunan Slack, çeşitli limitler dahilinde ücretsiz olarak da kullanıyor. Şirketler, çalışan başına belirli bir miktarı aylık veya yıllık bir biçimde ödeyerek uygulamanın özelliklerinden eksiksiz olarak faydalanabiliyor. 
+                </p>
+                <br>
+                
+                <h2>
+                <a href='https://www.notion.so/' target='_blank'>2. Notion</a>
+                </h2>
+                
+                <p>
+                Notion, ilhamını bir dönemin iş yüklerini ortadan kaldıran daktilolardan veya ofisleri derleyip toparlayan dosya dolaplarından alan ve her şeyin bir arada olduğu bir çalışma alanı sunmayı amaçlayan bir yazılım olarak öne çıkıyor. Web platformunda, masaüstünde ve mobilde kullanabilen Notion, hazır şablonları, yan özellikleri ve entegrasyon becerileriyle işletmeler için bir bilgi deposuna da dönüşebiliyor, bir proje yönetimi aracına da… Şirketler dilerlerse ürün yol haritalarını bu platformda oluşturup paylaşabiliyor, dilerlerse Notion’ı yalnızca çeşitli dosyalarını sakladıkları ve tablolama yaptıkları bir veritabanı olarak kullanabiliyor. 
+                </p>
+                <br>
+                
+                <p>
+                Notion’ın temel anlamda her bir ihtiyaç için farklı araçlar kullanmanın önüne geçmeyi ve tüm ofis ihtiyaçlarını tek bir platformda birleştirmeyi hedefleyen bir ortam sunmaya çalışıyor. Çalışanlar ekipleri, projeleri veya yalnızca kendileri için Notion'ı kullanarak iş listeleri hazırlayabiliyor, bu listeleri farklı kişilere atayabiliyor, dokümanlar üzerinde ortak çalışabiliyor, şirketin kimliğine ve değerlerine ilişkin belgeleri herkesin erişimine açık bir noktada buluşturabiliyor. Bir tasarımcı veya ürün yöneticisi Notion’ı kullanarak prototip örneklerini içeren bir belge oluşturabilirken, üst düzey bir yönetici şirketin 2022 üçüncü ve dördüncü çeyrek planlarını içeren bir yol haritasını tüm şirketle Notion üzerinden paylaşabiliyor. 
+                </p>
+                <br>
 
+                <p>
+                Geleneksel bir not alma aracının ötesine geçen, veritabanı yönetimi platformlarının sunmadığı esnekliğe sahip olan, şablon ve entegrasyon seçenekleriyle olanakları her gün genişleyen Notion, topluluk desteğiyle daha da büyüyor. Öyle ki bazı Notion kullanıcıları, 'startup büyüme yolculuğu' veya 'teklif, fatura, proje planı' gibi farklı amaçlar için kullanılabilecek şablon paketleri geliştiriyor. 
+                </p>
+                <br>
+
+                <h2>
+                <a href='https://trello.com/home' target='_blank'>3. Trello</a>
+                </h2>
+                
+                <p>
+                Bugün Coinbase'den John Deere'ye, Visa'dan Zoom'a, Google'dan Grand | Hyatt'a, pek çok farklı sektörden şirketin proje yönetimi ve görev takibi için tercih ettiği Trello, 'üretkenlik merkezi' mottosunu benimsiyor. Trello, iş takibini panolar ve bu panolarda yer alan kartlar aracılığıyla yapmayı mümkün kılıyor. Panolar departmanlara veya projelere göre oluşturulabilirken, işe dair tüm süreçler farklı sütunlarda gösterilebiliyor. Bu sütunlarda her bir görev bir karta dönüşüyor ve bu kartlar ilgili kişilere atanıyor.
+                </p>
+                <br>
+                
+                <p>
+                Sürükle bırak yöntemiyle iş akışı takibini fazlasıyla kolaylaştıran Trello, görsel, doküman, ses dosyası gibi eklentilerin de paylaşılabildiği kartlarla iş yapış süreçlerini adeta oyunlaştırıyor. Ayrıca Trello da Slack, Dropbox, Outlook, Gmail, Salesforce, InVision, Jira gibi farklı yüzlerce uygulamayla entegre çalışabiliyor. Bu sayede iş akışını otomatikleştiren ekipler, son görev tarihlerini kaçırmadan, tüm projelerini zamanında tamamlayabiliyor. 
+                </p>
+                <br>
+                
+                <h2>
+                <a href='https://asana.com/' target='_blank'>4. Asana</a>
+                </h2>
+                
+                <p>
+                Proje yönetimi, kampanya yönetimi, prodüksiyon, çevik proje geliştirme ve talep yönetimi gibi başlıklarda oldukça kapsamlı ve profesyonel bir araç olan Asana, Trello'nun çok daha gelişmiş bir versiyonunu sunuyor. Zaman çizelgesi özelliğiyle Gantt tablolarla çalışmayı mümkün kılan, takvim özelliğiyle ekiplerin ortak bir iş planını izlemelerini mümkün hale getiren ve Kanban panolarla görev yönetimini herkes için kolaylaştıran Asana, otomasyon ve entegrasyon kabiliyetleriyle de birkaç adım öne çıkıyor. 
+                </p>
+                <br>
+                
+                <p>
+                Dosya paylaşımı, görev ataması, hedef takibi gibi özelliklerle beraber gelen Asana, ofis araçlarıyla, Slack’le, Dropbox’la, Google Drive’le ve Zoom’la birlikte çalışabiliyor. Farklı iş modelleri ve süreç akışları için farklı şablonlar sunan, kapsamlı dokümantasyonu ve topluluğuyla işletme ihtiyaçlarına göre kolayca özelleştirilebilen Asana, her ölçekten şirkete uygun planlarıyla üretim kapasitesini ve verimliliği artırmayı hedefliyor. 
+                </p>
+                <br>
+
+                <h2>
+                <a href='https://www.getharvest.com/' target='_blank'>5. Harvest</a>
+                </h2>
+                
+                <p>
+                Bazı işler sabit mesailerle sürse de kimi işler çalışma zamanlarıyla doğrudan ilişkileniyor. Ekiplerin ve her bir çalışanın vakitlerini belirli proje ve işler için verimli kullanması, güncel koşullara esnek ve dayanıklı bir biçimde yanıt vermek isteyen her işletme için vazgeçilmez hale geliyor. Öte yandan vardiya usülü çalışanların, fazla mesaiye kalanların ödemeleri de yine çalıştıkları ek süre boyunca yapılıyor. Bu noktada çalışma sürelerinin takibi için Harvest öne çıkıyor.
+                </p>
+                <br>
+                
+                <p>
+                Harvest, bir zaman takibi yazılımı (time tracking software) olarak, yalnızca kullanıldığında faydalı olabileceği bilinciyle, şirket çalışanlarının kolayca uyum sağlayabileceği bir biçimde geliştirilmesi yönüyle dikkat çekiyor. Entegre araçlarla Asana, Google Calendar, Trello, Stripe, Slack gibi diğer iş çözümleri ve ödeme araçlarıyla entegre çalışarak olanak ve özelliklerini genişletiyor. 
+                </p>
+                <br>
+
+                <h2>
+                <a href='https://workspace.google.com' target='_blank'>6. Google Workspace</a>
+                </h2>
+                
+                <p>
+                Önceki adıyla G Suite, güncel ismiyle Google Workspace, ortak çalışma denince akla gelen ilk çözüm ailelerinden biri olarak öne çıkıyor. Ölçeklenebilir yapısıyla her boyuttan ekibin birbirine bağlanma, üretme ve birlikte çalışma biçimi olmayı vaat eden Google Workspace, Gmail, Takvim, Dokümanlar, Google Drive ve Meet ürünleriyle çalışanların mesajlaşma, görüntülü görüşme, e-posta iletişimi, dokümanlar ve tablolar üzerinde ortak çalışma gibi ihtiyaçlarına yanıt verebiliyor. Tüm organizasyonun takvimine genişletilmiş filtreleme seçenekleriyle ulaşmaya olanak tanıyan Google Workspace, Jamboard isimli yenilikçi çözümüyle ekip olarak fikir geliştirme süreçlerini de kolaylaştırıyor. Dokümanlar üzerinde gerçek zamanlı ortak çalışmada bir endüstri standardına dönüşen Google araçları, çalışanların tüm şirket dokümanlarına bilgisayar, telefon veya tabletlerinden erişebilecekleri bir bulut depolama alanı da sunuyor. 
+                </p>
+                <br>
+                
+                <p>
+                <a href='https://services.google.com/fh/files/misc/the_total_economic_impact_of_google_workspace.pdf' target='_blank'>Forrester'ın</a> hazırladığı rapora göre yatırım geri dönüş oranı %331 olarak ölçülen Google Workspace, çalışan verimliliğini ve üretkenliğini artırarak 22,1 milyon doları aşan bir değer yaratıyor. Weoll'un çatı markası olan <a href='https://globalit.com.tr/tr-TR/urunlerimiz/g-suite-google-workspace' target='_blank'>Global IT</a> tarafından da sunulan Google Workspace, dijital ortamda akıllı, verimli ve güvenli bir ortak çalışma alanı olarak milyarlarca çalışan tarafından kullanılıyor.
+                </p>
+                <br>
+
+                <h2>
+                <a href='https://weoll.com' target='_blank'>7. Weoll</a>
+                </h2>
+                
+                <p>
+                Şimdiye dek hep verimlilik, proje yönetimi ve üretkenlik araçlarından söz ettik, fakat uzaktan çalışma modelini benimseyen veya dijital araçları birlikte çalışmak için sıkça kullanan işletmelerin kurum kültürünü geliştirmeyi ve şirkete dair bilgileri bir arada tutmayı mümkün kılan çözümlere de yönelmesi gerekiyor. Weoll, bu noktada bir <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank'>kurum içi iletişim</a> ve süreç yönetimi platformu olarak öne çıkıyor.
+                </p>
+                <br>
+                
+                <p>
+                İşletmelere sağladığı katma değer güçlü insan kaynakları süreçleri, etkin iletişim ağı, esnek organizasyon yapısı ve üretkenlik olarak listelenen Weoll, çalışan bağlılığını artırarak devir oranını (turnover) azaltmayı vaat ediyor. Performans yönetimi, on-boarding yönetimi, çalışan bağlılığı gibi alanlara tek bir platformda yanıt veren Weoll, kapsayıcı iletişimi de mümkün kılarak şirket kültürünün organizasyonun her katmanına yayılmasını kolaylaştırıyor. 
+                </p>
+                <br>
+
+                <p>
+                Kolay kurulan, ek donanım gerektirmeyen, şirket ihtiyaçlarına göre %100 özelleştirilebilen ve servis modeliyle çalışan bir yazılım olarak Weoll, <a href='https://weoll.com/sektor/perakende-sektoru' target='_blank'>perakende,</a> <a href='https://weoll.com/sektor/uretim-sektoru' target='_blank'>üretim</a> ve <a href='https://weoll.com/sektor/dijitali-odagina-alan-kurumlar' target='_blank'> dijital</a> sektörlerin yanı sıra <a href='https://weoll.com/sektor/grup-sirketleri-holdingler' target='_blank'>holding</a> gibi büyük yapılarda da kolaylıkla ölçeklendirilebiliyor. 
+                </p>
+                <br>
+                
+                <p>
+                İşletmeler Weoll kullanarak tasarladıkları özelleştirilmiş kurumsal sayfalarında şirket kültürlerine, değerlerine, misyon ve vizyonlarına dair ayrıntıları tüm şirketin kolay erişimine açabiliyor. Dinamik çalışan rehberlerine de ev sahipliği yapabilen Weoll, organizasyon şemasının ve kurum için blogun aktif olarak yönetilebildiği bir platform sunuyor. Sürükle bırak yöntemiyle, kod yazmadan formlar ve sayfalar oluşturmaya olanak tanıyan Weoll, bu yönüyle şirket içinde değerlendirme anketleri yapmayı, iş süreçlerini geliştirecek fikir alışverişlerinde bulunmak için ortak bir zemin de oluşturuyor.
+                </p>
+                <br>
+
+                <p>
+                Google'ın en eski ve tek Google Cloud Premier İş Ortağı olan Global IT tarafından geliştirilen Weoll'ün sunduğu tüm olanaklara dair ayrıntılı bilgi için <a href='https://weoll.com/weollu-kesfet' target='_blank'>bu bağlantıyı</a> ziyaret edebilirsiniz. 
+                </p>
+                <br>
+                  
+                "
+        ],
+
+        "z-kusagi-beklentileri" => [
+            'title' => '5 maddede Z kuşağının işyerinden beklentilerini anlamak',
+            'metadesc' => 'Weoll olarak bu yazıda Z kuşağının karakteristik özelliklerine ve işverenlerinden beklentilerine odaklanacağız.',
+            'h1' => '5 maddede Z kuşağının işyerinden beklentilerini anlamak',
+            'img' => 'z-generation.png',
+            'imgAlt' => '5 maddede Z kuşağının işyerinden beklentilerini anlamak',
+            'date' => '03.08.2022',
+            'articleSection' => "Technology",
+            'author' => '', //Author name
+            'description' => 'İşgücünün demografisi her geçen yıl değişiyor ve 1997-2012 yılları arasında doğan Z jenerasyonu farklı sektörlerde ilk rollerini almaya başlıyor. Peki, organizasyonların bu genç kuşakları etkilemek için nelere özen göstermesi gerekiyor? Weoll olarak bu yazıda Z kuşağının karakteristik özelliklerine ve işverenlerinden beklentilerine odaklanacağız.',
+            'text' => "
+                <br>
+                <blockquote cite=''
+                style=' ' >
+                İşgücünün demografisi her geçen yıl değişiyor ve 1997-2012 yılları arasında doğan Z jenerasyonu farklı sektörlerde ilk rollerini almaya başlıyor. Peki, organizasyonların bu genç kuşakları etkilemek için nelere özen göstermesi gerekiyor? Weoll olarak bu yazıda Z kuşağının karakteristik özelliklerine ve işverenlerinden beklentilerine odaklanacağız. 
+                </blockquote>
+                
+                <p>
+                Üniversite öğreniminin ortalama 4 yıl sürdüğünü düşünürsek, 2000 doğumlu bir gencin, bu yıl 4 yıllık lisans eğitimini tamamladığını ve staj veya yeni mezun programlarıyla ilk iş deneyimini edinmeye başladığını söyleyebiliriz. Evet, işyerinin demografisi her geçen gün değişiyor ve Z kuşağı bugün çalışma ortamında daha çok yer ediniyor. İşverenlerin, genç kuşakları, özellikle Z gibi kendine ait özellikleriyle öne çıkan ve diğer jenerasyonlardan farklılaşan bir grubu etkilemek için yalnızca eğlenceli aktiviteleri önceleyerek ve dönemsel etkinlikler yaparak memnun edeceği yanılgısına düşmemesi gerekiyor.                 </p>
+                <br>
+                
+                <p>
+                Weoll olarak bu yazıda öncelikle Z kuşağının genel karakteristiğini tanıyacağız, ardından bu karakter özellikleriyle öne çıkan gençlerin işverenlerinden beklentilerine odaklanacağız. 
+                </p>
+                <br>
+                
+                <h2>
+                Kimdir bu Z kuşağı? 
+                </h2>
+                
+                <p>
+                Dijitalin içine doğan, toplumsal konulara duyarlı, aklın yolunu izlemeye önem veren ve ifade kabiliyetleri önceki kuşakların benzer dönemlerine kıyasla çok daha gelişmiş olan Z kuşağı, diğer jenerasyonlara benzemiyor. <a href='https://www.greatplacetowork.com/resources/blog/what-gen-z-wants-from-employers-in-2021' target='_blank'>Pew Research Center</a> tarafından yürütülen bir araştırmada bu farklılıklar aşağıdaki gibi ortaya koyuluyor:
+                </p>
+                <br>
+                
+                <h3>
+                Çeşitlilik Z kuşağının normudur. 
+                </h3>
+                
+                <p>
+                İnternetle birlikte büyüyen ve farklı topluluklarda kesintisiz iletişimler kurabilen Z kuşağı için çeşitlilik, oldukça önemli bir başlık olarak sayılıyor. Farklı ırk, dil, din, etnik köken, cinsiyet ve cinsel yönelimlere önceki kuşaklara göre daha kapsayıcı olan bu kuşak, dünyanın neresinde olursa olsun konuşulması tabu olan konuların teorik düzlemde tartışılmaya başlandığı bir ortamdan geliyor. Bu farklılıkları aşmaları ve hatta kucaklamaları, kendilerinden yaşça büyük insanlara karşı çok daha kolay oluyor. 
+                </p>
+                <br>
+
+                <h3>
+                Dünyanın ilk dijital yerlileri!
+                </h3>
+                
+                <p>
+                Küresel danışmanlık şirketi <a href='https://www.mckinsey.com/~/media/McKinsey/Industries/Consumer%20Packaged%20Goods/Our%20Insights/True%20Gen%20Generation%20Z%20and%20its%20implications%20for%20companies/Generation-Z-and-its-implication-for-companies.pdf' target='_blank'>McKinsey’in</a> Z kuşağının genel özelliklerini incelerken ilk kez kullandığı dijital yerli (digital native) kavramı, bu kuşakla fazlasıyla özdeşleşiyor. Kendilerinden bir önceki kuşak, Y kuşağı teknolojinin ve onun getirdiği kolaylıkların farkındalığına büyüme süreçlerinde sahip olurken, Z kuşağı dünyaya geldikleri ilk anda ekranlarla, dokunmatik arayüzlerle, eğlencenin ve öğrenmenin mobil bir versiyonuyla karşılaşıyor. Bu açıdan yeni teknolojileri doğal ve içgüdüsel olarak benimseyebilen Z kuşağı, hayatlarının her alanında son teknolojiyi kullanmak istiyor. 
+                </p>
+                <br>
+
+                <h3>
+                Pragmatist ve finans odaklı bir kuşak… 
+                </h3>
+                
+                <p>
+                Z kuşağının zihni genel anlamda finans ve refah odaklı çalışıyor. 2008-2012 Küresel Ekonomik Krizi'nde ebeveynlerinin zorlandığı noktaları gören, pandemi ve onu izleyen küresel resesyon endişeleriyle karşı karşıya gelen Z kuşağı, ebeveynlerinin yaşadıklarını yaşamamak için pragmatist bir tutum takınıyor ve güvenceli yaşama öncelik veriyor. Bu da onların istikrarlı işlerde çalışmak isteğini, akıllı yatırımlar yapma motivasyonunu ve harcama yaparken izledikleri muhafazakâr yaklaşımı açıklıyor. 
+                </p>
+                <br>
+
+                <h3>
+                Z kuşağı zihinsel sağlığa daha çok önem veriyor.
+                </h3>
+                
+                <p>
+                Z kuşağı dediğimizde kendinin uçtan uca farkında olan, olmasa dahi bunun için çabalayan bir kuşaktan söz ediyoruz. Kimilerinin “en yalnız nesil” olarak da adlandırdığı bu kuşak, sosyal medyada öne sürülen yaşam tarzlarına öykünmekle geçen çocukluk ve ergenlik dönemlerinde aldıkları ruhsal hasarlarla mücadele ediyor. Dünyanın çalkantılı zamanlarına, zengin-yoksul arasındaki farkın giderek daha açıldığı bir döneme, ayrımcılığın ve adil olmayan uygulamaların yaygınlaşmasına tanıklık eden bu kuşak duygusal tehditlere karşı daha açık bir portre çiziyor. Bu farkındalıkları onları önceki kuşaklara kıyasla görece daha kırılgan yapsa da, mücadele kabiliyetleri de o ölçüde artıyor. 
+                </p>
+                <br>
+
+                <h3>
+                Z kuşağı küresel ve toplumsal konulara daha duyarlıdır. 
+                </h3>
+                
+                <p>
+                Bir önceki maddenin bir sonucu olarak, dünyanın gittiği yere karşı daha çok sorumluluk üstlenen bu kuşak, aktivist hareketlerde rol almaya da daha istekli görünüyor. Politik açıdan şimdiye kadarki en aktif ve ilerici nesil olarak görülen Z kuşağı, azınlık haklarına, iklim krizine, ekonomik adaletsizliklere önceki kuşaklara kıyasla ses çıkarma eğilimi gösteriyor. Çözümü birlikte aramaya, bu süreçte işbirliğine de açık olan kuşağın tepkisi yalnızca sözde kalmıyor, çeşitli inisiyatiflerle faal aktivizm hareketlerine de dönüşüyor. 
+                </p>
+                <br>
+                
+                
+                <h2>
+                Z kuşağı işverenlerinden ne bekliyor?
+                </h2>
+                
+                <p>
+                Z kuşağının genel özellikleri yukarıdaki gibi şekillenirken, işgücünde daha çok rol almaya başlayan bu kuşağın işverenlerinden beklentileri de karakteristiklerine göre farklılık gösteriyor. Çalışma ortamını iyileştirmek için başlatılan ve her işletmenin herkes için çalışma ortamı açısından 'harika' bir yer haline gelmesine yardımcı olma göreviyle faaliyet gösteren <a href='https://www.greatplacetowork.com/resources/blog/what-gen-z-wants-from-employers-in-2021' target='_blank'>Great Place To Work'ün</a> 350’den fazla şirketteki 32 bini aşkın Z kuşağı mensubuyla yaptığı araştırmanın sonuçlarını yayımladığı makalede bu beklentiler listeleniyor.  
+                </p>
+                <br>
+
+                <h3>
+                Çeşitlilik ve kapsayıcılık 
+                </h3>
+                
+                <p>
+                Kuşağın ilk karakteristiğiyle özdeşleşen bu talep, %47’sinin kendilerini farklı dil, ırk ve yönelimle tanımladığını bildiğimiz Z kuşağının şimdiye kadarki en “çeşitli” nesil olmasıyla ilişkileniyor. Z kuşağı, liyakatten ödün verilmeden işyerinde farklı kimliklerin temsillerine yer verilmesini bekliyor. Z kuşağını elde tutmak isteyen şirketler bu konuda aşağıdaki adımları atabiliyor:
+                </p>
+                <br>
+
+                <ul>
+                <li>En iyi yetenekleri bulabilmek için aday çeşitliliğini artırmak</li><br>
+                <li>Diğer çalışanları ve daha eski kuşakları çeşitlilik, eşitlik, kapsayıcılık konularında bilgilendirmek</li><br>
+                <li>Üst düzey yönetimlerde ve liderlik ekiplerinde farklı kimliklerin temsilini sağlamak</li>
+                </ul>
+
+                <h3>
+                Yaşanabilir ücretler 
+                </h3>
+                
+                <p>
+                Araştırmaya göre, finansal refah düzeylerine önem veren ve bu noktada pragmatist bir yaklaşım benimseyen Z kuşağının yalnızca %69’u adil bir ücretle çalıştıklarını düşünüyor, ki bu rakam diğer kuşakların 7 puan gerisinde kalıyor. Büyürken tanık oldukları ekonomik problemlerin üstüne bizzat karşı karşıya kaldıkları pandemi ve ona bağlı ekonomik daralma döneminden zarar gören Z kuşağı, işverenlerin daha adil, yaşanabilir ücretler sunmalarını bekliyor. 
+                </p>
+                <br>
+
+                <h3>
+                Sağlıklı ve güvenli bir çalışma ortamı
+                </h3>
+                
+                <p>
+                Amerikan Psikoloji Derneği’nin, silahlı şiddet, iklim değişikliği, siyasi istikrarsızlık, ırksal hesaplaşma ve salgın gibi önemli küresel zorluklarla karşı karşıya kalan Z kuşağını “en stresli nesil” olarak <a href='https://www.newsweek.com/gen-z-most-stressed-out-group-america-poll-finds-1540549' target='_blank'>tanımladığı</a> biliniyor. “Psikolojik ve duygusal olarak sağlıklı işyeri ortamı” ile “gerektiğinde işten izin alabilme” gibi talepleri açısından önceki kuşaklardan 7 puan önde olan Z kuşağı, paydaşların birbirine ruhsal olarak zarar verdiği, rekabetin yıpratıcı olduğu çalışma ortamlarını tercih etmiyor. İşverenlerinin onları ve duygusal sağlıklarını önemsemelerini bekleyen bu kuşak, ne hissettikleri hakkında daha çok saygı görmek istiyor.
+                </p>
+                <br>
+
+                <h3>
+                Amaç ve anlam arayışı
+                </h3>
+                
+                <p>
+                Great Place to Work araştırması, Z kuşağının işlerinin ne kadar özel bir anlamı olduğu konusunda diğer nesillerden 8 puan daha düşük bir sonuç verdiğini gösteriyor. İşyerinde fark yarattıklarını 7 puan daha az düşünen bu çalışanların, çalıştıkları şirketin geleceğine dair söz hakkı aldıkları noktada işyerine bağlılıkları artıyor. Şirketin vizyonunu paylaşmak, üretilen değere ortak olmak ve daha çok değer üretilmesine katkıda bulunmak için daha çok konuşmak istiyor. Bu noktada işverenlerin çalışan görüşlerini düzenli olarak toplayabileceği, onlara fikir danışabileceği teknolojilerden yararlanması gerekiyor. 
+                </p>
+                <br>
+
+                <h3>
+                Sıcak bir karşılama
+                </h3>
+                
+                <p>
+                Yazının başında belirttiğimiz gibi, bu kuşak iş hayatına henüz atılıyor ve bu noktada ilk iş deneyimleri için sıcak bir karşılama, işe alım süreçlerinin verimliliğini artırabiliyor. Karşılama paketleri, on-boarding deneyimi, vakit kaybetmeksizin ilk günden itibaren ekipman desteği ve katılımın teşvik edildiği bir diyalog ortamı, Z kuşağının hevesini artırmak açısından faydalı olabiliyor. 
+                </p>
+                <br>
+
+                <h2>
+                Weoll ile Z kuşağının beklentilerine yanıt verin
+                </h2>
+                
+                <p>
+                İşgücünün değişen gereksinim ve beklentilerine uygun olarak tasarlanan Weoll, bir kurum içi iletişim ve süreç yönetimi platformu olarak şirketlerin iş ve iletişim ihtiyaçlarına uçtan uca yanıt verebiliyor. Kolaylıkla özelleştirilebilen hazır iş süreçleri sunan ve kodlama bilgisi gerektirmeyen sihirbazlarıyla işletme ihtiyaçlarını teknik desteğe gerek duymadan çözmeye yarayan Weoll, farklı gereksinimlere şu şekilde yanıt veriyor:
+                </p>
+                <br>
+                
+                <ul>
+                <li><a href='https://weoll.com/cozum/insan-kaynaklari-surecleri' target='_blank'>İnsan kaynakları süreçleri:</a> Temelde ortak bir çalışma kültürü oluşturmayı teknolojiye emanet eden Weoll, çalışanlara özel kampanyaları ve sağlanan yan hakları ortak bir platformdan duyurarak çalışan bağlılığına katkıda bulunuyor. İzin, avans ve bordro yönetimini de içeren İK süreçlerinde anket yapmaya, fikir paylaşımına, günlük duygu durumunu ölçmeye, başarıları kutlamaya teşvik eden Weoll, geri bildirim alma işlemini oldukça kolay hale getiriyor. </li><br>
+                <li><a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank'>Kurum içi iletişim süreçleri:</a> Weoll tarafından kurum içi iletişim odağında geliştirilen çözümler, blog, kurum içi sosyal medya, doğum günü kutlamaları, kıdem başarıları, aramıza yeni katılanlar ve galeriler gibi farklı modüllerle dijital ortamda etkileşimi daim kılıyor. Duyuruların ortak bir platformdan şirketin tüm paydaşlarıyla paylaşılabildiği Weoll, geri bildirim sürelerini kısaltmakla kalmıyor, iletişimi de senkronize ediyor. </li><br>
+                <li><a href='https://weoll.com/cozum/bilgi-yonetimi-surecleri' target='_blank'>Bilgi yönetimi süreçleri:</a> Z kuşağına sıcak bir karşılama yapmak ve şirket uyum süresini kısaltmak isteyen işletmeler, Weoll’ün geliştirdiği dosya yönetimi, görev yönetimi araçlarıyla şirkete ait dokümanları tek bir noktada erişilebilir hale getiriyor. Geribildirim almayı, iş ve onay aşamalarını hızlandıran bir çözüm sunan Weoll, çalışanların yetki sahibi olduğu kurumsal dokümanlara ortak bir alandan ulaşmasını kolaylaştırıyor. </li><br>
+                <li><a href='https://weoll.com/cozum/kurumsal-kaynak-yonetimi-surecleri' target='_blank'>Kurumsal kaynak yönetimi süreçleri:</a> Tek bir platformda birçok kurumsal ihtiyaca yanıt vermeyi başaran Weoll, toplantı odası, araba gibi, çalışanların ihtiyaç duyduğu şirket kaynaklarının etkin paylaşımını da pratik bir forma dönüştürüyor. Şirket kaynaklarının yanı sıra hammadde yönetimi, lojistik, satın alma, dijital evrak ve arıza bildirimi gibi alanlara da dokunan teknolojileriyle Weoll, kurumsal kaynak kullanımında şeffaflığı ve görünürlüğü artırmaya yarıyor. </li>
+                </ul>
+                  
+                <p>
+                Weoll'ün perakende, dijital gibi sektörlerde faaliyet gösteren şirketler için veya holding yapılarına uygun olarak geliştirdiği özellikleri keşfetmek için <a href='https://weoll.com/weollu-kesfet' target='_blank'>bu bağlantıyı</a> ziyaret edebilir, Weoll kullanan işletmelerin imza attığı başarı hikayelerine <a href='https://weoll.com/basari-hikayesi/toyzzshop' target='_blank'>bu bağlantıdan</a> tanık olabilirsiniz. 
+                </p>
+                <br>
+
+
+                "
+        ],
+
+
+        "dengeden-entegrasyona" => [
+            'title' => 'İş ve yaşam dengesi mi, iş ve yaşam entegrasyonu mu?',
+            'metadesc' => 'u yazıda iş-yaşam entegrasyonunun tanımına, iş-yaşam dengesiyle farklarına ve bu uyumu yakalayabilmek için yapılması gerekenlere değineceğiz.',
+            'h1' => 'İş ve yaşam dengesi mi, iş ve yaşam entegrasyonu mu?',
+            'img' => 'work-life-balance.png',
+            'imgAlt' => 'İş ve yaşam dengesi mi, iş ve yaşam entegrasyonu mu?',
+            'date' => '03.08.2022',
+            'articleSection' => "Technology",
+            'author' => '', //Author name
+            'description' => '9-5 mesailerin yeni bir forma kavuştuğu çağda, iş ve yaşam arasındaki dengeyi de yeniden düşünmemiz gerekiyor. Bu konudaki en güncel trend ise iş ve yaşam entegrasyonu olarak öne çıkıyor. Bu yazıda iş-yaşam entegrasyonunun tanımına, iş-yaşam dengesiyle farklarına ve bu uyumu yakalayabilmek için yapılması gerekenlere değineceğiz. ',
+            'text' => "
+                <br>
+                <blockquote cite=''
+                style=' ' >
+                9-5 mesailerin yeni bir forma kavuştuğu çağda, iş ve yaşam arasındaki dengeyi de yeniden düşünmemiz gerekiyor. Bu konudaki en güncel trend ise iş ve yaşam entegrasyonu olarak öne çıkıyor. Bu yazıda iş-yaşam entegrasyonunun tanımına, iş-yaşam dengesiyle farklarına ve bu uyumu yakalayabilmek için yapılması gerekenlere değineceğiz. 
+                </blockquote>
+                
+                <p>
+                Diyelim ki bankada bir işiniz var, mesai saatleri içinde oraya uğramanız gerekiyor fakat işten çıkamıyorsunuz. Veya sevdiğiniz biri hastalandı, onun yanında olmak istiyorsunuz fakat o saatlerde çalışıyorsunuz. Örneğin çocuğunuzun veli toplantısı var fakat tam zamanlı olarak ofiste bulunmanız bekleniyor ve izin almak istemiyorsunuz. Evet, bunlar, uzun yıllar boyunca 9-5 mesaili çalışanların yaşadığı problemler arasındaydı. Bu çalışma düzeni verimli, üretken, sağlıklı ve sosyal bir hayat yaşamanın bir gereği olarak iş ve yaşam dengesinin vurgulandığı bir dönemdi. Sonra işler değişti, ofiste bulunmak birçok işletme tarafından zorunlu tutulmamaya başladı ve çalışanlar uzaktan çalışabilme olanağına kavuştu. Çalışma yaşantısını kökten değiştiren bu trend, pandemiyle birlikte yeni bir boyut kazandı, profesyonel sorumluluklar ve sosyal gereksinimler arasında denge kurmanın yollarını da değiştirdi.
+                <br>
+                
+                <p>
+                Kurum içi iletişim, insan kaynakları, bilgi yönetimi ve kurumsal kaynak yönetimi süreçleri için teknoloji çözümleri geliştiren Weoll olarak bu yazımızda, iş ve yaşam dengesi kavramının bir sonraki adımı olarak tanımlanan iş ve yaşam entegrasyonu kavramına odaklanacağız. Hazırsanız, başlayalım.
+                </p>
+                <br>
+                
+                <h2>
+                İş ve yaşam entegrasyonu nedir? 
+                </h2>
+                
+                <p>
+                İş ve yaşam entegrasyonu, kişisel ve profesyonel yükümlülüklerin dengelenmesinin yeni yoludur. Bildiğimiz anlamıyla iki tarafın sorumlulukları arasında uzlaşmaz bir çatışma oluşturan iş-yaşam dengesinin güncel bir formunu sunan iş ve yaşam entegrasyonu, her iki kavramı da birbirlerine fayda sağlayacak biçimde bir araya getirmeyi amaçlar. Çalışanlar, iş ve yaşam entegrasyonunu sağlarken profesyonel yükümlülüklerine ve kişisel hayatlarına uygun, ortak bir zaman çizelgesini takip eder. Bu sayede hiçbir alan eksik kalmaz ve iş-hayat entegrasyonu bireylere hayatın tüm yönlerinde sinerjiyi artırmanın yolunu sunar. 
+                </p>
+                <br>
+                
+                <h2>
+                İş ve yaşam entegrasyonunun iş ve yaşam dengesinden farkları nelerdir? 
+                </h2>
+                
+                <p>
+                Entegrasyon ve denge, temelde ortak bir noktaya odaklanıyor: Kişisel ve profesyonel sorumluluklar arasında bir denge ve düzen sağlamak. Fakat bu iki kavram arasındaki temel fark, bu dengenin sağlanış biçiminde yatıyor. Profesyoneller, bugüne dek çalışma zamanını ve kişisel zamanı birbirinden kesin çizgilerle ayırmayı seçiyor, mesai sonrası işleriyle ilgilenmemeyi iş ve yaşam dengesini sağlamak olarak yorumluyordu. Bugün ise entegrasyon, her iki zaman dilimini kendileri için en iyi biçimde tasarlamalarına olanak tanıyor. Her iki yükümlülük alanının bir karışımını ortaya çıkarmayı esas alan iş ve yaşam entegrasyonu, çalışanların zaman yönetimini tamamen kendi kendilerine belirlemesi için olanak tanıyor.
+                </p>
+                <br>
+                
+                <p>
+                Zira bugünün iş dünyası bu esnekliği sunmaya hazır bir ortam vaat ediyor. Çok uluslu şirketlerde çalışanlar, farklı saat dilimlerinde çalışırken eski düzende kişisel saatlere denk gelecek zamanlarda işle ilgilenmek durumunda kalabiliyor. Öte yandan uzaktan çalışma, gün içinde, mesai saatleri sırasında dışarı çıkıp kişisel işleri tamamlamak için uygun bir zemin sunuyor. İş planını doğru yapan disiplinli çalışanlar, iş ve yaşamı keskin çizgilerle ayırmadan da hiçbir sorumluluklarından ve gereksinimlerinden ödün vermemeyi başarıyor. 
+                </p>
+                <br>
+                
+                <p>
+                UC Berkeley Haas İşletme Okulu İnsan Kaynakları ve Yönetim Dekan Yardımcısı Michelle <a href='https://www.atlassian.com/blog/productivity/work-life-integration' target='_blank'>Marquez,</a> bu konuyla ilgili “İş-yaşam entegrasyonu, bireylerin büyük resme ve tüm bu bileşenlerin sinerji etkileşimine bakmasını sağlayan bir yaklaşım” ifadelerini kullanıyor. “Eşit bir şekilde dağıtılması gereken iş ve yaşam unsurlarının birbirleriyle rekabet ettiği duygusu, entegrasyonda ortadan kalkıyor.” Zira iş ve yaşam entegrasyonu, iki kavramın kusursuz harmonisini amaçlıyor.
+                </p>
+                <br>
+
+                <h2>
+                İş ve yaşam entegrasyonunun faydaları
+                </h2>
+                
+                <p>
+                İşyerinizde mutlaka hem işinde iyi performans gösteren, hem de sosyal hayatıyla öne çıkan arkadaşlarınız olmuştur. Hayatımızın iki yönünü oluşturan bu kavramlar arasında kurulacak uyum, doğrudan performansımıza, yaşam doyumumuza, ruh sağlığımıza ve hatta fiziksel sağlığımıza etki ediyor. İş ve yaşam entegrasyonunu sağlayabilen kişiler, aşağıdaki kazanımları elde ediyor:
+                </p>
+                <br>
+
+               
+                <ul>
+                <li>İşi ve yaşamı aynı potada eritmek, herhangi birinden ödün vermeden hayatın tüm yönlerine eşit zaman ve dikkat ayırmaya yarıyor.</li><br>
+                <li>İki büyük olgu arasında kesin bir çizgi çekmeyi öngören ve bugünün çalışma koşullarında pek de olanaklı olmayan önceki versiyonuna göre daha gerçek ve pratik bir yaklaşım sunuyor.</li><br>
+                <li>İş ve yaşam entegrasyonu sayesinde bireyler iki boyuta da aynı anda yanıt verebiliyor. Örneğin evden çalışarak hem aileleriyle aynı ortamda vakit geçirmiş oluyor, hem de işlerinden uzak kalmıyor. </li><br>
+                <li>Dengenin bozulması ruh halini etkilemiyor. Örneğin ofiste çalışan bir kişi, kabul edilmiş mesai saatleri sonrasında gerçekleştirilecek iş için ofis binası içinde bulunmak zorunda kalmıyor. Bilgisayarını ve diğer iş ekipmanlarını eve veya olmak istediği yere götürerek kısa bir zaman daha ayırıp o günün işini o an stres seviyesi artmadan tamamlayabiliyor. </li><br>
+                <li>İş ve yaşam entegrasyonu, bireylere bir önceliklendirme sorumluluğu da kazandırıyor. Hangi işin ve sorumluluğun daha öncelikli olduğuna karar veren bireyler, bir sonraki adıma ulaşmak için daha motive çalışıyor. Bu sayede bir günün 8-9 saatini çalışmaya ayırırken doğru zaman yönetimiyle o saatler arasında örneğin ev işleri de tamamlanabiliyor. Böylece sosyal aktivitelere daha çok zaman kalması bile oldukça doğal hale geliyor. </li>
+                </ul>
+                <br>
+
+                <h2>
+                İş - yaşam entegrasyonu nasıl sağlanır? 
+                </h2>
+                
+                <p>
+                Hayattaki tüm büyük kararlarda olduğu gibi bu yeni çalışma ve yaşama dengesi seçiminde de bireylerin öncelikle kendilerini tanımaları ve entegrasyonun en doğru biçiminin ne olduğuna karar vermeleri gerekiyor. Bu noktada yapılması gerekenler şöyle sıralanıyor:
+                </p>
+                <br>
+
+                <ul>
+                <li>İş-yaşam entegrasyonunun sizin için ne anlama geldiğini bilin. Hangi noktalarda problem yaşadığınızı ve bu düzenle ne hedeflediğinizi keşfedin. Hedeflerinizi belirledikten sonra işvereninizle görüşmeniz gerekiyorsa, yalnızca talep ve şikayetlerle değil, öneri ve çözümlerle gidin.</li><br>
+                <li>Denemeye istekli olun. Bu dengeyi bir gecede, tek bir değişiklikle kuramayacağınızı bilin. Deneme-yanılma yapmaktan çekinmeyin. İlk süreçte yapacaklarınız için farklı zaman dilimleri seçin. Örneğin bir hafta spor salonuna sabahları, bir hafta akşamları gidin. Akşam yiyeceğiniz yemeği gün içinde, çalışma zamanınızın bir kısmını ayırarak yapmayı deneyin.</li><br>
+                <li>akış açınızı değiştirin. Belirli bir rutine sahip olmak iş-yaşam dengesine ait bir özellik olsa da önemli olan şeyleri önceliklendirmeyi rutine dönüştürün. Her şeyi bir güne sığdırmaya değil, programınızı esnek tutmaya odaklanın.</li><br>
+                <li>Suçluluk duymayın. İşinizi ve kişisel yaşamınızı bütünleştirmek istiyorsanız, suçluluk duygusunu bir kenara atmanız gerekir. Bunu talep etmeniz sizi kötü bir çalışan yapmaz, başarısızlık anlamına gelmez. Aksine en yüksek verimi ve motivasyonu elde etmenizi amaçlar. Üretkenliğinizi bu şekilde koruduğunuzun, bağlılığınızı bu şekilde sağladığınızın farkına varın.</li>
+                </ul>
+                <br>
+
+                <h2>
+                İşverenler, iş-yaşam entegrasyonunu teşvik etmek için neler yapabilir?
+                </h2>
+                
+                <p>
+                Elbette bu durum yalnızca çalışan tercihlerine göre şekillenmiyor. İşletmelerin buna uygun, esnek bir çalışma modeli uygulaması ve çalışanlarına güvenmesi gerekiyor. Ortak çalışma saatlerinin, rutin toplantıların belirlenmesinden sonra esnek bir model sunabilen ve çalışanlarının işlerini zamanında bitireceğinden emin olan işletmelerin, çalışan mutluluğunun müşteri memnuniyeti ve iş başarısı olarak geri döndüğünün farkına vararak esnek modellere sıcak yaklaşması gerekiyor. 
+                </p>
+                <br>
+                
+                <p>
+                Şirket içinde tüm departmanlar arasında böyle bir düzende uyumu sağlamak için teknolojinin olanaklarından da yararlanılabiliyor. Weoll, tam da bu noktada devreye giriyor. Yeni nesil dijital uygulamalarla iş ve iletişim süreçlerini güçlendirerek kurumlara değer katmak ve çalışan bağlılığı ile verimliliğini artırmak odağında çözümler geliştiren Weoll, kurum içi iletişim ve süreç yönetimi platformuyla tüm organizasyon tek bir dijital çatıda bir araya gelmesini olanaklı kılıyor. 
+                </p>
+                <br>
+                
+                <p>
+                Weoll platformu, <a href='https://weoll.com/cozum/insan-kaynaklari-surecleri' target='_blank'>insan kaynakları,</a> <a href='https://weoll.com/cozum/kurum-ici-iletisim-surecleri' target='_blank'>kurum içi iletişim,</a> <a href='https://weoll.com/cozum/bilgi-yonetimi-surecleri' target='_blank'>bilgi yönetimi</a> ve <a href='https://weoll.com/cozum/kurumsal-kaynak-yonetimi-surecleri' target='_blank'>kurumsal kaynak yönetimi</a> süreçleri için oldukça özelleştirilebilir ve ölçeklenebilir bir yapı sunuyor. <a href='https://weoll.com/entegrasyon/google-workspace' target='_blank'>Google Workplace</a> ve <a href='https://weoll.com/entegrasyon/office-365' target='_blank'>Office 365</a> gibi en yaygın iş çözüm ailesiyle entegre çalışabilen Weoll, bir işletmenin güçlü insan kaynakları, etkin iletişim ağı, esnek organizasyon yapısı ve verimlilik için ihtiyaç duyduğu tüm çözümleri sunuyor. Şirketler, Weoll sayesinde şu olanaklara kavuşabiliyor:
+                </p>
+                <br>
+
+                <ul>
+                <li>Şirkete ve kurum kültürüne dair tüm bilgilerin tek bir platformda toplanması</li><br>
+                <li>Çalışanlara özel kampanyalar, yan haklar, izin, avans ve bordro yönetimi modülleri</li><br>
+                <li>Kurum içi iletişim için blog ve sosyal medya çözümleri</li><br>
+                <li>Kutlama kültürünü yaygınlaştıracak araçlar</li><br>
+                <li>Düzenli geribildirim toplayarak çalışan deneyimini iyileştirme</li><br>
+                <li>Kurum içi girişimciliği teşvik edecek fikir paylaşım ve tartışma ortamı</li><br>
+                <li>Otomobil, toplantı odası gibi şirket kaynaklarının etkin ve verimli kullanımı</li><br>
+                <li>Çalışan etkileşimi araçlarıyla sürekli bağlı departmanlar</li><br>
+                <li>Duyuru ve ilan için özel çözümler</li><br>
+                <li>Kodsuz altyapıyla özelleştirilebilen formlar, sihirbaz ve editörler</li><br>
+                <li>Görev yönetimi için kolaylaştırıcı altyapı</li>
+                </ul>
+                
+                <p>
+                Tamamen bulutta çalışan, bu sayede donanım gerektirmeden dakikalar içinde kuruluşa özel hale getirilebilen ve kullanıma açılan Weoll perakende ve dijital odaklı sektörlerin yanı sıra holding gibi çatı yapılara da uygulanabiliyor. Weoll olanaklarını ayrıntılı keşfetmek için <a href='https://weoll.com/weollu-kesfet' target='_blank'>bu bağlantıyı</a> ziyaret edebilirsiniz.
+                </p>
+                <br>
+                
+                "
+        ],
 
 
     ]
