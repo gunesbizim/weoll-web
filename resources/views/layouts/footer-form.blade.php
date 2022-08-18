@@ -83,6 +83,7 @@
 <div class="spacer-80"></div>
 
 @section('custom-script')
+    <script></script>
     <script src="https://www.google.com/recaptcha/api.js"></script>
     <script>
         function timestamp() {
