@@ -26,7 +26,7 @@ return [
                 <br>
                 
                 <p>
-                <a href='https://weoll.com'>Weoll</a> olarak kurum kültürünün ne olduğuna, nasıl oluşturulduğuna, neden önemli olduğuna değindiğimiz ve teknolojinin güçlü bir kurum kültürü inşasına ne gibi katkılar sunabileceğinin özetleneceği bu yazımıza, oldukça temel bir soruyla başlayalım: “Kurum kültürü nedir?”
+                <a href='https://weoll.com' target='_blank'>Weoll</a> olarak kurum kültürünün ne olduğuna, nasıl oluşturulduğuna, neden önemli olduğuna değindiğimiz ve teknolojinin güçlü bir kurum kültürü inşasına ne gibi katkılar sunabileceğinin özetleneceği bu yazımıza, oldukça temel bir soruyla başlayalım: “Kurum kültürü nedir?”
                 </p>
                 <br>
                 
@@ -433,7 +433,98 @@ return [
                 <ul>
                <li>Beklentileri belirleyin: Dijital dönüşüm yolculuğunun ilk adımı, beklentileri belirlemekten geçiyor. Dijital dönüşümün yalnızca teknolojiyi iş süreçlerine dahil etmek değil, kültürel bir dönüşüm olduğunu fark etmek ve beklentileri, faydaları tüm şirket çalışanlarına açıklamak gerekiyor. Buradan sonraki aşamada ise yöneticilerin çalışanları, değişikliklerin operasyonlarına nasıl etki ettiğini konuşmaları, bu konuda görüşlerini belirtmeleri için iletişim kurmaya teşvik etmesi öneriliyor. Weoll olarak geliştirdiğimiz <a href=‘https://weoll.com/cozum/kurum-ici-iletisim-surecleri‘ target=‘_blank’>Kurum İçi iletişim Süreçleri,</a> şirketinizin dinamik iletişim döngüsüne çevik şekilde yanıt vererek duyuru yönetimi, anket ve geribildirim araçlarının yanı sıra, çalışanların fikirlerini beyan edebileceği 'Bir Fikrim Var' isimli bir modül de sunuyor.<li><br>
                <li>Bir iletişim planı hazırlayın: Tüm çalışanları değişimin bir parçası haline getirmek için açık kanallar aracılığıyla tartışmayı teşvik etmek önem kazanıyor. Süreçle ilgili soruları olan çalışanlara yanıt vermek için, yöneticilerin de bu kanallarda bulunması ve olası soru senaryolarına hazır olduklarından emin olmaları gerekiyor.</li><br>
-               <li>Değişim fikrini yaygınlaştırın: Weoll olarak geliştirdiğimiz <a href=‘https://weoll.com/cozum/insan-kaynaklari-surecleri ' target=‘_blank’> İnsan Kaynakları Çözümleri</a> ve <a href=‘https://weoll.com/cozum/bilgi-yonetimi-surecleri ' target=‘_blank’> Bilgi Yönetim Çözümleri,</a> çalışanların işe girdikleri andan itibaren tüm sorularının yanıtlarına ve tüm ihtiyaçlarına tek noktadan erişebilmelerini mümkün kılıyor. Bu sayede değişim fikrinin yaygınlaşması hızlanıyor.</li><br>
+               <li>Değişim fikrini yaygınlaştırın: Weoll olarak geliştirdiğimiz <a href=‘https://weoll.com/cozum/insan-kaynaklari-surecleri' target=‘_blank’> İnsan Kaynakları Çözümleri</a> ve <a href=‘https://weoll.com/cozum/bilgi-yonetimi-surecleri ' target=‘_blank’> Bilgi Yönetim Çözümleri,</a> çalışanların işe girdikleri andan itibaren tüm sorularının yanıtlarına ve tüm ihtiyaçlarına tek noktadan erişebilmelerini mümkün kılıyor. Bu sayede değişim fikrinin yaygınlaşması hızlanıyor.</li><br>
+               </ul>
+                
+                <p>
+                Ortak şirket amaçlarına, güçlü bir kurum kültürünü paylaşan çalışanlarla yürümek, sürdürülebilir büyümeyi, kârlılığı ve iş başarısını beraberinde getiriyor. Bu noktada işletmelerin kültürü destekleyecek dijital çözümlere yatırım yapması, dijital çağda güçlü bir kurum kültürünün olmazsa olmazlarından birine dönüşüyor. Dijitalleşme kurum kültürünü, kurum kültürü de dijital dönüşümü destekliyor, iş süreçlerine dijitali adapte eden şirketler, verimlilik, çeviklik ve ortak değerlerin kurumsal kültüre yansımasını da hemen gözlemlemeye başlıyor.
+                </p>
+                <br>
+                
+                
+                <p>
+                Weoll olarak işletmelerin bir kurum içi partneri olarak konumlanıyor, verimliliğe, çevikliği ve en sonunda başarıya giden süreçte yol arkadaşları oluyoruz. Bizi yakından tanımak için <a href=‘https://weoll.com/ ' target=‘_blank’> bu bağlantıyı</a> kullanabilirsiniz. 
+                </p>
+                <br>
+                  
+                "
+        ],
+
+         "dijitallesme-ve-kurum-kulturu" => [
+            'title' => 'Madalyonun iki yüzü: Dijitalleşme ve kurum kültürü',
+            'metadesc' => 'Weoll olarak bu yazıda dijitalleşmenin kurum kültürüne etkisine ve güçlü bir kurum kültürünün dijitalleşmeyi nasıl hızlandırdığına odaklanıyoruz.',
+            'h1' => 'Madalyonun iki yüzü: Dijitalleşme ve kurum kültürü',
+            'img' => 'dijital-kurum-kulturu.png',
+            'imgAlt' => 'Madalyonun iki yüzü: Dijitalleşme ve kurum kültürü',
+            'date' => '03.08.2022',
+            'articleSection' => "Technology",
+            'author' => '', //Author name
+            'description' => 'Dijital dönüşüm, rekabetin arttığı her sektörde başarının anahtarı olarak konumlanıyor. Öte yandan dijital çağda, bir şirkette teknolojilerin benimsenmesi için yeniliğe açık ve yaratıcılığı teşvik eden bir kurum kültürüne ihtiyaç duyuluyor.             ',
+            'text' => "
+                <br>
+                <blockquote cite=''
+                style=' ' >
+                Dijital dönüşüm, rekabetin arttığı her sektörde başarının anahtarı olarak konumlanıyor. Öte yandan dijital çağda, bir şirkette teknolojilerin benimsenmesi için yeniliğe açık ve yaratıcılığı teşvik eden bir kurum kültürüne ihtiyaç duyuluyor. 
+                </blockquote>
+                
+                <p>
+                Dijital dönüşüm, dünyanın dört bir yanındaki birçok şirket için öncelikli gündemlerden birine dönüşürken, birçok lider, yeni teknolojileri çalışma ortamlarına uygulamanın yollarını arıyor. Dijital çağda, iş süreçlerini iyileştirecek teknoloji odaklı çözümleri başarıyla uygulamak isteyen şirketlerin, yeniliği ve yaratıcılığı teşvik eden kurum kültürlerine sahip olması gerekiyor. Teknoloji çözümleri iş pratiklerini kolaylaştırarak, işbirliğini artırarak ve kurum içi iletişimi destekleyerek güçlü bir kurum kültürü oluşturmaya zemin hazırlarken, pozitif ve özgür bir kurum kültürüne sahip olan şirketlerin dijital dönüşüm projelerinde başarıya ulaşma olasılığı da artıyor. 
+                </p>
+                <br>
+                
+                <p>
+                Kurum içi iletişim ve süreç yönetimi odağında geliştirdiğimiz teknoloji çözümleriyle işletmelerin dijital dönüşüm ve yeni çalışma düzenine uyum sağlama süreçlerinde ihtiyaç duydukları tüm iletişim araçlarını tek platformda bir araya getiren <a href=‘https://weoll.com/’ target=‘_blank’>Weoll</a> olarak, bu yazıda dijitalleşme ve kurum kültürünün ilişkisini ele alacağız. 
+                </p>
+                <br>
+                
+                <h2>
+                Dijitalleşme, kurum kültürünü nasıl güçlendiriyor?
+                </h2>
+                
+                <p>
+                Kuruluş genelinde yürütülecek dijital dönüşüm süreçlerine insan kaynakları (İK), kurum içi iletişim ve süreç yönetimi dönüşümünde başlamak güçlü kurum kültürünün ilk adımlarını atmak anlamına geliyor. <a href=‘https://www.humanresourcesonline.net/hr-leaders-open-towards-digitalisation-but-adoption-is-sluggish-due-to-company-and-own-limitations‘ target=‘_blank’>Endüstri İçgörüleri: İnsan Kaynakları</a> başlıklı raporda, 10 İK yöneticisinden 9'u kendi departmanlarındaki süreçleri dijitalleştirmeyi iş hedeflerine ulaşmak için bir ihtiyaç olarak görüyor.
+                </p>
+                <br>
+                
+                
+                <p>
+                İç iletişimi iyileştirmek için ortak bir dijital platform kullanmak, dijital çağda güçlü bir kurum kültürü oluşturmanın ilk adımı olarak konumlanıyor. Kurum içi iletişim ve süreç yönetimi için teknoloji çözümleri kullanan şirketler, geribildirim sistemleri ve anketler sayesinde şirketin gittiği yöne dair kararları da tüm çalışanların katkısıyla alabiliyor. Bu sayede kararların uygulamaya konması konusunda da dirençle karşılaşılmıyor.
+                </p>
+                <br>
+                
+                
+                <p>
+                Weoll olarak, şirketlerin çalışan bağlılığını ve motivasyonunu yüksek tutabilmeleri için özgün uygulamalar geliştiriyoruz. İşe alım sonrası insan kaynakları süreçlerini, kurum içi iletişimi, bilgi yönetimini ve kurumsal kaynak yönetimini verimli ve çevik hale getirmeyi amaçlayan <a href=‘https://weoll.com/weollu-kesfet’ target=‘_blank’>çözümlerimizle</a> perakende ve üretim sektörleri başta olmak üzere her ölçekte şirketin ihtiyaçlarına yanıt veriyoruz. 
+                </p>
+                <br>
+                
+                <h2>
+                Güçlü kurum kültürü, dijitalleşmeyi nasıl hızlandırıyor?
+                </h2>
+                
+                <p>
+                Dijitalleşmenin bir seçenek olmaktan çıkıp zorunluluğa dönüştüğü dönemlerden geçen iş dünyası için teknoloji çözümlerini tüm iş fonksiyonlarında kullanmak öncelikli amaçlardan biri haline geliyor. Finans, kurumsal kaynak planlama, müşteri ilişkileri yönetimi ve tedarik zinciri yönetimi gibi departmanlar başta olmak üzere, birçok alanda teknoloji odağında geliştirilen, süreçleri tek platformda toplayarak verimli hale getirmeyi hedefleyen çözümler kullanılıyor. İnsan kaynakları, kurum içi iletişim ve süreç yönetimi gibi iş alanları da dijital dönüşümün uygulandığı iş fonksiyonları arasında konumlanıyor. 
+                </p>
+                <br>
+                
+                <p>
+                Eğer bir şirket daha tutucu, yeniliklere ve değişime kapalı, çalışanların fikirlerini özgürce tartışamadığı, geribildirim akışlarının düzenli olarak sağlanamadığı bir kültüre sahipse, dijital teknolojilerin iş süreçlerine tam anlamıyla uygulanmasında aksaklıklarla karşılaşıyor. Aksine, şirketler, özgür düşünceyi savunan, hiyerarşiyi bir baskı aracı olarak kullanmayan, geribildirimi gelişme ve iyileşmenin vazgeçilmezi olarak gören, çalışanların iletişime açık olduğu bir kültüre sahipse, dijital dönüşüm gibi değişimlerin kök salması hızlanıyor. 
+                </p>
+                <br>
+
+                <h2>
+                Şirketler dijital dönüşümün öncüsü olacak bir kurum kültürü için ne yapabilir? 
+                </h2>
+                
+                <p>
+                Weoll olarak dijital dönüşümün kurum kültürünü, kurum kültürünün de dijital dönüşümü beslemesi için aşağıdaki maddeleri uygulamanızı öneriyoruz: 
+                </p>
+                <br>
+                
+                <ul>
+               <li>Beklentileri belirleyin: Dijital dönüşüm yolculuğunun ilk adımı, beklentileri belirlemekten geçiyor. Dijital dönüşümün yalnızca teknolojiyi iş süreçlerine dahil etmek değil, kültürel bir dönüşüm olduğunu fark etmek ve beklentileri, faydaları tüm şirket çalışanlarına açıklamak gerekiyor. Buradan sonraki aşamada ise yöneticilerin çalışanları, değişikliklerin operasyonlarına nasıl etki ettiğini konuşmaları, bu konuda görüşlerini belirtmeleri için iletişim kurmaya teşvik etmesi öneriliyor. Weoll olarak geliştirdiğimiz <a href=‘https://weoll.com/cozum/kurum-ici-iletisim-surecleri‘ target=‘_blank’>Kurum İçi iletişim Süreçleri,</a> şirketinizin dinamik iletişim döngüsüne çevik şekilde yanıt vererek duyuru yönetimi, anket ve geribildirim araçlarının yanı sıra, çalışanların fikirlerini beyan edebileceği 'Bir Fikrim Var' isimli bir modül de sunuyor.<li><br>
+               <li>Bir iletişim planı hazırlayın: Tüm çalışanları değişimin bir parçası haline getirmek için açık kanallar aracılığıyla tartışmayı teşvik etmek önem kazanıyor. Süreçle ilgili soruları olan çalışanlara yanıt vermek için, yöneticilerin de bu kanallarda bulunması ve olası soru senaryolarına hazır olduklarından emin olmaları gerekiyor.</li><br>
+               <li>Değişim fikrini yaygınlaştırın: Weoll olarak geliştirdiğimiz <a href=‘https://weoll.com/cozum/insan-kaynaklari-surecleri' target=‘_blank’> İnsan Kaynakları Çözümleri</a> ve <a href=‘https://weoll.com/cozum/bilgi-yonetimi-surecleri ' target=‘_blank’> Bilgi Yönetim Çözümleri,</a> çalışanların işe girdikleri andan itibaren tüm sorularının yanıtlarına ve tüm ihtiyaçlarına tek noktadan erişebilmelerini mümkün kılıyor. Bu sayede değişim fikrinin yaygınlaşması hızlanıyor.</li><br>
                </ul>
                 
                 <p>
