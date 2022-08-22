@@ -1224,6 +1224,7 @@ h2.purple {
     border: 1px solid var(--lightGray);
     border-radius: 8px;
     margin: 8px;
+    min-height: 410px;
 }
 
 .blog-card .card-body {
